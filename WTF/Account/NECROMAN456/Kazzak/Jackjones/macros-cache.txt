@@ -1,0 +1,80 @@
+VER 3 0100000000000003 "al" "132133"
+#showtooltip dire frenzy
+/cast bestial wrath
+/cast aspect of the wild
+/cast dire frenzy
+END
+VER 3 0100000000000004 "all1" "461114"
+#showtooltip Cobra Shot
+/cast bestial wrath
+/cast aspect of the wild
+/cast berserking
+/petattack
+/cast Cobra Shot
+END
+VER 3 0100000000000005 "all3" "132330"
+#showtooltip Multi-Shot
+/cast bestial wrath
+/cast aspect of the wild
+/cast berserking
+/petattack
+/cast Multi-Shot
+END
+VER 3 010000000000000B "all4" "1280945"
+#showtooltip titan's thunder
+/cast bestial wrath
+/cast aspect of the wild
+/cast berserking
+/petattack
+/cast titan's thunder
+END
+VER 3 010000000000000A "dire beast" "236186"
+#showtooltip dire beast
+/cast bestial wrath
+/cast aspect of the wild
+/cast berserking
+/petattack
+/cast dire beast
+END
+VER 3 0100000000000002 "focus" "132180"
+#showtooltip Misdirection
+/use [@focus,exists,nodead][]missdirection
+END
+VER 3 0100000000000001 "mend" "132176"
+#showtooltip kill command
+/cast bestial wrath
+/cast aspect of the wild
+/cast berserking
+/petattack
+/cast kill command
+END
+VER 3 0100000000000006 "true1" "1376043"
+#showtooltip marked shot
+/cast trueshot
+/cast berserking
+/cast marked shot
+END
+VER 3 0100000000000007 "true2" "135130"
+#showtooltip aimed shot
+/cast trueshot
+/cast berserking
+/cast aimed shot
+END
+VER 3 0100000000000008 "true3" "132218"
+#showtooltip arcane shot
+/cast trueshot
+/cast berserking
+/cast arcane shot
+END
+VER 3 0100000000000009 "true4" "132330"
+#showtooltip multi-shot
+/cast trueshot
+/cast berserking
+/cast multi-shot
+END
+VER 3 010000000000000C "VuhDoDCShieldData" "Ability_Repair"
+P[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1HR[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]0__
+END
+VER 3 010000000000000D "VuhDoDCShieldNames" "Ability_Repair"
+N[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Jac[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Nei
+END

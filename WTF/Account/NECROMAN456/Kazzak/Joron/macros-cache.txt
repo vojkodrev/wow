@@ -1,0 +1,73 @@
+VER 3 010000000000000E "barkskin mouse" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [target=mouseover]ironbark
+END
+VER 3 0100000000000014 "bash mouse" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover, harm, nodead][@target]mighty bash
+END
+VER 3 0100000000000009 "cure mouse" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [target=mouseover]nature's cure
+END
+VER 3 0100000000000008 "healing touch mo" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [target=mouseover]healing touch
+END
+VER 3 010000000000000D "innervate mouse" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [target=mouseover]innervate
+END
+VER 3 0100000000000003 "lifebloom mouse" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [target=mouseover]lifebloom
+END
+VER 3 0100000000000013 "mangle mouse" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover, harm, nodead][@target]mangle
+END
+VER 3 0100000000000012 "monnfire mouse" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover, harm, nodead][@target]moonfire
+END
+VER 3 010000000000000B "rebirth mouse" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [target=mouseover]rebirth
+END
+VER 3 0100000000000005 "regrowth mouse" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [target=mouseover]regrowth
+END
+VER 3 0100000000000004 "rejuv mouse" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [target=mouseover]rejuvenation
+END
+VER 3 010000000000000C "remove mouse" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [target=mouseover]remove corruption
+END
+VER 3 010000000000000F "skull mouse" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover, harm, nodead][@target]skull bash
+END
+VER 3 0100000000000007 "swiftmend mouse" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [target=mouseover]swiftmend
+END
+VER 3 0100000000000010 "taunt mouse" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover, harm, nodead][@target]growl
+END
+VER 3 0100000000000011 "trash fur" "INV_MISC_QUESTIONMARK"
+#showtooltip thrash
+/cast ironfur
+/cast thrash
+END
+VER 3 0100000000000006 "ward mouse" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [target=mouseover]cenarion ward
+END
+VER 3 010000000000000A "wild mouse" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [target=mouseover]wild growth
+END

@@ -1,0 +1,79 @@
+VER 3 0100000000000014 "avenger mouse" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover][]Avenger's Shield
+END
+VER 3 0100000000000008 "bestow mouse" "INV_MISC_QUESTIONMARK"
+#showtooltip bestow faith
+/use [@mouseover,help,nodead][help,nodead][@player] bestow faith 
+END
+VER 3 010000000000000E "cleanse mouse" "INV_MISC_QUESTIONMARK"
+#showtooltip cleanse
+/use [@mouseover,help,nodead][help,nodead][@player] cleanse
+END
+VER 3 0100000000000013 "cleanse toxins" "INV_MISC_QUESTIONMARK"
+#showtooltip cleanse toxins
+/use [@mouseover,help,nodead][help,nodead][@player] cleanse toxins
+END
+VER 3 0100000000000005 "cons" "135926"
+#showtooltip consecration
+/cast  consecration
+/cast shield of the righteous
+/cast light of the protector
+END
+VER 3 0100000000000009 "flash mouse" "135907"
+#showtooltip flash of light
+/use [@mouseover,help,nodead][help,nodead][@player] flash of light 
+END
+VER 3 010000000000000F "freedom mouse" "INV_MISC_QUESTIONMARK"
+#showtooltip blessing of freedom
+/use [@mouseover,help,nodead][help,nodead][@player] blessing of freedom
+END
+VER 3 0100000000000003 "hammer" "535595"
+#showtooltip blessed hammer
+/cast shield of the righteous
+/cast light of the protector
+/cast blessed hammer
+END
+VER 3 0100000000000015 "hammer of mouse" "INV_MISC_QUESTIONMARK"
+#showtooltip 
+/cast [@mouseover][]Hammer of Justice
+END
+VER 3 0100000000000006 "judge" "135959"
+#showtooltip 
+/cast [@mouseover][]Judgment
+END
+VER 3 010000000000000B "light of da mous" "INV_MISC_QUESTIONMARK"
+#showtooltip lay on hands
+/use [@mouseover,help,nodead][help,nodead][@player] lay on hands
+END
+VER 3 010000000000000A "light of the mou" "INV_MISC_QUESTIONMARK"
+#showtooltip light of the martyr
+/use [@mouseover,help,nodead][help,nodead][@player] light of the martyr
+END
+VER 3 0100000000000010 "protection mouse" "INV_MISC_QUESTIONMARK"
+#showtooltip blessing of protection
+/use [@mouseover,help,nodead][help,nodead][@player] blessing of protection
+END
+VER 3 0100000000000012 "protector mouse" "INV_MISC_QUESTIONMARK"
+#showtooltip hand of the protector
+/use avenging wrath
+/use [@mouseover,help,nodead][help,nodead][@player] hand of the protector
+END
+VER 3 0100000000000017 "rebuke mouse" "INV_MISC_QUESTIONMARK"
+#showtooltip 
+/cast [@mouseover][]Rebuke
+END
+VER 3 0100000000000011 "sacrifice mouse" "INV_MISC_QUESTIONMARK"
+#showtooltip blessing of sacrifice
+/use [@mouseover,help,nodead][help,nodead][@player] blessing of sacrifice
+END
+VER 3 0100000000000007 "shieldtrinket" "236265"
+#showtooltip shield of the righteous
+/use 13
+/use 14
+/cast shield of the righteous
+END
+VER 3 0100000000000016 "taunt mouse" "INV_MISC_QUESTIONMARK"
+#showtooltip 
+/cast [@mouseover][]Hand of Reckoning
+END

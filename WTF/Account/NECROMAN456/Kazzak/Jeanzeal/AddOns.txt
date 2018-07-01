@@ -1,0 +1,3 @@
+Grid: disabled
+Pawn: disabled
+FishingBuddy: disabled

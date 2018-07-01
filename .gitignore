@@ -1,0 +1,19 @@
+Cache/
+Data/
+Errors/
+Logs/
+Screenshots/
+Utils/
+Interface/
+
+.build.info
+BlizzardError.exe
+dbghelp.dll
+World\ of\ Warcraft\ Launcher.exe
+Wow.exe
+WoW.mfil
+Wow-64.exe
+.curseclient
+.patch.result
+.product.db
+Launcher.db

@@ -1,0 +1,30 @@
+VER 3 0100000000000004 "light mouse" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,harm][] Crackling Jade Lightning
+END
+VER 3 0100000000000007 "paralysis mouse" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,harm][] paralysis
+END
+VER 3 0100000000000003 "provoke mouse" "INV_MISC_QUESTIONMARK"
+#showtooltip provoke
+/use 13
+/use 14
+/cast [@mouseover,harm][] provoke
+END
+VER 3 0100000000000005 "spear mouse" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,harm][] spear hand strike
+END
+VER 3 0100000000000001 "VuhDoDCShieldData" "Ability_Repair"
+P[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1OT[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 0100000000000002 "VuhDoDCShieldNames" "Ability_Repair"
+N[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Jam[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 0100000000000006 "wind trinket" "INV_MISC_QUESTIONMARK"
+#showtooltip Rushing Jade Wind
+/use 13
+/use 14
+/cast Rushing Jade Wind
+END

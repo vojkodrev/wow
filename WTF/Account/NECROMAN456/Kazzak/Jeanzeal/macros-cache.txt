@@ -1,0 +1,33 @@
+VER 3 0100000000000004 "consume mouse" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover, harm, nodead][@target]consume magic
+END
+VER 3 0100000000000008 "imprison" "INV_MISC_QUESTIONMARK"
+#showtooltip imprison
+/stopattack
+/cast [@mouseover, harm, nodead][@target]imprison
+END
+VER 3 0100000000000006 "meta player" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@player]metamorphosis
+END
+VER 3 0100000000000003 "soul brand" "INV_MISC_QUESTIONMARK"
+#showtooltip Soul carver
+/use fiery brand
+/use Soul carver
+END
+VER 3 0100000000000007 "throw mouse" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover, harm, nodead][@target]throw glaive
+END
+VER 3 0100000000000005 "torment mouse" "INV_MISC_QUESTIONMARK"
+#showtooltip torment
+/use 14
+/cast [@mouseover, harm, nodead][@target]torment
+END
+VER 3 0100000000000001 "VuhDoDCShieldData" "Ability_Repair"
+P[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1NM[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 0100000000000002 "VuhDoDCShieldNames" "Ability_Repair"
+N[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Jea[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END

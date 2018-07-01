@@ -1,0 +1,59 @@
+VER 3 000000000000000B "imprison stop" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/stopattack
+/cast imprison
+END
+VER 3 0000000000000007 "jud+light" "Ability_Defend"
+/use Charm of Alacrity
+/use Terokkar Tablet of Precision
+/cast Judgement
+/stopcasting
+/cast Seal of Light
+END
+VER 3 0000000000000001 "jud+soc" "Spell_Holy_HolyNova"
+/use Terokkar Tablet of Precision
+/use Uniting Charm
+/cast Judgement
+/stopcasting
+/cast Seal of Command
+END
+VER 3 0000000000000006 "jud+ven" "Ability_Creature_Disease_03"
+/cast Judgement
+/stopcasting
+/cast Seal of Vengeance
+END
+VER 3 000000000000000C "pull" "1305152"
+/pull 5
+END
+VER 3 000000000000000D "ready" "1348401"
+/readycheck
+END
+VER 3 0000000000000004 "stopcasting" "Spell_Holy_SealOfSacrifice"
+/stopcasting
+END
+VER 3 0000000000000005 "stun" "Spell_Holy_GreaterBlessingofKings"
+/cast Repentance
+/cast Hammer of Justice
+END
+VER 3 0000000000000008 "tank" "Ability_Devour"
+/use Charm of Alacrity
+/use Terokkar Tablet of Precision
+/cast Judgement
+/stopcasting
+/cast Seal of Righteousness
+END
+VER 3 0000000000000003 "target" "Spell_Holy_HolyGuidance"
+/target asghar
+END
+VER 3 0000000000000009 "trhf" "Spell_Holy_FlashHeal"
+#showtooltip Flash of Light
+/use Bangle of Endless Blessings
+/use Vengeance of the Illidari
+/cast Flash of Light
+END
+VER 3 000000000000000A "trhs" "Spell_Holy_HolyBolt"
+#showtooltip Holy Light
+/use Bangle of Endless Blessings
+/use Vengeance of the Illidari
+/cast Holy Light
+END

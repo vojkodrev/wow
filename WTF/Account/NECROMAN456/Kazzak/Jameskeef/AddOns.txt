@@ -1,0 +1,9 @@
+RaiderIO_DB_US_H: disabled
+RaiderIO_DB_US_A: disabled
+RaiderIO_DB_TW_H: disabled
+RaiderIO_DB_TW_A: disabled
+RaiderIO_DB_KR_H: disabled
+RaiderIO_DB_KR_A: disabled
+Grid: disabled
+Pawn: disabled
+FishingBuddy: disabled
