@@ -1,6 +1,6 @@
 VER 3 0100000000000001 "charge mouse" "INV_MISC_QUESTIONMARK"
 #showtooltip 
-/cast [@mouseover, harm, nodead][@target] charge
+/cast [@mouseover, harm, nodead][@mouseover, help, nodead] [@target] charge
 END
 VER 3 0100000000000004 "pummel mouse" "INV_MISC_QUESTIONMARK"
 #showtooltip 
