@@ -1,4 +1,11 @@
 Version: 1
+Frame: ElvUI_ContainerFrame
+FrameLevel: 1
+Anchor: RIGHT
+X: -125
+Y: -146
+W: 406
+H: 344
 Frame: ColorPickerFrame
 FrameLevel: 1
 Anchor: CENTER
@@ -13,10 +20,3 @@ X: -141
 Y: -115
 W: 32
 H: 32
-Frame: ElvUI_ContainerFrame
-FrameLevel: 1
-Anchor: RIGHT
-X: -237
-Y: -58
-W: 406
-H: 308

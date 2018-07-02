@@ -16,8 +16,8 @@ ElvDB = {
 			["Stefanmoleyx"] = 1604,
 			["Joron"] = 348732493,
 			["Jeanzeal"] = 1501813306,
-			["Jameskeef"] = 17741016,
-			["Johnjames"] = 6663374,
+			["Jameskeef"] = 20165900,
+			["Johnjames"] = 6976622,
 		},
 	},
 	["namespaces"] = {
@@ -96,9 +96,9 @@ ElvDB = {
 				["ElvAB_6"] = "BOTTOMRIGHT,ElvUIParent,BOTTOMRIGHT,-488,330",
 				["TooltipMover"] = "BOTTOMRIGHT,ElvUIParent,BOTTOMRIGHT,-50,50",
 				["ElvUF_TankMover"] = "TOPLEFT,ElvUIParent,BOTTOMLEFT,50,995",
+				["ElvUF_PlayerMover"] = "BOTTOM,ElvUIParent,BOTTOM,-230,140",
 				["TotemBarMover"] = "BOTTOMLEFT,ElvUIParent,BOTTOMLEFT,463,50",
 				["ElvUF_PetMover"] = "BOTTOM,ElvUIParent,BOTTOM,0,200",
-				["ElvUF_PlayerMover"] = "BOTTOM,ElvUIParent,BOTTOM,-230,140",
 				["ElvUF_PartyMover"] = "TOPLEFT,ElvUIParent,BOTTOMLEFT,184,773",
 				["AlertFrameMover"] = "TOP,ElvUIParent,TOP,0,-50",
 				["ElvUF_TargetMover"] = "BOTTOM,ElvUIParent,BOTTOM,230,140",
@@ -433,13 +433,13 @@ ElvDB = {
 				},
 			},
 			["movers"] = {
+				["ElvUF_Raid40Mover"] = "TOPLEFT,ElvUIParent,BOTTOMLEFT,4,432",
 				["ElvUF_RaidpetMover"] = "TOPLEFT,ElvUIParent,BOTTOMLEFT,4,736",
-				["ElvUIBagMover"] = "BOTTOMRIGHT,ElvUIParent,BOTTOMRIGHT,-308,238",
 				["ShiftAB"] = "TOPLEFT,ElvUIParent,BOTTOMLEFT,4,1076",
 				["ElvUF_PartyMover"] = "BOTTOMLEFT,ElvUIParent,BOTTOMLEFT,4,195",
 				["ElvUF_RaidMover"] = "TOPLEFT,ElvUIParent,BOTTOMLEFT,4,427",
 				["ElvAB_2"] = "BOTTOM,ElvUIParent,BOTTOM,0,38",
-				["ElvUF_Raid40Mover"] = "TOPLEFT,ElvUIParent,BOTTOMLEFT,4,432",
+				["ElvUIBagMover"] = "BOTTOMRIGHT,ElvUIParent,BOTTOMRIGHT,-308,238",
 			},
 			["layoutSet"] = "tank",
 			["unitframe"] = {
@@ -541,18 +541,10 @@ ElvDB = {
 			},
 		},
 		["Default"] = {
-			["layoutSet"] = "tank",
-			["unitframe"] = {
-				["colors"] = {
-					["auraBarBuff"] = {
-						["r"] = 0,
-						["g"] = 1,
-						["b"] = 0.59,
-					},
-					["castClassColor"] = true,
-					["healthclass"] = true,
-				},
+			["nameplates"] = {
+				["clampToScreen"] = true,
 			},
+			["currentTutorial"] = 2,
 			["general"] = {
 				["valuecolor"] = {
 					["r"] = 0,
@@ -574,14 +566,22 @@ ElvDB = {
 				["ElvAB_2"] = "BOTTOM,ElvUIParent,BOTTOM,0,38",
 				["ElvUF_RaidpetMover"] = "TOPLEFT,ElvUIParent,BOTTOMLEFT,4,736",
 			},
-			["nameplates"] = {
-				["clampToScreen"] = true,
-			},
+			["layoutSet"] = "tank",
 			["actionbar"] = {
 				["macrotext"] = true,
 			},
 			["hideTutorial"] = true,
-			["currentTutorial"] = 2,
+			["unitframe"] = {
+				["colors"] = {
+					["auraBarBuff"] = {
+						["r"] = 0,
+						["g"] = 1,
+						["b"] = 0.59,
+					},
+					["castClassColor"] = true,
+					["healthclass"] = true,
+				},
+			},
 		},
 		["Jackjones - Kazzak"] = {
 			["currentTutorial"] = 2,

@@ -2017,5 +2017,93 @@ ElvCharacterDB = {
 			[51] = 1530458355,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [91]
+		{
+			"hello there", -- [1]
+			"Júbilee-Doomhammer", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Júbilee-Doomhammer", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			508, -- [11]
+			"Player-1402-06FBB345", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Júbilee-Doomhammer",
+			[51] = 1530467203,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [92]
+		{
+			"can we get the quest item please", -- [1]
+			"Krucifisk-TwistingNether", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Krucifisk-TwistingNether", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			617, -- [11]
+			"Player-3674-08A917CF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Krucifisk-TwistingNether",
+			[51] = 1530467691,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [93]
+		{
+			"|cffffff00Undercity is under attack!|r", -- [1]
+			"", -- [2]
+			"", -- [3]
+			"3. LocalDefense - Undercity", -- [4]
+			"", -- [5]
+			"", -- [6]
+			22, -- [7]
+			3, -- [8]
+			"LocalDefense - Undercity", -- [9]
+			0, -- [10]
+			913, -- [11]
+			false, -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "",
+			[51] = 1530468821,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [94]
+		{
+			"|cffffff00Undercity is under attack!|r", -- [1]
+			"", -- [2]
+			"", -- [3]
+			"3. LocalDefense - Undercity", -- [4]
+			"", -- [5]
+			"", -- [6]
+			22, -- [7]
+			3, -- [8]
+			"LocalDefense - Undercity", -- [9]
+			0, -- [10]
+			948, -- [11]
+			false, -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "",
+			[51] = 1530469006,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [95]
 	},
 }
