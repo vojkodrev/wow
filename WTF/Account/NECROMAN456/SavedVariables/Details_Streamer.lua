@@ -1,12 +1,12 @@
 
 Details_StreamerDB = {
 	["characters"] = {
-		["Johnjames - Kazzak"] = "Jameskeef - Kazzak",
-		["Joron - Kazzak"] = "Jameskeef - Kazzak",
 		["Jackjones - Kazzak"] = "Jameskeef - Kazzak",
+		["Joron - Kazzak"] = "Jameskeef - Kazzak",
+		["Johnjames - Kazzak"] = "Jameskeef - Kazzak",
 		["Johnesmark - Kazzak"] = "Jameskeef - Kazzak",
-		["Stefanmoleyx - Kazzak"] = "Jameskeef - Kazzak",
 		["Jameskeef - Kazzak"] = "Jameskeef - Kazzak",
+		["Stefanmoleyx - Kazzak"] = "Jameskeef - Kazzak",
 		["Jeanzeal - Kazzak"] = "Jameskeef - Kazzak",
 	},
 	["profiles"] = {
@@ -50,11 +50,7 @@ Details_StreamerDB = {
 			},
 			["author"] = "Details! Team",
 			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
-			["use_spark"] = true,
 			["y"] = 4.577636718750e-005,
-			["x"] = 0,
-			["font_face"] = "Friz Quadrata TT",
-			["font_size"] = 10,
 			["per_second"] = {
 				["enabled"] = false,
 				["point"] = "CENTER",
@@ -66,6 +62,10 @@ Details_StreamerDB = {
 				["update_speed"] = 0.05,
 				["attribute_type"] = 1,
 			},
+			["x"] = 0,
+			["font_face"] = "Friz Quadrata TT",
+			["use_spark"] = true,
+			["font_size"] = 10,
 			["row_color"] = {
 				0.1, -- [1]
 				0.1, -- [2]

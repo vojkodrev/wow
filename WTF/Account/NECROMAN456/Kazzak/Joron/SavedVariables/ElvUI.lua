@@ -1,1480 +1,28 @@
 
 ElvCharacterDB = {
 	["ChatEditHistory"] = {
-		"/p hey", -- [1]
-		"/s click click", -- [2]
-		"/cw Alixy-Kor'gall did you get the summon?", -- [3]
-		"/p we summoned you 3 times", -- [4]
-		"/p at least maybe you need to reload", -- [5]
-		"/s 2 people left", -- [6]
-		"/p idiots", -- [7]
-		"/who tyja", -- [8]
-		"/who healmaker", -- [9]
-		"/p oops", -- [10]
-		"/p wrong chat", -- [11]
-		"/p should we take 954 druid healer?", -- [12]
-		"/p mana?", -- [13]
-		"/p go or?", -- [14]
-		"/p remember to soak", -- [15]
-		"/p find purple circle on the purple floor and stand in it when that bolt flies around", -- [16]
-		"/p bb all hf", -- [17]
-		"/cw Jaelaana-Turalyon will you dps?", -- [18]
-		"/p omw to the instance", -- [19]
-		"/s ty", -- [20]
+		"/p should we take 954 druid healer?", -- [1]
+		"/p mana?", -- [2]
+		"/p go or?", -- [3]
+		"/p remember to soak", -- [4]
+		"/p find purple circle on the purple floor and stand in it when that bolt flies around", -- [5]
+		"/p bb all hf", -- [6]
+		"/cw Jaelaana-Turalyon will you dps?", -- [7]
+		"/p omw to the instance", -- [8]
+		"/s ty", -- [9]
+		"/weakauras", -- [10]
+		"/macro", -- [11]
+		"/p hey", -- [12]
+		"/roar", -- [13]
+		"/p take 945 shaman?", -- [14]
+		"/cw Muhletproof-Eredar we are inside", -- [15]
+		"/p I think we are ok", -- [16]
+		"/p these 4 give 12 % usually", -- [17]
+		"/p 3.31 * 4", -- [18]
+		"/p gg", -- [19]
+		"/p bb ty", -- [20]
 	},
 	["ChatHistoryLog"] = {
-		{
-			"need to drink", -- [1]
-			"Daëmon-Stormscale", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Daëmon-Stormscale", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			163, -- [11]
-			"Player-2073-062B56CF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Daëmon-Stormscale",
-			[51] = 1530293645,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [1]
-		{
-			"you can go", -- [1]
-			"Daëmon-Stormscale", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Daëmon-Stormscale", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			164, -- [11]
-			"Player-2073-062B56CF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Daëmon-Stormscale",
-			[51] = 1530293657,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [2]
-		{
-			"gogo", -- [1]
-			"Daëmon-Stormscale", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Daëmon-Stormscale", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			165, -- [11]
-			"Player-2073-062B56CF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Daëmon-Stormscale",
-			[51] = 1530293658,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [3]
-		{
-			"better clear ", -- [1]
-			"Hexapoda-TwistingNether", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Hexapoda-TwistingNether", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			166, -- [11]
-			"Player-3674-088D6F83", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Hexapoda-TwistingNether",
-			[51] = 1530293664,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [4]
-		{
-			"Suppression Field on Chilon", -- [1]
-			"Chilon-Kazzak", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Chilon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			168, -- [11]
-			"Player-1305-04EE5DA0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Chilon",
-			[51] = 1530293730,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [5]
-		{
-			"Suppression Field on Chilon", -- [1]
-			"Chilon-Kazzak", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Chilon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			169, -- [11]
-			"Player-1305-04EE5DA0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Chilon",
-			[51] = 1530293743,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [6]
-		{
-			"mana?", -- [1]
-			"Joron-Kazzak", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Joron", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			171, -- [11]
-			"Player-1305-071EA32C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Joron",
-			[51] = 1530293801,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [7]
-		{
-			"go", -- [1]
-			"Daëmon-Stormscale", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Daëmon-Stormscale", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			172, -- [11]
-			"Player-2073-062B56CF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Daëmon-Stormscale",
-			[51] = 1530293805,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [8]
-		{
-			"boos now ?", -- [1]
-			"Chilon-Kazzak", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Chilon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			173, -- [11]
-			"Player-1305-04EE5DA0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Chilon",
-			[51] = 1530293806,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [9]
-		{
-			"w8", -- [1]
-			"Chilon-Kazzak", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Chilon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			174, -- [11]
-			"Player-1305-04EE5DA0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Chilon",
-			[51] = 1530293807,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [10]
-		{
-			"adds first right?", -- [1]
-			"Hexapoda-TwistingNether", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Hexapoda-TwistingNether", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			176, -- [11]
-			"Player-3674-088D6F83", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Hexapoda-TwistingNether",
-			[51] = 1530293811,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [11]
-		{
-			"|cff71d5ff|Hspell:93985:0|h[Skull Bash]|h|r -> Shadewing failed", -- [1]
-			"Chilon-Kazzak", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Chilon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			177, -- [11]
-			"Player-1305-04EE5DA0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Chilon",
-			[51] = 1530293818,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [12]
-		{
-			"Umbral Flanking on Joron", -- [1]
-			"Joron-Kazzak", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Joron", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			179, -- [11]
-			"Player-1305-071EA32C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Joron",
-			[51] = 1530293831,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [13]
-		{
-			"|cff71d5ff|Hspell:93985:0|h[Skull Bash]|h|r -> Shadewing |cff71d5ff|Hspell:248831:0|h[Dread Screech]|h|r", -- [1]
-			"Chilon-Kazzak", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Chilon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			181, -- [11]
-			"Player-1305-04EE5DA0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Chilon",
-			[51] = 1530293848,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [14]
-		{
-			"Umbral Flanking on Joron", -- [1]
-			"Joron-Kazzak", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Joron", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			183, -- [11]
-			"Player-1305-071EA32C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Joron",
-			[51] = 1530293866,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [15]
-		{
-			"|cff71d5ff|Hspell:93985:0|h[Skull Bash]|h|r -> Shadewing |cff71d5ff|Hspell:248831:0|h[Dread Screech]|h|r", -- [1]
-			"Chilon-Kazzak", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Chilon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			186, -- [11]
-			"Player-1305-04EE5DA0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Chilon",
-			[51] = 1530293880,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [16]
-		{
-			"Umbral Flanking on Joron", -- [1]
-			"Joron-Kazzak", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Joron", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			188, -- [11]
-			"Player-1305-071EA32C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Joron",
-			[51] = 1530293901,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [17]
-		{
-			"|cff71d5ff|Hspell:93985:0|h[Skull Bash]|h|r -> Shadewing failed", -- [1]
-			"Chilon-Kazzak", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Chilon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			192, -- [11]
-			"Player-1305-04EE5DA0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Chilon",
-			[51] = 1530293913,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [18]
-		{
-			"well done^^", -- [1]
-			"Hexapoda-TwistingNether", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Hexapoda-TwistingNether", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			194, -- [11]
-			"Player-3674-088D6F83", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Hexapoda-TwistingNether",
-			[51] = 1530293932,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [19]
-		{
-			"Corrupting Void on Chilon", -- [1]
-			"Chilon-Kazzak", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Chilon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			199, -- [11]
-			"Player-1305-04EE5DA0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Chilon",
-			[51] = 1530293979,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [20]
-		{
-			"Corrupting Void on Chilon", -- [1]
-			"Chilon-Kazzak", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Chilon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			200, -- [11]
-			"Player-1305-04EE5DA0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Chilon",
-			[51] = 1530293984,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [21]
-		{
-			"Corrupting Void on Daëmon", -- [1]
-			"Daëmon-Stormscale", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Daëmon-Stormscale", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			202, -- [11]
-			"Player-2073-062B56CF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Daëmon-Stormscale",
-			[51] = 1530293998,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [22]
-		{
-			"Corrupting Void on Hexapoda", -- [1]
-			"Hexapoda-TwistingNether", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Hexapoda-TwistingNether", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			203, -- [11]
-			"Player-3674-088D6F83", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Hexapoda-TwistingNether",
-			[51] = 1530294003,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [23]
-		{
-			"|cff71d5ff|Hspell:93985:0|h[Skull Bash]|h|r -> Shadowguard Conjurer |cff71d5ff|Hspell:245601:0|h[Umbral Bolt]|h|r", -- [1]
-			"Chilon-Kazzak", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Chilon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			204, -- [11]
-			"Player-1305-04EE5DA0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Chilon",
-			[51] = 1530294014,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [24]
-		{
-			"Corrupting Void on Chilon", -- [1]
-			"Chilon-Kazzak", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Chilon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			205, -- [11]
-			"Player-1305-04EE5DA0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Chilon",
-			[51] = 1530294015,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [25]
-		{
-			"sorry", -- [1]
-			"Hexapoda-TwistingNether", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Hexapoda-TwistingNether", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			206, -- [11]
-			"Player-3674-088D6F83", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Hexapoda-TwistingNether",
-			[51] = 1530294036,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [26]
-		{
-			"Corrupting Void on Chilon", -- [1]
-			"Chilon-Kazzak", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Chilon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			207, -- [11]
-			"Player-1305-04EE5DA0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Chilon",
-			[51] = 1530294049,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [27]
-		{
-			"Corrupting Void on Hexapoda", -- [1]
-			"Hexapoda-TwistingNether", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Hexapoda-TwistingNether", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			208, -- [11]
-			"Player-3674-088D6F83", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Hexapoda-TwistingNether",
-			[51] = 1530294049,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [28]
-		{
-			"Corrupting Void on Chilon", -- [1]
-			"Chilon-Kazzak", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Chilon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			209, -- [11]
-			"Player-1305-04EE5DA0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Chilon",
-			[51] = 1530294066,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [29]
-		{
-			"|cff71d5ff|Hspell:93985:0|h[Skull Bash]|h|r -> Shadowguard Voidbender failed", -- [1]
-			"Chilon-Kazzak", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Chilon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			210, -- [11]
-			"Player-1305-04EE5DA0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Chilon",
-			[51] = 1530294068,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [30]
-		{
-			"lel", -- [1]
-			"Hexapoda-TwistingNether", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Hexapoda-TwistingNether", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			212, -- [11]
-			"Player-3674-088D6F83", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Hexapoda-TwistingNether",
-			[51] = 1530294099,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [31]
-		{
-			"cant res", -- [1]
-			"Daëmon-Stormscale", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Daëmon-Stormscale", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			214, -- [11]
-			"Player-2073-062B56CF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Daëmon-Stormscale",
-			[51] = 1530294110,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [32]
-		{
-			"for some reason", -- [1]
-			"Daëmon-Stormscale", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Daëmon-Stormscale", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			215, -- [11]
-			"Player-2073-062B56CF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Daëmon-Stormscale",
-			[51] = 1530294112,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [33]
-		{
-			"!@#", -- [1]
-			"Hexapoda-TwistingNether", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Hexapoda-TwistingNether", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			216, -- [11]
-			"Player-3674-088D6F83", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Hexapoda-TwistingNether",
-			[51] = 1530294113,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [34]
-		{
-			"combat", -- [1]
-			"Hexapoda-TwistingNether", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Hexapoda-TwistingNether", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			217, -- [11]
-			"Player-3674-088D6F83", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Hexapoda-TwistingNether",
-			[51] = 1530294115,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [35]
-		{
-			"|cff71d5ff|Hspell:93985:0|h[Skull Bash]|h|r -> Void Flayer |cff71d5ff|Hspell:248184:0|h[Dark Flay]|h|r", -- [1]
-			"Chilon-Kazzak", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Chilon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			223, -- [11]
-			"Player-1305-04EE5DA0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Chilon",
-			[51] = 1530294211,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [36]
-		{
-			"Ak'agthshi Fssh za Log'loth", -- [1]
-			"Hexapoda-TwistingNether", -- [2]
-			"Shath'Yar", -- [3]
-			"", -- [4]
-			"Hexapoda-TwistingNether", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			224, -- [11]
-			"Player-3674-088D6F83", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Hexapoda-TwistingNether",
-			[51] = 1530294214,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [37]
-		{
-			"|cff71d5ff|Hspell:93985:0|h[Skull Bash]|h|r -> Void Flayer |cff71d5ff|Hspell:248184:0|h[Dark Flay]|h|r", -- [1]
-			"Chilon-Kazzak", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Chilon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			227, -- [11]
-			"Player-1305-04EE5DA0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Chilon",
-			[51] = 1530294229,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [38]
-		{
-			"interesting", -- [1]
-			"Hexapoda-TwistingNether", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Hexapoda-TwistingNether", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			231, -- [11]
-			"Player-3674-088D6F83", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Hexapoda-TwistingNether",
-			[51] = 1530294241,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [39]
-		{
-			"|cff71d5ff|Hspell:93985:0|h[Skull Bash]|h|r -> Shadow-Weaver Essence |cff71d5ff|Hspell:248249:0|h[Dark Splice]|h|r", -- [1]
-			"Chilon-Kazzak", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Chilon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			233, -- [11]
-			"Player-1305-04EE5DA0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Chilon",
-			[51] = 1530294338,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [40]
-		{
-			"|cff71d5ff|Hspell:93985:0|h[Skull Bash]|h|r -> Void Flayer |cff71d5ff|Hspell:248184:0|h[Dark Flay]|h|r", -- [1]
-			"Chilon-Kazzak", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Chilon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			236, -- [11]
-			"Player-1305-04EE5DA0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Chilon",
-			[51] = 1530294392,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [41]
-		{
-			"Ak'agthshi Fssh za Log'loth", -- [1]
-			"Hexapoda-TwistingNether", -- [2]
-			"Shath'Yar", -- [3]
-			"", -- [4]
-			"Hexapoda-TwistingNether", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			237, -- [11]
-			"Player-3674-088D6F83", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Hexapoda-TwistingNether",
-			[51] = 1530294404,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [42]
-		{
-			"go boss if we wanna make it in time ", -- [1]
-			"Daëmon-Stormscale", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Daëmon-Stormscale", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			239, -- [11]
-			"Player-2073-062B56CF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Daëmon-Stormscale",
-			[51] = 1530294427,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [43]
-		{
-			"i guess", -- [1]
-			"Daëmon-Stormscale", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Daëmon-Stormscale", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			240, -- [11]
-			"Player-2073-062B56CF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Daëmon-Stormscale",
-			[51] = 1530294428,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [44]
-		{
-			"|cff71d5ff|Hspell:93985:0|h[Skull Bash]|h|r -> Shadowguard Voidbender failed", -- [1]
-			"Chilon-Kazzak", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Chilon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			241, -- [11]
-			"Player-1305-04EE5DA0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Chilon",
-			[51] = 1530294439,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [45]
-		{
-			"Corrupting Void on Chilon", -- [1]
-			"Chilon-Kazzak", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Chilon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			242, -- [11]
-			"Player-1305-04EE5DA0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Chilon",
-			[51] = 1530294441,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [46]
-		{
-			"|cff71d5ff|Hspell:93985:0|h[Skull Bash]|h|r -> Shadowguard Voidbender |cff71d5ff|Hspell:245522:0|h[Entropic Mist]|h|r", -- [1]
-			"Chilon-Kazzak", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Chilon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			243, -- [11]
-			"Player-1305-04EE5DA0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Chilon",
-			[51] = 1530294457,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [47]
-		{
-			"|cff71d5ff|Hspell:93985:0|h[Skull Bash]|h|r -> Umbral Tentacle |cff71d5ff|Hspell:244916:0|h[Void Lashing]|h|r", -- [1]
-			"Chilon-Kazzak", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Chilon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			245, -- [11]
-			"Player-1305-04EE5DA0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Chilon",
-			[51] = 1530294490,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [48]
-		{
-			"|cff71d5ff|Hspell:93985:0|h[Skull Bash]|h|r -> Umbral Tentacle |cff71d5ff|Hspell:244916:0|h[Void Lashing]|h|r", -- [1]
-			"Chilon-Kazzak", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Chilon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			247, -- [11]
-			"Player-1305-04EE5DA0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Chilon",
-			[51] = 1530294507,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [49]
-		{
-			"focki ntentafles", -- [1]
-			"Hexapoda-TwistingNether", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Hexapoda-TwistingNether", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			253, -- [11]
-			"Player-3674-088D6F83", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Hexapoda-TwistingNether",
-			[51] = 1530294541,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [50]
-		{
-			"w8 ", -- [1]
-			"Chilon-Kazzak", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Chilon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			261, -- [11]
-			"Player-1305-04EE5DA0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Chilon",
-			[51] = 1530294588,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [51]
-		{
-			"tank ", -- [1]
-			"Chilon-Kazzak", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Chilon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			262, -- [11]
-			"Player-1305-04EE5DA0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Chilon",
-			[51] = 1530294590,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [52]
-		{
-			"plz inter fear ", -- [1]
-			"Chilon-Kazzak", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Chilon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			263, -- [11]
-			"Player-1305-04EE5DA0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Chilon",
-			[51] = 1530294594,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [53]
-		{
-			"w8", -- [1]
-			"Chilon-Kazzak", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Chilon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			264, -- [11]
-			"Player-1305-04EE5DA0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Chilon",
-			[51] = 1530294603,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [54]
-		{
-			"kk", -- [1]
-			"Hexapoda-TwistingNether", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Hexapoda-TwistingNether", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			265, -- [11]
-			"Player-3674-088D6F83", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Hexapoda-TwistingNether",
-			[51] = 1530294604,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [55]
-		{
-			"go or?", -- [1]
-			"Joron-Kazzak", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Joron", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			266, -- [11]
-			"Player-1305-071EA32C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Joron",
-			[51] = 1530294610,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [56]
-		{
-			"eat plz ", -- [1]
-			"Chilon-Kazzak", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Chilon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			267, -- [11]
-			"Player-1305-04EE5DA0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Chilon",
-			[51] = 1530294616,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [57]
-		{
-			"g", -- [1]
-			"Chilon-Kazzak", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Chilon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			268, -- [11]
-			"Player-1305-04EE5DA0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Chilon",
-			[51] = 1530294622,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [58]
-		{
-			"|cff71d5ff|Hspell:93985:0|h[Skull Bash]|h|r -> Umbral Tentacle |cff71d5ff|Hspell:244916:0|h[Void Lashing]|h|r", -- [1]
-			"Chilon-Kazzak", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Chilon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			270, -- [11]
-			"Player-1305-04EE5DA0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Chilon",
-			[51] = 1530294639,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [59]
-		{
-			"|cff71d5ff|Hspell:77764:0|h[Stampeding Roar]|h|r !!!", -- [1]
-			"Chilon-Kazzak", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Chilon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			271, -- [11]
-			"Player-1305-04EE5DA0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Chilon",
-			[51] = 1530294660,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [60]
-		{
-			"|cff71d5ff|Hspell:93985:0|h[Skull Bash]|h|r -> Umbral Tentacle failed", -- [1]
-			"Chilon-Kazzak", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Chilon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			272, -- [11]
-			"Player-1305-04EE5DA0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Chilon",
-			[51] = 1530294674,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [61]
-		{
-			"|cff71d5ff|Hspell:93985:0|h[Skull Bash]|h|r -> Viceroy Nezhar |cff71d5ff|Hspell:244750:0|h[Dark Blast]|h|r", -- [1]
-			"Chilon-Kazzak", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Chilon", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			275, -- [11]
-			"Player-1305-04EE5DA0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Chilon",
-			[51] = 1530294696,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [62]
-		{
-			"w00t", -- [1]
-			"Hexapoda-TwistingNether", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Hexapoda-TwistingNether", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			289, -- [11]
-			"Player-3674-088D6F83", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Hexapoda-TwistingNether",
-			[51] = 1530294757,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [63]
-		{
-			"lol", -- [1]
-			"Daëmon-Stormscale", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Daëmon-Stormscale", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			290, -- [11]
-			"Player-2073-062B56CF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Daëmon-Stormscale",
-			[51] = 1530294759,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [64]
-		{
-			"thats sad", -- [1]
-			"Hexapoda-TwistingNether", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Hexapoda-TwistingNether", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			291, -- [11]
-			"Player-3674-088D6F83", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Hexapoda-TwistingNether",
-			[51] = 1530294768,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [65]
-		{
-			"if you dont kill the adds before he finished castin gu dead", -- [1]
-			"Daëmon-Stormscale", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Daëmon-Stormscale", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			292, -- [11]
-			"Player-2073-062B56CF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Daëmon-Stormscale",
-			[51] = 1530294820,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [66]
 		{
 			"|cff71d5ff|Hspell:93985:0|h[Skull Bash]|h|r -> Umbral Tentacle |cff71d5ff|Hspell:244916:0|h[Void Lashing]|h|r", -- [1]
 			"Chilon-Kazzak", -- [2]
@@ -1496,7 +44,7 @@ ElvCharacterDB = {
 			[52] = "Chilon",
 			[51] = 1530294839,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [67]
+		}, -- [1]
 		{
 			"|cff71d5ff|Hspell:93985:0|h[Skull Bash]|h|r -> Umbral Tentacle |cff71d5ff|Hspell:244916:0|h[Void Lashing]|h|r", -- [1]
 			"Chilon-Kazzak", -- [2]
@@ -1518,7 +66,7 @@ ElvCharacterDB = {
 			[52] = "Chilon",
 			[51] = 1530294872,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [68]
+		}, -- [2]
 		{
 			"|cff71d5ff|Hspell:93985:0|h[Skull Bash]|h|r -> Viceroy Nezhar failed", -- [1]
 			"Chilon-Kazzak", -- [2]
@@ -1540,7 +88,7 @@ ElvCharacterDB = {
 			[52] = "Chilon",
 			[51] = 1530294888,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [69]
+		}, -- [3]
 		{
 			"|cff71d5ff|Hspell:77764:0|h[Stampeding Roar]|h|r !!!", -- [1]
 			"Chilon-Kazzak", -- [2]
@@ -1562,7 +110,7 @@ ElvCharacterDB = {
 			[52] = "Chilon",
 			[51] = 1530294920,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [70]
+		}, -- [4]
 		{
 			"|cff71d5ff|Hspell:93985:0|h[Skull Bash]|h|r -> Viceroy Nezhar failed", -- [1]
 			"Chilon-Kazzak", -- [2]
@@ -1584,7 +132,7 @@ ElvCharacterDB = {
 			[52] = "Chilon",
 			[51] = 1530294928,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [71]
+		}, -- [5]
 		{
 			"|cff71d5ff|Hspell:93985:0|h[Skull Bash]|h|r -> Viceroy Nezhar failed", -- [1]
 			"Chilon-Kazzak", -- [2]
@@ -1606,7 +154,7 @@ ElvCharacterDB = {
 			[52] = "Chilon",
 			[51] = 1530294950,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [72]
+		}, -- [6]
 		{
 			"f $%^& easy ", -- [1]
 			"Hexapoda-TwistingNether", -- [2]
@@ -1628,7 +176,7 @@ ElvCharacterDB = {
 			[52] = "Hexapoda-TwistingNether",
 			[51] = 1530294961,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [73]
+		}, -- [7]
 		{
 			"remember to soak", -- [1]
 			"Joron-Kazzak", -- [2]
@@ -1650,7 +198,7 @@ ElvCharacterDB = {
 			[52] = "Joron",
 			[51] = 1530295076,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [74]
+		}, -- [8]
 		{
 			"mmm not remembered?", -- [1]
 			"Hexapoda-TwistingNether", -- [2]
@@ -1672,7 +220,7 @@ ElvCharacterDB = {
 			[52] = "Hexapoda-TwistingNether",
 			[51] = 1530295126,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [75]
+		}, -- [9]
 		{
 			":D", -- [1]
 			"Hexapoda-TwistingNether", -- [2]
@@ -1694,7 +242,7 @@ ElvCharacterDB = {
 			[52] = "Hexapoda-TwistingNether",
 			[51] = 1530295134,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [76]
+		}, -- [10]
 		{
 			"wtf we need to do..", -- [1]
 			"Hexapoda-TwistingNether", -- [2]
@@ -1716,7 +264,7 @@ ElvCharacterDB = {
 			[52] = "Hexapoda-TwistingNether",
 			[51] = 1530295248,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [77]
+		}, -- [11]
 		{
 			"just stack for it guys ", -- [1]
 			"Chilon-Kazzak", -- [2]
@@ -1738,7 +286,7 @@ ElvCharacterDB = {
 			[52] = "Chilon",
 			[51] = 1530295257,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [78]
+		}, -- [12]
 		{
 			"oh soak..", -- [1]
 			"Hexapoda-TwistingNether", -- [2]
@@ -1760,7 +308,7 @@ ElvCharacterDB = {
 			[52] = "Hexapoda-TwistingNether",
 			[51] = 1530295264,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [79]
+		}, -- [13]
 		{
 			"stand @ ", -- [1]
 			"Chilon-Kazzak", -- [2]
@@ -1782,7 +330,7 @@ ElvCharacterDB = {
 			[52] = "Chilon",
 			[51] = 1530295264,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [80]
+		}, -- [14]
 		{
 			"but i cant notice it:/ sorry", -- [1]
 			"Hexapoda-TwistingNether", -- [2]
@@ -1804,7 +352,7 @@ ElvCharacterDB = {
 			[52] = "Hexapoda-TwistingNether",
 			[51] = 1530295273,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [81]
+		}, -- [15]
 		{
 			"find purple circle on the purple floor and stand in it when that bolt flies around", -- [1]
 			"Joron-Kazzak", -- [2]
@@ -1826,7 +374,7 @@ ElvCharacterDB = {
 			[52] = "Joron",
 			[51] = 1530295297,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [82]
+		}, -- [16]
 		{
 			"ok so", -- [1]
 			"Hexapoda-TwistingNether", -- [2]
@@ -1848,7 +396,7 @@ ElvCharacterDB = {
 			[52] = "Hexapoda-TwistingNether",
 			[51] = 1530295303,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [83]
+		}, -- [17]
 		{
 			"i get it now", -- [1]
 			"Hexapoda-TwistingNether", -- [2]
@@ -1870,7 +418,7 @@ ElvCharacterDB = {
 			[52] = "Hexapoda-TwistingNether",
 			[51] = 1530295343,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [84]
+		}, -- [18]
 		{
 			"|cff71d5ff|Hspell:20484:0|h[Rebirth]|h|r -> Daëmon-Stormscale", -- [1]
 			"Chilon-Kazzak", -- [2]
@@ -1892,7 +440,7 @@ ElvCharacterDB = {
 			[52] = "Chilon",
 			[51] = 1530295375,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [85]
+		}, -- [19]
 		{
 			"fffffffff", -- [1]
 			"Hexapoda-TwistingNether", -- [2]
@@ -1914,7 +462,7 @@ ElvCharacterDB = {
 			[52] = "Hexapoda-TwistingNether",
 			[51] = 1530295435,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [86]
+		}, -- [20]
 		{
 			"just wipe ", -- [1]
 			"Chilon-Kazzak", -- [2]
@@ -1936,7 +484,7 @@ ElvCharacterDB = {
 			[52] = "Chilon",
 			[51] = 1530295487,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [87]
+		}, -- [21]
 		{
 			"|cff71d5ff|Hspell:77764:0|h[Stampeding Roar]|h|r !!!", -- [1]
 			"Chilon-Kazzak", -- [2]
@@ -1958,7 +506,7 @@ ElvCharacterDB = {
 			[52] = "Chilon",
 			[51] = 1530295513,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [88]
+		}, -- [22]
 		{
 			"mana?", -- [1]
 			"Joron-Kazzak", -- [2]
@@ -1980,7 +528,7 @@ ElvCharacterDB = {
 			[52] = "Joron",
 			[51] = 1530295540,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [89]
+		}, -- [23]
 		{
 			"go", -- [1]
 			"Daëmon-Stormscale", -- [2]
@@ -2002,7 +550,7 @@ ElvCharacterDB = {
 			[52] = "Daëmon-Stormscale",
 			[51] = 1530295545,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [90]
+		}, -- [24]
 		{
 			"sorry", -- [1]
 			"Hexapoda-TwistingNether", -- [2]
@@ -2024,7 +572,7 @@ ElvCharacterDB = {
 			[52] = "Hexapoda-TwistingNether",
 			[51] = 1530295792,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [91]
+		}, -- [25]
 		{
 			"|cff71d5ff|Hspell:20484:0|h[Rebirth]|h|r -> Rekoo", -- [1]
 			"Chilon-Kazzak", -- [2]
@@ -2046,7 +594,7 @@ ElvCharacterDB = {
 			[52] = "Chilon",
 			[51] = 1530295796,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [92]
+		}, -- [26]
 		{
 			"farewell", -- [1]
 			"Hexapoda-TwistingNether", -- [2]
@@ -2068,7 +616,7 @@ ElvCharacterDB = {
 			[52] = "Hexapoda-TwistingNether",
 			[51] = 1530295812,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [93]
+		}, -- [27]
 		{
 			"bb all hf", -- [1]
 			"Joron-Kazzak", -- [2]
@@ -2090,7 +638,7 @@ ElvCharacterDB = {
 			[52] = "Joron",
 			[51] = 1530295817,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [94]
+		}, -- [28]
 		{
 			"b", -- [1]
 			"Daëmon-Stormscale", -- [2]
@@ -2112,7 +660,7 @@ ElvCharacterDB = {
 			[52] = "Daëmon-Stormscale",
 			[51] = 1530295821,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [95]
+		}, -- [29]
 		{
 			"b", -- [1]
 			"Daëmon-Stormscale", -- [2]
@@ -2134,7 +682,7 @@ ElvCharacterDB = {
 			[52] = "Daëmon-Stormscale",
 			[51] = 1530295823,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [96]
+		}, -- [30]
 		{
 			"3k on main", -- [1]
 			"Smitee-TwistingNether", -- [2]
@@ -2156,7 +704,7 @@ ElvCharacterDB = {
 			[52] = "Smitee-TwistingNether",
 			[51] = 1530296006,
 			[50] = "CHAT_MSG_WHISPER",
-		}, -- [97]
+		}, -- [31]
 		{
 			"will you dps?", -- [1]
 			"Jaelaana-Turalyon", -- [2]
@@ -2178,7 +726,7 @@ ElvCharacterDB = {
 			[52] = "Jaelaana-Turalyon",
 			[51] = 1530296160,
 			[50] = "CHAT_MSG_WHISPER_INFORM",
-		}, -- [98]
+		}, -- [32]
 		{
 			"sure thing :)", -- [1]
 			"Jaelaana-Turalyon", -- [2]
@@ -2200,7 +748,7 @@ ElvCharacterDB = {
 			[52] = "Jaelaana-Turalyon",
 			[51] = 1530296166,
 			[50] = "CHAT_MSG_WHISPER",
-		}, -- [99]
+		}, -- [33]
 		{
 			"hello", -- [1]
 			"Undeapriestt-Draenor", -- [2]
@@ -2222,7 +770,7 @@ ElvCharacterDB = {
 			[52] = "Undeapriestt-Draenor",
 			[51] = 1530296302,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [100]
+		}, -- [34]
 		{
 			"hei", -- [1]
 			"Fumletal-TwistingNether", -- [2]
@@ -2244,7 +792,7 @@ ElvCharacterDB = {
 			[52] = "Fumletal-TwistingNether",
 			[51] = 1530296312,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [101]
+		}, -- [35]
 		{
 			"omw to the instance", -- [1]
 			"Joron-Kazzak", -- [2]
@@ -2266,7 +814,7 @@ ElvCharacterDB = {
 			[52] = "Joron",
 			[51] = 1530296323,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [102]
+		}, -- [36]
 		{
 			"omw :)", -- [1]
 			"Jaelaana-Turalyon", -- [2]
@@ -2288,7 +836,7 @@ ElvCharacterDB = {
 			[52] = "Jaelaana-Turalyon",
 			[51] = 1530296473,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [103]
+		}, -- [37]
 		{
 			"|cffffff00Blackhawk's Bulwark is under attack!|r", -- [1]
 			"", -- [2]
@@ -2310,7 +858,7 @@ ElvCharacterDB = {
 			[52] = "",
 			[51] = 1530296490,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [104]
+		}, -- [38]
 		{
 			"just quick relog ", -- [1]
 			"Jaelaana-Turalyon", -- [2]
@@ -2332,7 +880,7 @@ ElvCharacterDB = {
 			[52] = "Jaelaana-Turalyon",
 			[51] = 1530296499,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [105]
+		}, -- [39]
 		{
 			"ty", -- [1]
 			"Joron-Kazzak", -- [2]
@@ -2354,7 +902,7 @@ ElvCharacterDB = {
 			[52] = "Joron",
 			[51] = 1530296534,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [106]
+		}, -- [40]
 		{
 			":))", -- [1]
 			"Fumletal-TwistingNether", -- [2]
@@ -2376,7 +924,7 @@ ElvCharacterDB = {
 			[52] = "Fumletal-TwistingNether",
 			[51] = 1530296538,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [107]
+		}, -- [41]
 		{
 			"|cffffff00Blackhawk's Bulwark is under attack!|r", -- [1]
 			"", -- [2]
@@ -2398,7 +946,7 @@ ElvCharacterDB = {
 			[52] = "",
 			[51] = 1530296561,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [108]
+		}, -- [42]
 		{
 			"gimme 1 min", -- [1]
 			"Undeapriestt-Draenor", -- [2]
@@ -2420,7 +968,7 @@ ElvCharacterDB = {
 			[52] = "Undeapriestt-Draenor",
 			[51] = 1530296567,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [109]
+		}, -- [43]
 		{
 			"|cffffff00Blackhawk's Bulwark is under attack!|r", -- [1]
 			"", -- [2]
@@ -2442,7 +990,7 @@ ElvCharacterDB = {
 			[52] = "",
 			[51] = 1530296620,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [110]
+		}, -- [44]
 		{
 			"sorry for wait ", -- [1]
 			"Jaelaana-Turalyon", -- [2]
@@ -2464,7 +1012,7 @@ ElvCharacterDB = {
 			[52] = "Jaelaana-Turalyon",
 			[51] = 1530296637,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [111]
+		}, -- [45]
 		{
 			"|cff71d5ff|Hspell:633:0|h[Lay on Hands]|h|r on Jaelaana for 6398340!", -- [1]
 			"Jaelaana-Turalyon", -- [2]
@@ -2486,7 +1034,7 @@ ElvCharacterDB = {
 			[52] = "Jaelaana-Turalyon",
 			[51] = 1530296771,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [112]
+		}, -- [46]
 		{
 			"im oom", -- [1]
 			"Undeapriestt-Draenor", -- [2]
@@ -2508,7 +1056,7 @@ ElvCharacterDB = {
 			[52] = "Undeapriestt-Draenor",
 			[51] = 1530297135,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [113]
+		}, -- [47]
 		{
 			"ty", -- [1]
 			"Fumletal-TwistingNether", -- [2]
@@ -2530,7 +1078,7 @@ ElvCharacterDB = {
 			[52] = "Fumletal-TwistingNether",
 			[51] = 1530297333,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [114]
+		}, -- [48]
 		{
 			"|cff71d5ff|Hspell:633:0|h[Lay on Hands]|h|r on Jaelaana for 6398340!", -- [1]
 			"Jaelaana-Turalyon", -- [2]
@@ -2552,7 +1100,7 @@ ElvCharacterDB = {
 			[52] = "Jaelaana-Turalyon",
 			[51] = 1530297374,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [115]
+		}, -- [49]
 		{
 			"going to need other side aswell abbes", -- [1]
 			"Jaelaana-Turalyon", -- [2]
@@ -2574,7 +1122,7 @@ ElvCharacterDB = {
 			[52] = "Jaelaana-Turalyon",
 			[51] = 1530297538,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [116]
+		}, -- [50]
 		{
 			"anyone got a repair bot ", -- [1]
 			"Jaelaana-Turalyon", -- [2]
@@ -2596,7 +1144,7 @@ ElvCharacterDB = {
 			[52] = "Jaelaana-Turalyon",
 			[51] = 1530297776,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [117]
+		}, -- [51]
 		{
 			"guys, i have to spam heal you so much i can't do mechanics.", -- [1]
 			"Undeapriestt-Draenor", -- [2]
@@ -2618,7 +1166,7 @@ ElvCharacterDB = {
 			[52] = "Undeapriestt-Draenor",
 			[51] = 1530297787,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [118]
+		}, -- [52]
 		{
 			"getting nuked way too much at times", -- [1]
 			"Undeapriestt-Draenor", -- [2]
@@ -2640,7 +1188,7 @@ ElvCharacterDB = {
 			[52] = "Undeapriestt-Draenor",
 			[51] = 1530297820,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [119]
+		}, -- [53]
 		{
 			"Taint of the Sea on Faradrim", -- [1]
 			"Faradrim-Stormscale", -- [2]
@@ -2662,7 +1210,7 @@ ElvCharacterDB = {
 			[52] = "Faradrim-Stormscale",
 			[51] = 1530297873,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [120]
+		}, -- [54]
 		{
 			"i need to repair so brb ", -- [1]
 			"Jaelaana-Turalyon", -- [2]
@@ -2684,7 +1232,7 @@ ElvCharacterDB = {
 			[52] = "Jaelaana-Turalyon",
 			[51] = 1530297944,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [121]
+		}, -- [55]
 		{
 			"yoooo", -- [1]
 			"Squido-Stormreaver", -- [2]
@@ -2706,7 +1254,7 @@ ElvCharacterDB = {
 			[52] = "Squido-Stormreaver",
 			[51] = 1530299775,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [122]
+		}, -- [56]
 		{
 			"hey", -- [1]
 			"Joron-Kazzak", -- [2]
@@ -2728,7 +1276,7 @@ ElvCharacterDB = {
 			[52] = "Joron",
 			[51] = 1530299785,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [123]
+		}, -- [57]
 		{
 			"Taint of the Sea on Xtrmdemon", -- [1]
 			"Xtrmdemon-TwistingNether", -- [2]
@@ -2750,7 +1298,7 @@ ElvCharacterDB = {
 			[52] = "Xtrmdemon-TwistingNether",
 			[51] = 1530300991,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [124]
+		}, -- [58]
 		{
 			"Taint of the Sea on Xtrmdemon", -- [1]
 			"Xtrmdemon-TwistingNether", -- [2]
@@ -2772,7 +1320,7 @@ ElvCharacterDB = {
 			[52] = "Xtrmdemon-TwistingNether",
 			[51] = 1530301021,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [125]
+		}, -- [59]
 		{
 			"Taint of the Sea on Xtrmdemon", -- [1]
 			"Xtrmdemon-TwistingNether", -- [2]
@@ -2794,7 +1342,7 @@ ElvCharacterDB = {
 			[52] = "Xtrmdemon-TwistingNether",
 			[51] = 1530301038,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [126]
+		}, -- [60]
 		{
 			"gj", -- [1]
 			"Squido-Stormreaver", -- [2]
@@ -2816,6 +1364,1458 @@ ElvCharacterDB = {
 			[52] = "Squido-Stormreaver",
 			[51] = 1530301109,
 			[50] = "CHAT_MSG_PARTY",
+		}, -- [61]
+		{
+			"hey", -- [1]
+			"Joron-Kazzak", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Joron", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2021, -- [11]
+			"Player-1305-071EA32C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Joron",
+			[51] = 1530557178,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [62]
+		{
+			"Hey", -- [1]
+			"Scrubwarrior-Ragnaros", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Scrubwarrior-Ragnaros", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2025, -- [11]
+			"Player-3682-07F03FCA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Scrubwarrior-Ragnaros",
+			[51] = 1530557260,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [63]
+		{
+			"hi ", -- [1]
+			"Nergal-Ragnaros", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Nergal-Ragnaros", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2026, -- [11]
+			"Player-3682-05CE8F17", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Nergal-Ragnaros",
+			[51] = 1530557280,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [64]
+		{
+			"take 945 shaman?", -- [1]
+			"Joron-Kazzak", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Joron", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2030, -- [11]
+			"Player-1305-071EA32C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Joron",
+			[51] = 1530557637,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [65]
+		{
+			"yeah", -- [1]
+			"Nergal-Ragnaros", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Nergal-Ragnaros", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2031, -- [11]
+			"Player-3682-05CE8F17", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Nergal-Ragnaros",
+			[51] = 1530557643,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [66]
+		{
+			"Nergal I recognize your name :d", -- [1]
+			"Scrubwarrior-Ragnaros", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Scrubwarrior-Ragnaros", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2033, -- [11]
+			"Player-3682-07F03FCA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Scrubwarrior-Ragnaros",
+			[51] = 1530557653,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [67]
+		{
+			"Which guilds have you been in during Legion?", -- [1]
+			"Scrubwarrior-Ragnaros", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Scrubwarrior-Ragnaros", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2034, -- [11]
+			"Player-3682-07F03FCA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Scrubwarrior-Ragnaros",
+			[51] = 1530557665,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [68]
+		{
+			"Hi", -- [1]
+			"Muhletproof-Eredar", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Muhletproof-Eredar", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2035, -- [11]
+			"Player-3692-065CCBBA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Muhletproof-Eredar",
+			[51] = 1530557670,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [69]
+		{
+			"hmm", -- [1]
+			"Nergal-Ragnaros", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Nergal-Ragnaros", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2036, -- [11]
+			"Player-3682-05CE8F17", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Nergal-Ragnaros",
+			[51] = 1530557679,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [70]
+		{
+			"this one i gues ", -- [1]
+			"Nergal-Ragnaros", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Nergal-Ragnaros", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2037, -- [11]
+			"Player-3682-05CE8F17", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Nergal-Ragnaros",
+			[51] = 1530557684,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [71]
+		{
+			"dont remember at start ", -- [1]
+			"Nergal-Ragnaros", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Nergal-Ragnaros", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2038, -- [11]
+			"Player-3682-05CE8F17", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Nergal-Ragnaros",
+			[51] = 1530557694,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [72]
+		{
+			"1sec", -- [1]
+			"Muhletproof-Eredar", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Muhletproof-Eredar", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2039, -- [11]
+			"Player-3692-065CCBBA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Muhletproof-Eredar",
+			[51] = 1530557697,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [73]
+		{
+			"casualk guild tbh ", -- [1]
+			"Nergal-Ragnaros", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Nergal-Ragnaros", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2040, -- [11]
+			"Player-3682-05CE8F17", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Nergal-Ragnaros",
+			[51] = 1530557700,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [74]
+		{
+			"we are inside", -- [1]
+			"Muhletproof-Eredar", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Muhletproof-Eredar", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2048, -- [11]
+			"Player-3692-065CCBBA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Muhletproof-Eredar",
+			[51] = 1530557762,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
+		}, -- [75]
+		{
+			"Re", -- [1]
+			"Muhletproof-Eredar", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Muhletproof-Eredar", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2049, -- [11]
+			"Player-3692-065CCBBA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Muhletproof-Eredar",
+			[51] = 1530557770,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [76]
+		{
+			"Pummel - |cff71d5ff|Hspell:198595:0|h[Thunderous Bolt]|h|r (Valarjar Thundercaller)", -- [1]
+			"Scrubwarrior-Ragnaros", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Scrubwarrior-Ragnaros", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2068, -- [11]
+			"Player-3682-07F03FCA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Scrubwarrior-Ragnaros",
+			[51] = 1530558010,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [77]
+		{
+			"cookies pls", -- [1]
+			"Muhletproof-Eredar", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Muhletproof-Eredar", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2073, -- [11]
+			"Player-3692-065CCBBA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Muhletproof-Eredar",
+			[51] = 1530558109,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [78]
+		{
+			"ty :)", -- [1]
+			"Muhletproof-Eredar", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Muhletproof-Eredar", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2074, -- [11]
+			"Player-3692-065CCBBA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Muhletproof-Eredar",
+			[51] = 1530558123,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [79]
+		{
+			"Pummel - |cff71d5ff|Hspell:198962:0|h[Shattered Rune]|h|r (Valarjar Runecarver)", -- [1]
+			"Scrubwarrior-Ragnaros", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Scrubwarrior-Ragnaros", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2079, -- [11]
+			"Player-3682-07F03FCA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Scrubwarrior-Ragnaros",
+			[51] = 1530558187,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [80]
+		{
+			"Expel Light on Scrubwarrior", -- [1]
+			"Scrubwarrior-Ragnaros", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Scrubwarrior-Ragnaros", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2107, -- [11]
+			"Player-3682-07F03FCA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Scrubwarrior-Ragnaros",
+			[51] = 1530558489,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [81]
+		{
+			"Pummel - |cff71d5ff|Hspell:215433:0|h[Holy Radiance]|h|r (Valarjar Mystic)", -- [1]
+			"Scrubwarrior-Ragnaros", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Scrubwarrior-Ragnaros", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2110, -- [11]
+			"Player-3682-07F03FCA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Scrubwarrior-Ragnaros",
+			[51] = 1530558549,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [82]
+		{
+			"Pummel - |cff71d5ff|Hspell:215433:0|h[Holy Radiance]|h|r (Valarjar Mystic)", -- [1]
+			"Scrubwarrior-Ragnaros", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Scrubwarrior-Ragnaros", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2111, -- [11]
+			"Player-3682-07F03FCA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Scrubwarrior-Ragnaros",
+			[51] = 1530558586,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [83]
+		{
+			"need %?", -- [1]
+			"Scrubwarrior-Ragnaros", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Scrubwarrior-Ragnaros", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2114, -- [11]
+			"Player-3682-07F03FCA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Scrubwarrior-Ragnaros",
+			[51] = 1530558642,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [84]
+		{
+			"sry", -- [1]
+			"Muhletproof-Eredar", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Muhletproof-Eredar", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2118, -- [11]
+			"Player-3692-065CCBBA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Muhletproof-Eredar",
+			[51] = 1530558761,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [85]
+		{
+			"Ravenous Leap on Scrubwarrior", -- [1]
+			"Scrubwarrior-Ragnaros", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Scrubwarrior-Ragnaros", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2122, -- [11]
+			"Player-3682-07F03FCA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Scrubwarrior-Ragnaros",
+			[51] = 1530558846,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [86]
+		{
+			"%", -- [1]
+			"Muhletproof-Eredar", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Muhletproof-Eredar", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2126, -- [11]
+			"Player-3692-065CCBBA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Muhletproof-Eredar",
+			[51] = 1530558870,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [87]
+		{
+			"I think we are ok", -- [1]
+			"Joron-Kazzak", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Joron", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2127, -- [11]
+			"Player-1305-071EA32C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Joron",
+			[51] = 1530558886,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [88]
+		{
+			"Pummel - |cff71d5ff|Hspell:198962:0|h[Shattered Rune]|h|r (Valarjar Runecarver)", -- [1]
+			"Scrubwarrior-Ragnaros", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Scrubwarrior-Ragnaros", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2128, -- [11]
+			"Player-3682-07F03FCA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Scrubwarrior-Ragnaros",
+			[51] = 1530558921,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [89]
+		{
+			"Crackle on Scrubwarrior", -- [1]
+			"Scrubwarrior-Ragnaros", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Scrubwarrior-Ragnaros", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2130, -- [11]
+			"Player-3682-07F03FCA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Scrubwarrior-Ragnaros",
+			[51] = 1530558965,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [90]
+		{
+			"Crackle on Scrubwarrior", -- [1]
+			"Scrubwarrior-Ragnaros", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Scrubwarrior-Ragnaros", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2131, -- [11]
+			"Player-3682-07F03FCA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Scrubwarrior-Ragnaros",
+			[51] = 1530558969,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [91]
+		{
+			"one group more", -- [1]
+			"Muhletproof-Eredar", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Muhletproof-Eredar", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2132, -- [11]
+			"Player-3692-065CCBBA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Muhletproof-Eredar",
+			[51] = 1530558972,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [92]
+		{
+			"Разряд на Джинзик!", -- [1]
+			"Джинзик-СвежевательДуш", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Джинзик-СвежевательДуш", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2133, -- [11]
+			"Player-1604-05A8C8EC", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Джинзик-СвежевательДуш",
+			[51] = 1530558975,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [93]
+		{
+			"Crackle on Scrubwarrior", -- [1]
+			"Scrubwarrior-Ragnaros", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Scrubwarrior-Ragnaros", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2134, -- [11]
+			"Player-3682-07F03FCA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Scrubwarrior-Ragnaros",
+			[51] = 1530558980,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [94]
+		{
+			"Crackle on Joron", -- [1]
+			"Joron-Kazzak", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Joron", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2135, -- [11]
+			"Player-1305-071EA32C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Joron",
+			[51] = 1530558981,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [95]
+		{
+			"Crackle on Scrubwarrior", -- [1]
+			"Scrubwarrior-Ragnaros", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Scrubwarrior-Ragnaros", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2136, -- [11]
+			"Player-3682-07F03FCA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Scrubwarrior-Ragnaros",
+			[51] = 1530558985,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [96]
+		{
+			"Crackle on Joron", -- [1]
+			"Joron-Kazzak", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Joron", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2137, -- [11]
+			"Player-1305-071EA32C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Joron",
+			[51] = 1530558992,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [97]
+		{
+			"Crackle on Scrubwarrior", -- [1]
+			"Scrubwarrior-Ragnaros", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Scrubwarrior-Ragnaros", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2138, -- [11]
+			"Player-3682-07F03FCA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Scrubwarrior-Ragnaros",
+			[51] = 1530558996,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [98]
+		{
+			"Crackle on Scrubwarrior", -- [1]
+			"Scrubwarrior-Ragnaros", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Scrubwarrior-Ragnaros", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2139, -- [11]
+			"Player-3682-07F03FCA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Scrubwarrior-Ragnaros",
+			[51] = 1530559002,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [99]
+		{
+			"Разряд на Джинзик!", -- [1]
+			"Джинзик-СвежевательДуш", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Джинзик-СвежевательДуш", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2140, -- [11]
+			"Player-1604-05A8C8EC", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Джинзик-СвежевательДуш",
+			[51] = 1530559002,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [100]
+		{
+			"Crackle on Scrubwarrior", -- [1]
+			"Scrubwarrior-Ragnaros", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Scrubwarrior-Ragnaros", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2141, -- [11]
+			"Player-3682-07F03FCA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Scrubwarrior-Ragnaros",
+			[51] = 1530559007,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [101]
+		{
+			"Разряд на Джинзик!", -- [1]
+			"Джинзик-СвежевательДуш", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Джинзик-СвежевательДуш", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2142, -- [11]
+			"Player-1604-05A8C8EC", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Джинзик-СвежевательДуш",
+			[51] = 1530559008,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [102]
+		{
+			"affix ", -- [1]
+			"Muhletproof-Eredar", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Muhletproof-Eredar", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2143, -- [11]
+			"Player-3692-065CCBBA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Muhletproof-Eredar",
+			[51] = 1530559028,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [103]
+		{
+			"?!", -- [1]
+			"Scrubwarrior-Ragnaros", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Scrubwarrior-Ragnaros", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2145, -- [11]
+			"Player-3682-07F03FCA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Scrubwarrior-Ragnaros",
+			[51] = 1530559056,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [104]
+		{
+			"We have enough", -- [1]
+			"Scrubwarrior-Ragnaros", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Scrubwarrior-Ragnaros", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2146, -- [11]
+			"Player-3682-07F03FCA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Scrubwarrior-Ragnaros",
+			[51] = 1530559059,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [105]
+		{
+			"wrong chat", -- [1]
+			"Muhletproof-Eredar", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Muhletproof-Eredar", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2147, -- [11]
+			"Player-3692-065CCBBA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Muhletproof-Eredar",
+			[51] = 1530559061,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [106]
+		{
+			"these 4 give 12 % usually", -- [1]
+			"Joron-Kazzak", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Joron", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2148, -- [11]
+			"Player-1305-071EA32C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Joron",
+			[51] = 1530559108,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [107]
+		{
+			"Isn't it 3.7 something?", -- [1]
+			"Scrubwarrior-Ragnaros", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Scrubwarrior-Ragnaros", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2150, -- [11]
+			"Player-3682-07F03FCA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Scrubwarrior-Ragnaros",
+			[51] = 1530559141,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [108]
+		{
+			"gi", -- [1]
+			"Muhletproof-Eredar", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Muhletproof-Eredar", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2151, -- [11]
+			"Player-3692-065CCBBA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Muhletproof-Eredar",
+			[51] = 1530559146,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [109]
+		{
+			"go", -- [1]
+			"Muhletproof-Eredar", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Muhletproof-Eredar", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2152, -- [11]
+			"Player-3692-065CCBBA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Muhletproof-Eredar",
+			[51] = 1530559148,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [110]
+		{
+			"3.31 * 4", -- [1]
+			"Joron-Kazzak", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Joron", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2154, -- [11]
+			"Player-1305-071EA32C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Joron",
+			[51] = 1530559161,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [111]
+		{
+			"That's more than 12 :P", -- [1]
+			"Scrubwarrior-Ragnaros", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Scrubwarrior-Ragnaros", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2155, -- [11]
+			"Player-3682-07F03FCA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Scrubwarrior-Ragnaros",
+			[51] = 1530559190,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [112]
+		{
+			"13,3", -- [1]
+			"Muhletproof-Eredar", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Muhletproof-Eredar", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2158, -- [11]
+			"Player-3692-065CCBBA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Muhletproof-Eredar",
+			[51] = 1530559232,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [113]
+		{
+			"13,5", -- [1]
+			"Muhletproof-Eredar", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Muhletproof-Eredar", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2161, -- [11]
+			"Player-3692-065CCBBA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Muhletproof-Eredar",
+			[51] = 1530559242,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [114]
+		{
+			"took you long enough :P", -- [1]
+			"Scrubwarrior-Ragnaros", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Scrubwarrior-Ragnaros", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2162, -- [11]
+			"Player-3682-07F03FCA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Scrubwarrior-Ragnaros",
+			[51] = 1530559254,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [115]
+		{
+			"13,.4 tho", -- [1]
+			"Scrubwarrior-Ragnaros", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Scrubwarrior-Ragnaros", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2163, -- [11]
+			"Player-3682-07F03FCA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Scrubwarrior-Ragnaros",
+			[51] = 1530559261,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [116]
+		{
+			"im tired xD", -- [1]
+			"Muhletproof-Eredar", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Muhletproof-Eredar", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2164, -- [11]
+			"Player-3692-065CCBBA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Muhletproof-Eredar",
+			[51] = 1530559278,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [117]
+		{
+			"close eough xD", -- [1]
+			"Muhletproof-Eredar", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Muhletproof-Eredar", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2190, -- [11]
+			"Player-3692-065CCBBA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Muhletproof-Eredar",
+			[51] = 1530559537,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [118]
+		{
+			"*enough", -- [1]
+			"Muhletproof-Eredar", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Muhletproof-Eredar", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2191, -- [11]
+			"Player-3692-065CCBBA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Muhletproof-Eredar",
+			[51] = 1530559540,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [119]
+		{
+			"Pummel - |cff71d5ff|Hspell:198750:0|h[Surge]|h|r (Stormforged Obliterator)", -- [1]
+			"Scrubwarrior-Ragnaros", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Scrubwarrior-Ragnaros", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2195, -- [11]
+			"Player-3682-07F03FCA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Scrubwarrior-Ragnaros",
+			[51] = 1530559558,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [120]
+		{
+			"gg", -- [1]
+			"Joron-Kazzak", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Joron", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2201, -- [11]
+			"Player-1305-071EA32C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Joron",
+			[51] = 1530559583,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [121]
+		{
+			"ty all bb", -- [1]
+			"Muhletproof-Eredar", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Muhletproof-Eredar", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2210, -- [11]
+			"Player-3692-065CCBBA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Muhletproof-Eredar",
+			[51] = 1530559600,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [122]
+		{
+			"+15?", -- [1]
+			"Scrubwarrior-Ragnaros", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Scrubwarrior-Ragnaros", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2211, -- [11]
+			"Player-3682-07F03FCA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Scrubwarrior-Ragnaros",
+			[51] = 1530559603,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [123]
+		{
+			"bb ty", -- [1]
+			"Joron-Kazzak", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Joron", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2212, -- [11]
+			"Player-1305-071EA32C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Joron",
+			[51] = 1530559605,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [124]
+		{
+			"bb", -- [1]
+			"Nergal-Ragnaros", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Nergal-Ragnaros", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2216, -- [11]
+			"Player-3682-05CE8F17", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Nergal-Ragnaros",
+			[51] = 1530559615,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [125]
+		{
+			"|cffffff00|Hachievement:11162:Player-1104-058B89FE:1:2:3:17:4294967295:4294967295:4294967295:4294967295|h[Schlüsselsteinmeister]|h|r", -- [1]
+			"Uv-Nathrezim", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Uv-Nathrezim", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1457, -- [11]
+			"Player-1104-058B89FE", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Uv-Nathrezim",
+			[51] = 1530638925,
+			[50] = "CHAT_MSG_WHISPER",
+		}, -- [126]
+		{
+			"|cffffff00|Hachievement:11185:Player-1091-0672E6E1:1:6:30:18:4294967295:4294967295:4294967295:4294967295|h[Keystone Conqueror]|h|r", -- [1]
+			"Kannatan-Twilight'sHammer", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Kannatan-Twilight'sHammer", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1459, -- [11]
+			"Player-1091-0672E6E1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Kannatan-Twilight'sHammer",
+			[51] = 1530638931,
+			[50] = "CHAT_MSG_WHISPER",
 		}, -- [127]
 	},
 }

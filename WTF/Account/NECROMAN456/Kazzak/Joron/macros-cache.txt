@@ -23,7 +23,10 @@ VER 3 0100000000000003 "lifebloom mouse" "INV_MISC_QUESTIONMARK"
 /cast [target=mouseover]lifebloom
 END
 VER 3 0100000000000013 "mangle mouse" "INV_MISC_QUESTIONMARK"
-#showtooltip
+#showtooltip mangle
+/use 13
+/use 14
+/cast Berserking
 /cast [@mouseover, harm, nodead][@target]mangle
 END
 VER 3 0100000000000012 "monnfire mouse" "INV_MISC_QUESTIONMARK"

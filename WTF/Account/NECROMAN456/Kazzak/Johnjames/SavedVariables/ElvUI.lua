@@ -13,558 +13,12 @@ ElvCharacterDB = {
 		"/i come to me and jump", -- [10]
 		"/i when did they change this instance?", -- [11]
 		"/i we need to kill more trees", -- [12]
+		"/i bb all", -- [13]
+		"/i reddit The_Donald", -- [14]
+		"/i healer looks afk", -- [15]
+		"/i bb", -- [16]
 	},
 	["ChatHistoryLog"] = {
-		{
-			"fail", -- [1]
-			"Ayuaelustaja-Outland", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Ayuaelustaja-Outland", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			197, -- [11]
-			"Player-1301-09CFCF0A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Ayuaelustaja-Outland",
-			[51] = 1530348295,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [1]
-		{
-			"wait", -- [1]
-			"Ayuaelustaja-Outland", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Ayuaelustaja-Outland", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			198, -- [11]
-			"Player-1301-09CFCF0A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Ayuaelustaja-Outland",
-			[51] = 1530348296,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [2]
-		{
-			":')", -- [1]
-			"Thourenn-Pozzodell'Eternità", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thourenn-Pozzodell'Eternità", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			199, -- [11]
-			"Player-1309-09C81B6C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Thourenn-Pozzodell'Eternità",
-			[51] = 1530348312,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [3]
-		{
-			"hello", -- [1]
-			"Giacu-Runetotem", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Giacu-Runetotem", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			349, -- [11]
-			"Player-1311-09D00F4D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Giacu-Runetotem",
-			[51] = 1530349482,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [4]
-		{
-			"hi", -- [1]
-			"Thourenn-Pozzodell'Eternità", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thourenn-Pozzodell'Eternità", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			352, -- [11]
-			"Player-1309-09C81B6C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Thourenn-Pozzodell'Eternità",
-			[51] = 1530349487,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [5]
-		{
-			";D", -- [1]
-			"Thourenn-Pozzodell'Eternità", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Thourenn-Pozzodell'Eternità", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			354, -- [11]
-			"Player-1309-09C81B6C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Thourenn-Pozzodell'Eternità",
-			[51] = 1530349489,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [6]
-		{
-			"need 2 min", -- [1]
-			"Klava-Aggramar", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Klava-Aggramar", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			540, -- [11]
-			"Player-1325-065CECAC", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Klava-Aggramar",
-			[51] = 1530350330,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [7]
-		{
-			"sorry", -- [1]
-			"Klava-Aggramar", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Klava-Aggramar", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			541, -- [11]
-			"Player-1325-065CECAC", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Klava-Aggramar",
-			[51] = 1530350332,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [8]
-		{
-			"healer is not here", -- [1]
-			"Johnjames-Kazzak", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Johnjames", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			553, -- [11]
-			"Player-1305-09D01127", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Johnjames",
-			[51] = 1530350387,
-			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [9]
-		{
-			"small pulls then", -- [1]
-			"Boomxakalaca-Kazzak", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Boomxakalaca", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			560, -- [11]
-			"Player-1305-09CDB472", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Boomxakalaca",
-			[51] = 1530350428,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [10]
-		{
-			"I swear", -- [1]
-			"Boomxakalaca-Kazzak", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Boomxakalaca", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			657, -- [11]
-			"Player-1305-09CDB472", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Boomxakalaca",
-			[51] = 1530350889,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [11]
-		{
-			"this healer is !@#", -- [1]
-			"Boomxakalaca-Kazzak", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Boomxakalaca", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			660, -- [11]
-			"Player-1305-09CDB472", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Boomxakalaca",
-			[51] = 1530350891,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [12]
-		{
-			"I AM $%^!", -- [1]
-			"Salieri-Drak'thul", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Salieri-Drak'thul", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			664, -- [11]
-			"Player-1092-07361E76", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Salieri-Drak'thul",
-			[51] = 1530350912,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [13]
-		{
-			"perfect!", -- [1]
-			"Johnjames-Kazzak", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Johnjames", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			714, -- [11]
-			"Player-1305-09D01127", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Johnjames",
-			[51] = 1530351232,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [14]
-		{
-			"Hello. Would you be interested in joining a social guild? We offer our members to run through old content and new content for achiv, mounts, transmorgs. We also have a few who do PvP and Raids.", -- [1]
-			"Adoptmé", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Adoptmé", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			370, -- [11]
-			"Player-1305-08994ACE", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Adoptmé",
-			[51] = 1530357043,
-			[50] = "CHAT_MSG_WHISPER",
-		}, -- [15]
-		{
-			"Greetings Johnjames! Do you want to join Rising Tide? It is a very nice and casual guild, we take it easy and have fun! If this interests you, feel free to reply and join in! Have a fantastic day adventuring in Azeroth and beyond! :D", -- [1]
-			"Pondato", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Pondato", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			520, -- [11]
-			"Player-1305-09CFEE97", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Pondato",
-			[51] = 1530357611,
-			[50] = "CHAT_MSG_WHISPER",
-		}, -- [16]
-		{
-			"------------------------------", -- [1]
-			"Sneakypeaky-Draenor", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sneakypeaky-Draenor", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			565, -- [11]
-			"Player-1403-06FD549E", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Sneakypeaky-Draenor",
-			[51] = 1530357781,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [17]
-		{
-			"<iLvl> 25.1 Iluvcats (Mistweaver)", -- [1]
-			"Sneakypeaky-Draenor", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sneakypeaky-Draenor", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			566, -- [11]
-			"Player-1403-06FD549E", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Sneakypeaky-Draenor",
-			[51] = 1530357781,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [18]
-		{
-			"<iLvl> 33.6 Voolkar (Fury)", -- [1]
-			"Sneakypeaky-Draenor", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sneakypeaky-Draenor", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			567, -- [11]
-			"Player-1403-06FD549E", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Sneakypeaky-Draenor",
-			[51] = 1530357781,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [19]
-		{
-			"<iLvl> 24.8 Meatcup (Destruction)", -- [1]
-			"Sneakypeaky-Draenor", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sneakypeaky-Draenor", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			568, -- [11]
-			"Player-1403-06FD549E", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Sneakypeaky-Draenor",
-			[51] = 1530357781,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [20]
-		{
-			"<iLvl> 21.1 Johnjames (Protection)", -- [1]
-			"Sneakypeaky-Draenor", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sneakypeaky-Draenor", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			569, -- [11]
-			"Player-1403-06FD549E", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Sneakypeaky-Draenor",
-			[51] = 1530357781,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [21]
-		{
-			"<iLvl> 31.8 Sneakypeaky (Subtlety)", -- [1]
-			"Sneakypeaky-Draenor", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sneakypeaky-Draenor", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			570, -- [11]
-			"Player-1403-06FD549E", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Sneakypeaky-Draenor",
-			[51] = 1530357781,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [22]
-		{
-			"------------------------------", -- [1]
-			"Sneakypeaky-Draenor", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sneakypeaky-Draenor", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			571, -- [11]
-			"Player-1403-06FD549E", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Sneakypeaky-Draenor",
-			[51] = 1530357781,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [23]
-		{
-			"------------------------------", -- [1]
-			"Sneakypeaky-Draenor", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sneakypeaky-Draenor", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			658, -- [11]
-			"Player-1403-06FD549E", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Sneakypeaky-Draenor",
-			[51] = 1530358017,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [24]
-		{
-			"<iLvl> 33.6 Voolkar (Fury)", -- [1]
-			"Sneakypeaky-Draenor", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Sneakypeaky-Draenor", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			659, -- [11]
-			"Player-1403-06FD549E", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Sneakypeaky-Draenor",
-			[51] = 1530358017,
-			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [25]
 		{
 			"<iLvl> 34.6 Sneakypeaky (Subtlety)", -- [1]
 			"Sneakypeaky-Draenor", -- [2]
@@ -586,7 +40,7 @@ ElvCharacterDB = {
 			[52] = "Sneakypeaky-Draenor",
 			[51] = 1530358017,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [26]
+		}, -- [1]
 		{
 			"<iLvl> 21.5 Feelsmooman (Mistweaver)", -- [1]
 			"Sneakypeaky-Draenor", -- [2]
@@ -608,7 +62,7 @@ ElvCharacterDB = {
 			[52] = "Sneakypeaky-Draenor",
 			[51] = 1530358017,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [27]
+		}, -- [2]
 		{
 			"<iLvl> 21.1 Johnjames (Protection)", -- [1]
 			"Sneakypeaky-Draenor", -- [2]
@@ -630,7 +84,7 @@ ElvCharacterDB = {
 			[52] = "Sneakypeaky-Draenor",
 			[51] = 1530358017,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [28]
+		}, -- [3]
 		{
 			"<iLvl> 32.8 Aimedshow (Beast Mastery)", -- [1]
 			"Sneakypeaky-Draenor", -- [2]
@@ -652,7 +106,7 @@ ElvCharacterDB = {
 			[52] = "Sneakypeaky-Draenor",
 			[51] = 1530358017,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [29]
+		}, -- [4]
 		{
 			"------------------------------", -- [1]
 			"Sneakypeaky-Draenor", -- [2]
@@ -674,7 +128,7 @@ ElvCharacterDB = {
 			[52] = "Sneakypeaky-Draenor",
 			[51] = 1530358017,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [30]
+		}, -- [5]
 		{
 			"hahaha john u suck ", -- [1]
 			"Bigbeltguy-Magtheridon", -- [2]
@@ -696,7 +150,7 @@ ElvCharacterDB = {
 			[52] = "Bigbeltguy-Magtheridon",
 			[51] = 1530358644,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [31]
+		}, -- [6]
 		{
 			"ty", -- [1]
 			"Pantyinspect-Sylvanas", -- [2]
@@ -718,7 +172,7 @@ ElvCharacterDB = {
 			[52] = "Pantyinspect-Sylvanas",
 			[51] = 1530359323,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [32]
+		}, -- [7]
 		{
 			"ty", -- [1]
 			"Johnjames-Kazzak", -- [2]
@@ -740,7 +194,7 @@ ElvCharacterDB = {
 			[52] = "Johnjames",
 			[51] = 1530359325,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [33]
+		}, -- [8]
 		{
 			"noob", -- [1]
 			"Bigbeltguy-Magtheridon", -- [2]
@@ -762,7 +216,7 @@ ElvCharacterDB = {
 			[52] = "Bigbeltguy-Magtheridon",
 			[51] = 1530359326,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [34]
+		}, -- [9]
 		{
 			"hi ", -- [1]
 			"Zanziler-DefiasBrotherhood", -- [2]
@@ -784,7 +238,7 @@ ElvCharacterDB = {
 			[52] = "Zanziler-DefiasBrotherhood",
 			[51] = 1530362902,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [35]
+		}, -- [10]
 		{
 			"hi", -- [1]
 			"Kittiwake-Ragnaros", -- [2]
@@ -806,7 +260,7 @@ ElvCharacterDB = {
 			[52] = "Kittiwake-Ragnaros",
 			[51] = 1530362923,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [36]
+		}, -- [11]
 		{
 			"hi", -- [1]
 			"Brón-C'Thun", -- [2]
@@ -828,7 +282,7 @@ ElvCharacterDB = {
 			[52] = "Brón-C'Thun",
 			[51] = 1530362929,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [37]
+		}, -- [12]
 		{
 			"!!!", -- [1]
 			"Brón-C'Thun", -- [2]
@@ -850,7 +304,7 @@ ElvCharacterDB = {
 			[52] = "Brón-C'Thun",
 			[51] = 1530363060,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [38]
+		}, -- [13]
 		{
 			"...", -- [1]
 			"Brón-C'Thun", -- [2]
@@ -872,7 +326,7 @@ ElvCharacterDB = {
 			[52] = "Brón-C'Thun",
 			[51] = 1530363087,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [39]
+		}, -- [14]
 		{
 			" >Destruction< 2/11M  is Recrutiting ALL CLASS for our hc and mythic Antorus and (BFA) Wed-Sun ( 7 to10 PM ) Join us for raiding experience.Scoial are welcome.. / w for more info", -- [1]
 			"Uoo", -- [2]
@@ -894,7 +348,7 @@ ElvCharacterDB = {
 			[52] = "Uoo",
 			[51] = 1530363167,
 			[50] = "CHAT_MSG_WHISPER",
-		}, -- [40]
+		}, -- [15]
 		{
 			"hey", -- [1]
 			"Kittiwake-Ragnaros", -- [2]
@@ -916,7 +370,7 @@ ElvCharacterDB = {
 			[52] = "Kittiwake-Ragnaros",
 			[51] = 1530363170,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [41]
+		}, -- [16]
 		{
 			"guys", -- [1]
 			"Kittiwake-Ragnaros", -- [2]
@@ -938,7 +392,7 @@ ElvCharacterDB = {
 			[52] = "Kittiwake-Ragnaros",
 			[51] = 1530363172,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [42]
+		}, -- [17]
 		{
 			"1 miss", -- [1]
 			"Kittiwake-Ragnaros", -- [2]
@@ -960,7 +414,7 @@ ElvCharacterDB = {
 			[52] = "Kittiwake-Ragnaros",
 			[51] = 1530363178,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [43]
+		}, -- [18]
 		{
 			"1 bonus", -- [1]
 			"Kittiwake-Ragnaros", -- [2]
@@ -982,7 +436,7 @@ ElvCharacterDB = {
 			[52] = "Kittiwake-Ragnaros",
 			[51] = 1530363192,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [44]
+		}, -- [19]
 		{
 			"come back andd ress me pls", -- [1]
 			"Gavial-Drak'thul", -- [2]
@@ -1004,7 +458,7 @@ ElvCharacterDB = {
 			[52] = "Gavial-Drak'thul",
 			[51] = 1530365156,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [45]
+		}, -- [20]
 		{
 			"i am in entry of castle", -- [1]
 			"Gavial-Drak'thul", -- [2]
@@ -1026,7 +480,7 @@ ElvCharacterDB = {
 			[52] = "Gavial-Drak'thul",
 			[51] = 1530365168,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [46]
+		}, -- [21]
 		{
 			"Interrupted Riverpaw Shaman's |cff71d5ff|Hspell:23381:0|h[Healing Touch]|h|r!", -- [1]
 			"Zenez-TarrenMill", -- [2]
@@ -1048,7 +502,7 @@ ElvCharacterDB = {
 			[52] = "Zenez-TarrenMill",
 			[51] = 1530374588,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [47]
+		}, -- [22]
 		{
 			".....", -- [1]
 			"Takemè-DefiasBrotherhood", -- [2]
@@ -1070,7 +524,7 @@ ElvCharacterDB = {
 			[52] = "Takemè-DefiasBrotherhood",
 			[51] = 1530375366,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [48]
+		}, -- [23]
 		{
 			"nah dps was low", -- [1]
 			"Johnjames-Kazzak", -- [2]
@@ -1092,7 +546,7 @@ ElvCharacterDB = {
 			[52] = "Johnjames",
 			[51] = 1530375388,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [49]
+		}, -- [24]
 		{
 			"i quess you dont even know whwere the bonus boss is", -- [1]
 			"Takemè-DefiasBrotherhood", -- [2]
@@ -1114,7 +568,7 @@ ElvCharacterDB = {
 			[52] = "Takemè-DefiasBrotherhood",
 			[51] = 1530375456,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [50]
+		}, -- [25]
 		{
 			"i love that i have to drink every fight", -- [1]
 			"Emberplanet-Quel'Thalas", -- [2]
@@ -1136,7 +590,7 @@ ElvCharacterDB = {
 			[52] = "Emberplanet-Quel'Thalas",
 			[51] = 1530375546,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [51]
+		}, -- [26]
 		{
 			"ehhe", -- [1]
 			"Takemè-DefiasBrotherhood", -- [2]
@@ -1158,7 +612,7 @@ ElvCharacterDB = {
 			[52] = "Takemè-DefiasBrotherhood",
 			[51] = 1530375555,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [52]
+		}, -- [27]
 		{
 			"arcan", -- [1]
 			"Emberplanet-Quel'Thalas", -- [2]
@@ -1180,7 +634,7 @@ ElvCharacterDB = {
 			[52] = "Emberplanet-Quel'Thalas",
 			[51] = 1530375563,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [53]
+		}, -- [28]
 		{
 			"where is the healer?", -- [1]
 			"Warak-Draenor", -- [2]
@@ -1202,7 +656,7 @@ ElvCharacterDB = {
 			[52] = "Warak-Draenor",
 			[51] = 1530383987,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [54]
+		}, -- [29]
 		{
 			"goin", -- [1]
 			"Feelsmooman-BurningLegion", -- [2]
@@ -1224,7 +678,7 @@ ElvCharacterDB = {
 			[52] = "Feelsmooman-BurningLegion",
 			[51] = 1530383993,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [55]
+		}, -- [30]
 		{
 			"|cff71d5ff|Hspell:2094:0|h[Blind]|h|r on Dark Iron Agent!", -- [1]
 			"Zippit-TwistingNether", -- [2]
@@ -1246,7 +700,7 @@ ElvCharacterDB = {
 			[52] = "Zippit-TwistingNether",
 			[51] = 1530384456,
 			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [56]
+		}, -- [31]
 		{
 			"|cff71d5ff|Hspell:2094:0|h[Blind]|h|r on Dark Iron Agent has ended!", -- [1]
 			"Zippit-TwistingNether", -- [2]
@@ -1268,7 +722,7 @@ ElvCharacterDB = {
 			[52] = "Zippit-TwistingNether",
 			[51] = 1530384457,
 			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [57]
+		}, -- [32]
 		{
 			"ty", -- [1]
 			"Livalli-Draenor", -- [2]
@@ -1290,7 +744,7 @@ ElvCharacterDB = {
 			[52] = "Livalli-Draenor",
 			[51] = 1530384781,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [58]
+		}, -- [33]
 		{
 			"np", -- [1]
 			"Feelsmooman-BurningLegion", -- [2]
@@ -1312,7 +766,7 @@ ElvCharacterDB = {
 			[52] = "Feelsmooman-BurningLegion",
 			[51] = 1530384795,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [59]
+		}, -- [34]
 		{
 			"can you guys just stop doing it", -- [1]
 			"Feelsmooman-BurningLegion", -- [2]
@@ -1334,7 +788,7 @@ ElvCharacterDB = {
 			[52] = "Feelsmooman-BurningLegion",
 			[51] = 1530384922,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [60]
+		}, -- [35]
 		{
 			"jump", -- [1]
 			"Johnjames-Kazzak", -- [2]
@@ -1356,7 +810,7 @@ ElvCharacterDB = {
 			[52] = "Johnjames",
 			[51] = 1530387516,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [61]
+		}, -- [36]
 		{
 			"jump", -- [1]
 			"Johnjames-Kazzak", -- [2]
@@ -1378,7 +832,7 @@ ElvCharacterDB = {
 			[52] = "Johnjames",
 			[51] = 1530387518,
 			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [62]
+		}, -- [37]
 		{
 			"come in start guys", -- [1]
 			"Twihunter-Kazzak", -- [2]
@@ -1400,7 +854,7 @@ ElvCharacterDB = {
 			[52] = "Twihunter",
 			[51] = 1530387560,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [63]
+		}, -- [38]
 		{
 			"and dont jump down..", -- [1]
 			"Twihunter-Kazzak", -- [2]
@@ -1422,7 +876,7 @@ ElvCharacterDB = {
 			[52] = "Twihunter",
 			[51] = 1530387564,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [64]
+		}, -- [39]
 		{
 			"jump", -- [1]
 			"Johnjames-Kazzak", -- [2]
@@ -1444,7 +898,7 @@ ElvCharacterDB = {
 			[52] = "Johnjames",
 			[51] = 1530388153,
 			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [65]
+		}, -- [40]
 		{
 			";ets go", -- [1]
 			"Twihunter-Kazzak", -- [2]
@@ -1466,7 +920,7 @@ ElvCharacterDB = {
 			[52] = "Twihunter",
 			[51] = 1530388161,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [66]
+		}, -- [41]
 		{
 			"with the airplane", -- [1]
 			"Twihunter-Kazzak", -- [2]
@@ -1488,7 +942,7 @@ ElvCharacterDB = {
 			[52] = "Twihunter",
 			[51] = 1530388165,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [67]
+		}, -- [42]
 		{
 			"come to me and jump", -- [1]
 			"Johnjames-Kazzak", -- [2]
@@ -1510,7 +964,7 @@ ElvCharacterDB = {
 			[52] = "Johnjames",
 			[51] = 1530388187,
 			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [68]
+		}, -- [43]
 		{
 			"kick this", -- [1]
 			"Twihunter-Kazzak", -- [2]
@@ -1532,7 +986,7 @@ ElvCharacterDB = {
 			[52] = "Twihunter",
 			[51] = 1530388373,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [69]
+		}, -- [44]
 		{
 			"%^&*!@#", -- [1]
 			"Twihunter-Kazzak", -- [2]
@@ -1554,7 +1008,7 @@ ElvCharacterDB = {
 			[52] = "Twihunter",
 			[51] = 1530388376,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [70]
+		}, -- [45]
 		{
 			"#", -- [1]
 			"Twihunter-Kazzak", -- [2]
@@ -1576,7 +1030,7 @@ ElvCharacterDB = {
 			[52] = "Twihunter",
 			[51] = 1530388555,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [71]
+		}, -- [46]
 		{
 			"when did they change this instance?", -- [1]
 			"Johnjames-Kazzak", -- [2]
@@ -1598,7 +1052,7 @@ ElvCharacterDB = {
 			[52] = "Johnjames",
 			[51] = 1530424879,
 			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [72]
+		}, -- [47]
 		{
 			"can some one share quests please", -- [1]
 			"Âysa-ArgentDawn", -- [2]
@@ -1620,7 +1074,7 @@ ElvCharacterDB = {
 			[52] = "Âysa-ArgentDawn",
 			[51] = 1530439126,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [73]
+		}, -- [48]
 		{
 			"Hi <No Name Available> is a Social guild Looking for more people to join us - We do not require anything from you except a friendly attitude in the guild chat - Thank you for reading/joining us.", -- [1]
 			"Dapinor", -- [2]
@@ -1642,7 +1096,7 @@ ElvCharacterDB = {
 			[52] = "Dapinor",
 			[51] = 1530439998,
 			[50] = "CHAT_MSG_WHISPER",
-		}, -- [74]
+		}, -- [49]
 		{
 			"brt doing mounted q", -- [1]
 			"Ämaxi-BurningLegion", -- [2]
@@ -1664,7 +1118,7 @@ ElvCharacterDB = {
 			[52] = "Ämaxi-BurningLegion",
 			[51] = 1530442687,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [75]
+		}, -- [50]
 		{
 			"where is this second tome?", -- [1]
 			"Haldun-DefiasBrotherhood", -- [2]
@@ -1686,7 +1140,7 @@ ElvCharacterDB = {
 			[52] = "Haldun-DefiasBrotherhood",
 			[51] = 1530443131,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [76]
+		}, -- [51]
 		{
 			"no idea", -- [1]
 			"Mänodesänto-Kazzak", -- [2]
@@ -1708,7 +1162,7 @@ ElvCharacterDB = {
 			[52] = "Mänodesänto",
 			[51] = 1530443140,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [77]
+		}, -- [52]
 		{
 			"im outside", -- [1]
 			"Mänodesänto-Kazzak", -- [2]
@@ -1730,7 +1184,7 @@ ElvCharacterDB = {
 			[52] = "Mänodesänto",
 			[51] = 1530443759,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [78]
+		}, -- [53]
 		{
 			"=)", -- [1]
 			"Mänodesänto-Kazzak", -- [2]
@@ -1752,7 +1206,7 @@ ElvCharacterDB = {
 			[52] = "Mänodesänto",
 			[51] = 1530443760,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [79]
+		}, -- [54]
 		{
 			"We manage xD", -- [1]
 			"Haldun-DefiasBrotherhood", -- [2]
@@ -1774,7 +1228,7 @@ ElvCharacterDB = {
 			[52] = "Haldun-DefiasBrotherhood",
 			[51] = 1530443804,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [80]
+		}, -- [55]
 		{
 			"|cffffff00Undercity is under attack!|r", -- [1]
 			"", -- [2]
@@ -1796,7 +1250,7 @@ ElvCharacterDB = {
 			[52] = "",
 			[51] = 1530444000,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [81]
+		}, -- [56]
 		{
 			"|cffffff00Undercity is under attack!|r", -- [1]
 			"", -- [2]
@@ -1818,7 +1272,7 @@ ElvCharacterDB = {
 			[52] = "",
 			[51] = 1530444065,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [82]
+		}, -- [57]
 		{
 			"we need to kill more trees", -- [1]
 			"Johnjames-Kazzak", -- [2]
@@ -1840,7 +1294,7 @@ ElvCharacterDB = {
 			[52] = "Johnjames",
 			[51] = 1530445206,
 			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
-		}, -- [83]
+		}, -- [58]
 		{
 			"agro", -- [1]
 			"Havay-Tyrande", -- [2]
@@ -1862,7 +1316,7 @@ ElvCharacterDB = {
 			[52] = "Havay-Tyrande",
 			[51] = 1530445213,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [84]
+		}, -- [59]
 		{
 			"dont heal me", -- [1]
 			"Ral-Tyrande", -- [2]
@@ -1884,7 +1338,7 @@ ElvCharacterDB = {
 			[52] = "Ral-Tyrande",
 			[51] = 1530457345,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [85]
+		}, -- [60]
 		{
 			"dw", -- [1]
 			"Ral-Tyrande", -- [2]
@@ -1906,7 +1360,7 @@ ElvCharacterDB = {
 			[52] = "Ral-Tyrande",
 			[51] = 1530457353,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [86]
+		}, -- [61]
 		{
 			"i have enoguh heal myself", -- [1]
 			"Ral-Tyrande", -- [2]
@@ -1928,7 +1382,7 @@ ElvCharacterDB = {
 			[52] = "Ral-Tyrande",
 			[51] = 1530457361,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [87]
+		}, -- [62]
 		{
 			"all", -- [1]
 			"Ral-Tyrande", -- [2]
@@ -1950,7 +1404,7 @@ ElvCharacterDB = {
 			[52] = "Ral-Tyrande",
 			[51] = 1530457646,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [88]
+		}, -- [63]
 		{
 			"get em all", -- [1]
 			"Ral-Tyrande", -- [2]
@@ -1972,7 +1426,7 @@ ElvCharacterDB = {
 			[52] = "Ral-Tyrande",
 			[51] = 1530457650,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [89]
+		}, -- [64]
 		{
 			"^^", -- [1]
 			"Ral-Tyrande", -- [2]
@@ -1994,7 +1448,7 @@ ElvCharacterDB = {
 			[52] = "Ral-Tyrande",
 			[51] = 1530458346,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [90]
+		}, -- [65]
 		{
 			"|cff71d5ff|Hspell:20707:0|h[Piedra de alma]|h|r", -- [1]
 			"Ral-Tyrande", -- [2]
@@ -2016,7 +1470,7 @@ ElvCharacterDB = {
 			[52] = "Ral-Tyrande",
 			[51] = 1530458355,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [91]
+		}, -- [66]
 		{
 			"hello there", -- [1]
 			"Júbilee-Doomhammer", -- [2]
@@ -2038,7 +1492,7 @@ ElvCharacterDB = {
 			[52] = "Júbilee-Doomhammer",
 			[51] = 1530467203,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [92]
+		}, -- [67]
 		{
 			"can we get the quest item please", -- [1]
 			"Krucifisk-TwistingNether", -- [2]
@@ -2060,7 +1514,7 @@ ElvCharacterDB = {
 			[52] = "Krucifisk-TwistingNether",
 			[51] = 1530467691,
 			[50] = "CHAT_MSG_INSTANCE_CHAT",
-		}, -- [93]
+		}, -- [68]
 		{
 			"|cffffff00Undercity is under attack!|r", -- [1]
 			"", -- [2]
@@ -2082,7 +1536,7 @@ ElvCharacterDB = {
 			[52] = "",
 			[51] = 1530468821,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [94]
+		}, -- [69]
 		{
 			"|cffffff00Undercity is under attack!|r", -- [1]
 			"", -- [2]
@@ -2104,6 +1558,1260 @@ ElvCharacterDB = {
 			[52] = "",
 			[51] = 1530469006,
 			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [70]
+		{
+			"np", -- [1]
+			"Solian-ScarshieldLegion", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Solian-ScarshieldLegion", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			247, -- [11]
+			"Player-1096-08170EBB", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Solian-ScarshieldLegion",
+			[51] = 1530544869,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [71]
+		{
+			"i keep forgetting shaman has bloodlust", -- [1]
+			"Surumë-ChamberofAspects", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Surumë-ChamberofAspects", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			585, -- [11]
+			"Player-1307-09CBEDA5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Surumë-ChamberofAspects",
+			[51] = 1530545749,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [72]
+		{
+			"my bad", -- [1]
+			"Surumë-ChamberofAspects", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Surumë-ChamberofAspects", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			586, -- [11]
+			"Player-1307-09CBEDA5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Surumë-ChamberofAspects",
+			[51] = 1530545752,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [73]
+		{
+			"bb all", -- [1]
+			"Johnjames-Kazzak", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Johnjames", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			262, -- [11]
+			"Player-1305-09D01127", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Johnjames",
+			[51] = 1530547863,
+			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+		}, -- [74]
+		{
+			"my bad", -- [1]
+			"Gamrgl-Draenor", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Gamrgl-Draenor", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			468, -- [11]
+			"Player-1403-06FD4D00", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Gamrgl-Draenor",
+			[51] = 1530548713,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [75]
+		{
+			"add btw", -- [1]
+			"Gamrgl-Draenor", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Gamrgl-Draenor", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			469, -- [11]
+			"Player-1403-06FD4D00", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Gamrgl-Draenor",
+			[51] = 1530548718,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [76]
+		{
+			"!@#$ my %^&*ing life", -- [1]
+			"Gamrgl-Draenor", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Gamrgl-Draenor", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			477, -- [11]
+			"Player-1403-06FD4D00", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Gamrgl-Draenor",
+			[51] = 1530548775,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [77]
+		{
+			"guys ", -- [1]
+			"Gamrgl-Draenor", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Gamrgl-Draenor", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			522, -- [11]
+			"Player-1403-06FD4D00", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Gamrgl-Draenor",
+			[51] = 1530548964,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [78]
+		{
+			"just low ", -- [1]
+			"Gamrgl-Draenor", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Gamrgl-Draenor", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			523, -- [11]
+			"Player-1403-06FD4D00", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Gamrgl-Draenor",
+			[51] = 1530548967,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [79]
+		{
+			"not dead", -- [1]
+			"Gamrgl-Draenor", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Gamrgl-Draenor", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			524, -- [11]
+			"Player-1403-06FD4D00", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Gamrgl-Draenor",
+			[51] = 1530548968,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [80]
+		{
+			"....", -- [1]
+			"Gamrgl-Draenor", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Gamrgl-Draenor", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			525, -- [11]
+			"Player-1403-06FD4D00", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Gamrgl-Draenor",
+			[51] = 1530548973,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [81]
+		{
+			"gg wp verry good tank ", -- [1]
+			"Gamrgl-Draenor", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Gamrgl-Draenor", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			758, -- [11]
+			"Player-1403-06FD4D00", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Gamrgl-Draenor",
+			[51] = 1530550002,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [82]
+		{
+			"where can i like and subscribe ?", -- [1]
+			"Gamrgl-Draenor", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Gamrgl-Draenor", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			776, -- [11]
+			"Player-1403-06FD4D00", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Gamrgl-Draenor",
+			[51] = 1530550031,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [83]
+		{
+			"reddit The_Donald", -- [1]
+			"Johnjames-Kazzak", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Johnjames", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			781, -- [11]
+			"Player-1305-09D01127", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Johnjames",
+			[51] = 1530550051,
+			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+		}, -- [84]
+		{
+			"Interrupted Blazing Fireguard's |cff71d5ff|Hspell:20787:0|h[Immolate]|h|r!", -- [1]
+			"Ðanda-Stormscale", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Ðanda-Stormscale", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			71, -- [11]
+			"Player-2073-065D2247", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Ðanda-Stormscale",
+			[51] = 1530562857,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [85]
+		{
+			"Dogs, my eternal enemy", -- [1]
+			"Linkkieii-Ravencrest", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Linkkieii-Ravencrest", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			72, -- [11]
+			"Player-1329-065C5DF0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Linkkieii-Ravencrest",
+			[51] = 1530562876,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [86]
+		{
+			"guys, go Grim guzzler", -- [1]
+			"Ðanda-Stormscale", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Ðanda-Stormscale", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			77, -- [11]
+			"Player-2073-065D2247", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Ðanda-Stormscale",
+			[51] = 1530562901,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [87]
+		{
+			"Lord Incendius is Immune to my |cff71d5ff|Hspell:147362:0|h[Counter Shot]|h|r!", -- [1]
+			"Ðanda-Stormscale", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Ðanda-Stormscale", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			80, -- [11]
+			"Player-2073-065D2247", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Ðanda-Stormscale",
+			[51] = 1530562932,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [88]
+		{
+			"good pull guys", -- [1]
+			"Ðanda-Stormscale", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Ðanda-Stormscale", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			81, -- [11]
+			"Player-2073-065D2247", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Ðanda-Stormscale",
+			[51] = 1530562942,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [89]
+		{
+			"Interrupted Fineous Darkvire's |cff71d5ff|Hspell:15493:0|h[Holy Light]|h|r!", -- [1]
+			"Ðanda-Stormscale", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Ðanda-Stormscale", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			97, -- [11]
+			"Player-2073-065D2247", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Ðanda-Stormscale",
+			[51] = 1530562969,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [90]
+		{
+			"Dispelled |cff71d5ff|Hspell:15346:0|h[Seal of Reckoning]|h|r on Fineous Darkvire!", -- [1]
+			"Hasmala-Kazzak", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Hasmala", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			112, -- [11]
+			"Player-1305-0996C368", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Hasmala",
+			[51] = 1530563020,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [91]
+		{
+			"Interrupted Fineous Darkvire's |cff71d5ff|Hspell:15493:0|h[Holy Light]|h|r!", -- [1]
+			"Ðanda-Stormscale", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Ðanda-Stormscale", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			113, -- [11]
+			"Player-2073-065D2247", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Ðanda-Stormscale",
+			[51] = 1530563029,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [92]
+		{
+			"Dispelled |cff71d5ff|Hspell:15346:0|h[Seal of Reckoning]|h|r on Fineous Darkvire!", -- [1]
+			"Hasmala-Kazzak", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Hasmala", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			114, -- [11]
+			"Player-1305-0996C368", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Hasmala",
+			[51] = 1530563035,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [93]
+		{
+			"Dispelled |cff71d5ff|Hspell:15346:0|h[Seal of Reckoning]|h|r on Fineous Darkvire!", -- [1]
+			"Hasmala-Kazzak", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Hasmala", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			115, -- [11]
+			"Player-1305-0996C368", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Hasmala",
+			[51] = 1530563050,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [94]
+		{
+			"Interrupted Fineous Darkvire's |cff71d5ff|Hspell:15493:0|h[Holy Light]|h|r!", -- [1]
+			"Ðanda-Stormscale", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Ðanda-Stormscale", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			116, -- [11]
+			"Player-2073-065D2247", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Ðanda-Stormscale",
+			[51] = 1530563053,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
 		}, -- [95]
+		{
+			"**Egla new family ** hello my friend** ", -- [1]
+			"Bellonâ", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Bellonâ", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			451, -- [11]
+			"Player-1305-09C76AAB", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Bellonâ",
+			[51] = 1530564435,
+			[50] = "CHAT_MSG_WHISPER",
+		}, -- [96]
+		{
+			"healer looks afk", -- [1]
+			"Johnjames-Kazzak", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Johnjames", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			711, -- [11]
+			"Player-1305-09D01127", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Johnjames",
+			[51] = 1530565374,
+			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+		}, -- [97]
+		{
+			"indeed", -- [1]
+			"Hordorbor-DefiasBrotherhood", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Hordorbor-DefiasBrotherhood", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			714, -- [11]
+			"Player-1096-0815A7F1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Hordorbor-DefiasBrotherhood",
+			[51] = 1530565384,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [98]
+		{
+			"give it a min", -- [1]
+			"Hordorbor-DefiasBrotherhood", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Hordorbor-DefiasBrotherhood", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			715, -- [11]
+			"Player-1096-0815A7F1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Hordorbor-DefiasBrotherhood",
+			[51] = 1530565397,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [99]
+		{
+			"Hi there :] -Tavern Of The Lazy Peon. We welcome casuals to join us and relax within our tavern. We might not be able to organize raids / dungeons yet, but we aim to expand our numbers to do it casually.  /w me or other members for an invite.", -- [1]
+			"Hizorax", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Hizorax", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			721, -- [11]
+			"Player-1305-07923421", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Hizorax",
+			[51] = 1530565420,
+			[50] = "CHAT_MSG_WHISPER",
+		}, -- [100]
+		{
+			"bb", -- [1]
+			"Johnjames-Kazzak", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Johnjames", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			907, -- [11]
+			"Player-1305-09D01127", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Johnjames",
+			[51] = 1530566125,
+			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+		}, -- [101]
+		{
+			"r u !@#$ing kidding?", -- [1]
+			"Zmrok-Magtheridon", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Zmrok-Magtheridon", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			55, -- [11]
+			"Player-3681-091ACF49", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Zmrok-Magtheridon",
+			[51] = 1530631896,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [102]
+		{
+			"can we go grab the quests?", -- [1]
+			"Sorinah-Kazzak", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Sorinah", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			118, -- [11]
+			"Player-1305-09CA3FCC", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Sorinah",
+			[51] = 1530632383,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [103]
+		{
+			"hahahahahahha", -- [1]
+			"Bottomtwink-Kazzak", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Bottomtwink", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			129, -- [11]
+			"Player-1305-09A92A28", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Bottomtwink",
+			[51] = 1530632481,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [104]
+		{
+			"hohohoo", -- [1]
+			"Bottomtwink-Kazzak", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Bottomtwink", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			133, -- [11]
+			"Player-1305-09A92A28", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Bottomtwink",
+			[51] = 1530632489,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [105]
+		{
+			"hohohohoho", -- [1]
+			"Bottomtwink-Kazzak", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Bottomtwink", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			150, -- [11]
+			"Player-1305-09A92A28", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Bottomtwink",
+			[51] = 1530632568,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [106]
+		{
+			"Tendris is here", -- [1]
+			"Sorinah-Kazzak", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Sorinah", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			152, -- [11]
+			"Player-1305-09CA3FCC", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Sorinah",
+			[51] = 1530632593,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [107]
+		{
+			"my %^&* very big", -- [1]
+			"Bottomtwink-Kazzak", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Bottomtwink", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			170, -- [11]
+			"Player-1305-09A92A28", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Bottomtwink",
+			[51] = 1530632846,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [108]
+		{
+			"Interrupted Mana Remnant's |cff71d5ff|Hspell:20831:0|h[Chain Lightning]|h|r!", -- [1]
+			"Bottomtwink-Kazzak", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Bottomtwink", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			183, -- [11]
+			"Player-1305-09A92A28", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Bottomtwink",
+			[51] = 1530632936,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [109]
+		{
+			"Interrupted Mana Remnant's |cff71d5ff|Hspell:20831:0|h[Chain Lightning]|h|r!", -- [1]
+			"Bottomtwink-Kazzak", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Bottomtwink", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			211, -- [11]
+			"Player-1305-09A92A28", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Bottomtwink",
+			[51] = 1530633005,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [110]
+		{
+			"Interrupted Mana Remnant's |cff71d5ff|Hspell:20831:0|h[Chain Lightning]|h|r!", -- [1]
+			"Bottomtwink-Kazzak", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Bottomtwink", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			216, -- [11]
+			"Player-1305-09A92A28", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Bottomtwink",
+			[51] = 1530633026,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [111]
+		{
+			"Interrupted Eldreth Sorcerer's |cff71d5ff|Hspell:13323:0|h[Polymorph]|h|r!", -- [1]
+			"Bottomtwink-Kazzak", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Bottomtwink", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			220, -- [11]
+			"Player-1305-09A92A28", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Bottomtwink",
+			[51] = 1530633049,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [112]
+		{
+			"heal??", -- [1]
+			"Bottomtwink-Kazzak", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Bottomtwink", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			227, -- [11]
+			"Player-1305-09A92A28", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Bottomtwink",
+			[51] = 1530633067,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [113]
+		{
+			"wtf", -- [1]
+			"Bottomtwink-Kazzak", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Bottomtwink", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			228, -- [11]
+			"Player-1305-09A92A28", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Bottomtwink",
+			[51] = 1530633069,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [114]
+		{
+			"Interrupted Arcane Torrent's |cff71d5ff|Hspell:22945:0|h[Forked Lightning]|h|r!", -- [1]
+			"Bottomtwink-Kazzak", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Bottomtwink", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			265, -- [11]
+			"Player-1305-09A92A28", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Bottomtwink",
+			[51] = 1530633641,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [115]
+		{
+			"Interrupted Arcane Torrent's |cff71d5ff|Hspell:22945:0|h[Forked Lightning]|h|r!", -- [1]
+			"Bottomtwink-Kazzak", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Bottomtwink", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			266, -- [11]
+			"Player-1305-09A92A28", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Bottomtwink",
+			[51] = 1530633659,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [116]
+		{
+			"Interrupted Arcane Torrent's |cff71d5ff|Hspell:22945:0|h[Forked Lightning]|h|r!", -- [1]
+			"Bottomtwink-Kazzak", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Bottomtwink", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			279, -- [11]
+			"Player-1305-09A92A28", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Bottomtwink",
+			[51] = 1530633741,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [117]
+		{
+			"so many bonus objectives :)", -- [1]
+			"Sorinah-Kazzak", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Sorinah", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			432, -- [11]
+			"Player-1305-09CA3FCC", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Sorinah",
+			[51] = 1530634243,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [118]
+		{
+			"damn he loved me", -- [1]
+			"Sorinah-Kazzak", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Sorinah", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			804, -- [11]
+			"Player-1305-09CA3FCC", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Sorinah",
+			[51] = 1530636190,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [119]
+		{
+			"bried will be back in a sec", -- [1]
+			"Hornayy-AzjolNerub", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Hornayy-AzjolNerub", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			933, -- [11]
+			"Player-1396-08FC3413", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Hornayy-AzjolNerub",
+			[51] = 1530636657,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [120]
+		{
+			"hesh coming back RN", -- [1]
+			"Hornayy-AzjolNerub", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Hornayy-AzjolNerub", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			961, -- [11]
+			"Player-1396-08FC3413", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Hornayy-AzjolNerub",
+			[51] = 1530636800,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [121]
+		{
+			"Counterspelled Gordok Mage-Lord's |cff71d5ff|Hspell:13323:0|h[Polymorph]|h|r! ...hic!", -- [1]
+			"Arnbek-Stormscale", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Arnbek-Stormscale", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			968, -- [11]
+			"Player-2073-06100DB9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Arnbek-Stormscale",
+			[51] = 1530636846,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [122]
+		{
+			"Counterspelled Gordok Mage-Lord's |cff71d5ff|Hspell:13323:0|h[Polymorph]|h|r!", -- [1]
+			"Arnbek-Stormscale", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Arnbek-Stormscale", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			994, -- [11]
+			"Player-2073-06100DB9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Arnbek-Stormscale",
+			[51] = 1530636983,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [123]
+		{
+			"oh we got a tank", -- [1]
+			"Tvärbengo-TarrenMill", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Tvärbengo-TarrenMill", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1237, -- [11]
+			"Player-1084-08942E5B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Tvärbengo-TarrenMill",
+			[51] = 1530638312,
+			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+		}, -- [124]
+		{
+			"nice", -- [1]
+			"Tvärbengo-TarrenMill", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Tvärbengo-TarrenMill", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1238, -- [11]
+			"Player-1084-08942E5B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Tvärbengo-TarrenMill",
+			[51] = 1530638314,
+			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+		}, -- [125]
+		{
+			"il go deeps again then", -- [1]
+			"Tvärbengo-TarrenMill", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Tvärbengo-TarrenMill", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1242, -- [11]
+			"Player-1084-08942E5B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Tvärbengo-TarrenMill",
+			[51] = 1530638325,
+			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+		}, -- [126]
+		{
+			"or if you wanna dps johnjames", -- [1]
+			"Tvärbengo-TarrenMill", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Tvärbengo-TarrenMill", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1244, -- [11]
+			"Player-1084-08942E5B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Tvärbengo-TarrenMill",
+			[51] = 1530638332,
+			[50] = "CHAT_MSG_INSTANCE_CHAT_LEADER",
+		}, -- [127]
 	},
 }

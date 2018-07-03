@@ -1,6 +1,5 @@
 VER 3 0100000000000001 "charge mouse" "INV_MISC_QUESTIONMARK"
 #showtooltip  charge
-/cast Blood Fury(Racial)
 /cast [@mouseover, harm, nodead][@mouseover, help, nodead] [@target] charge
 END
 VER 3 0100000000000004 "pummel mouse" "INV_MISC_QUESTIONMARK"
@@ -14,4 +13,10 @@ END
 VER 3 0100000000000003 "throw mouse" "INV_MISC_QUESTIONMARK"
 #showtooltip 
 /cast [@mouseover, harm, nodead][@target] heroic throw
+END
+VER 3 0100000000000005 "thunder abi" "INV_MISC_QUESTIONMARK"
+#showtooltip Thunder clap
+/cast Blood Fury(Racial)
+/cast Battle Cry
+/cast Thunder Clap
 END
