@@ -1,3 +1,4 @@
 Grid: disabled
 Pawn: disabled
 FishingBuddy: disabled
+GroupHistory: disabled

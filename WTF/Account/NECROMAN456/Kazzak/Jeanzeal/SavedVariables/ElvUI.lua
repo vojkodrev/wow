@@ -1,1964 +1,28 @@
 
 ElvCharacterDB = {
 	["ChatEditHistory"] = {
-		"/cw Nienorra-TwistingNether yes", -- [1]
-		"/cw Nienorra-TwistingNether I'm at the spawn point]", -- [2]
-		"/cw Nienorra-TwistingNether tyty", -- [3]
-		"/stopattack", -- [4]
-		"/sh", -- [5]
-		"/p yo", -- [6]
-		"/p remember to soak", -- [7]
-		"/p bb ty all", -- [8]
-		"/p run to the wall with the giant", -- [9]
-		"/p bb", -- [10]
-		"/p ty", -- [11]
-		"/p hey", -- [12]
-		"/p gg", -- [13]
-		"/p ty all bb", -- [14]
-		"/p name?", -- [15]
-		"/p without", -- [16]
-		"/p wrong way :)", -- [17]
-		"/p bb all ty", -- [18]
-		"/cw Soulxd-C'Thun nice portal hehe", -- [19]
-		"/who soulxd-c*thun", -- [20]
+		"/p name?", -- [1]
+		"/p without", -- [2]
+		"/p wrong way :)", -- [3]
+		"/p bb all ty", -- [4]
+		"/cw Soulxd-C'Thun nice portal hehe", -- [5]
+		"/who soulxd-c*thun", -- [6]
+		"/p I'm at the stone", -- [7]
+		"/p lower", -- [8]
+		"/cw Bearzilla-TarrenMill can you help me summon?", -- [9]
+		"/cw Bearzilla-TarrenMill ty", -- [10]
+		"/cw Illidaxi-Alonsus did you get the summon?", -- [11]
+		"/cw Bearzilla-TarrenMill we are inside", -- [12]
+		"/p drums here?", -- [13]
+		"/p when?", -- [14]
+		"/p start?", -- [15]
+		"/p damn", -- [16]
+		"/p i pulled a mob", -- [17]
+		"/cw Illidaxi-Alonsus  do you need |cffa335ee|Hitem:142205::::::::110:581::16:3:3536:1557:3528:::|h[Jabber Grookin' Gauntlets]|h|r", -- [18]
+		"/cw Illidaxi-Alonsus I could use them?", -- [19]
+		"/cw Illidaxi-Alonsus tyty", -- [20]
 	},
 	["ChatHistoryLog"] = {
-		{
-			"hey", -- [1]
-			"Jeanzeal-Kazzak", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Jeanzeal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			100, -- [11]
-			"Player-1305-0932467F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Jeanzeal",
-			[51] = 1530382384,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [1]
-		{
-			"need sum healer?", -- [1]
-			"Snavs-Twilight'sHammer", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Snavs-Twilight'sHammer", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			104, -- [11]
-			"Player-1091-088EA114", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Snavs-Twilight'sHammer",
-			[51] = 1530382475,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [2]
-		{
-			"run to the wall with the giant", -- [1]
-			"Jeanzeal-Kazzak", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Jeanzeal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			165, -- [11]
-			"Player-1305-0932467F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Jeanzeal",
-			[51] = 1530383646,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [3]
-		{
-			"comeon m8", -- [1]
-			"Snavs-Twilight'sHammer", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Snavs-Twilight'sHammer", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			171, -- [11]
-			"Player-1091-088EA114", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Snavs-Twilight'sHammer",
-			[51] = 1530383668,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [4]
-		{
-			"run it into a wall", -- [1]
-			"Snavs-Twilight'sHammer", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Snavs-Twilight'sHammer", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			173, -- [11]
-			"Player-1091-088EA114", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Snavs-Twilight'sHammer",
-			[51] = 1530383673,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [5]
-		{
-			"I had the giant chasing me", -- [1]
-			"Roax-Draenor", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Roax-Draenor", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			175, -- [11]
-			"Player-1403-06708A77", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Roax-Draenor",
-			[51] = 1530383679,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [6]
-		{
-			"because I was the only one on the damn thing so it didnt die", -- [1]
-			"Roax-Draenor", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Roax-Draenor", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			176, -- [11]
-			"Player-1403-06708A77", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Roax-Draenor",
-			[51] = 1530383687,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [7]
-		{
-			"u need to keit it so that it will run into a wall", -- [1]
-			"Snavs-Twilight'sHammer", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Snavs-Twilight'sHammer", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			182, -- [11]
-			"Player-1091-088EA114", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Snavs-Twilight'sHammer",
-			[51] = 1530383721,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [8]
-		{
-			"then we kill it", -- [1]
-			"Snavs-Twilight'sHammer", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Snavs-Twilight'sHammer", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			183, -- [11]
-			"Player-1091-088EA114", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Snavs-Twilight'sHammer",
-			[51] = 1530383724,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [9]
-		{
-			"cus it takes increadse dmg", -- [1]
-			"Snavs-Twilight'sHammer", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Snavs-Twilight'sHammer", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			185, -- [11]
-			"Player-1091-088EA114", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Snavs-Twilight'sHammer",
-			[51] = 1530383730,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [10]
-		{
-			"nm wp =)", -- [1]
-			"Snavs-Twilight'sHammer", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Snavs-Twilight'sHammer", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			187, -- [11]
-			"Player-1091-088EA114", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Snavs-Twilight'sHammer",
-			[51] = 1530383737,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [11]
-		{
-			"It wasnt on me at the start, it only went on me seconds before the boss started to channel", -- [1]
-			"Roax-Draenor", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Roax-Draenor", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			189, -- [11]
-			"Player-1403-06708A77", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Roax-Draenor",
-			[51] = 1530383742,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [12]
-		{
-			"thanks all", -- [1]
-			"Roax-Draenor", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Roax-Draenor", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			199, -- [11]
-			"Player-1403-06708A77", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Roax-Draenor",
-			[51] = 1530383804,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [13]
-		{
-			"bb", -- [1]
-			"Jeanzeal-Kazzak", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Jeanzeal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			202, -- [11]
-			"Player-1305-0932467F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Jeanzeal",
-			[51] = 1530383811,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [14]
-		{
-			"ty", -- [1]
-			"Jeanzeal-Kazzak", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Jeanzeal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			203, -- [11]
-			"Player-1305-0932467F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Jeanzeal",
-			[51] = 1530383813,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [15]
-		{
-			"hey", -- [1]
-			"Jeanzeal-Kazzak", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Jeanzeal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1435, -- [11]
-			"Player-1305-0932467F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Jeanzeal",
-			[51] = 1530552360,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [16]
-		{
-			"hey :)", -- [1]
-			"Fúlgrím-Blackrock", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Fúlgrím-Blackrock", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1436, -- [11]
-			"Player-581-072EF535", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Fúlgrím-Blackrock",
-			[51] = 1530552360,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [17]
-		{
-			"hey", -- [1]
-			"Gammora-Blackrock", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Gammora-Blackrock", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1440, -- [11]
-			"Player-581-06CD328B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Gammora-Blackrock",
-			[51] = 1530552362,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [18]
-		{
-			"oi", -- [1]
-			"Gistonic-Eredar", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Gistonic-Eredar", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1446, -- [11]
-			"Player-3692-0570D4A6", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Gistonic-Eredar",
-			[51] = 1530552493,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [19]
-		{
-			"hey", -- [1]
-			"Jeanzeal-Kazzak", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Jeanzeal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1447, -- [11]
-			"Player-1305-0932467F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Jeanzeal",
-			[51] = 1530552496,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [20]
-		{
-			"hi", -- [1]
-			"Кунгча-Борейскаятундра", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Кунгча-Борейскаятундра", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1448, -- [11]
-			"Player-1625-07135E6C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Кунгча-Борейскаятундра",
-			[51] = 1530552500,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [21]
-		{
-			"hi", -- [1]
-			"Gammora-Blackrock", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Gammora-Blackrock", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1449, -- [11]
-			"Player-581-06CD328B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Gammora-Blackrock",
-			[51] = 1530552504,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [22]
-		{
-			"ty", -- [1]
-			"Gistonic-Eredar", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Gistonic-Eredar", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1451, -- [11]
-			"Player-3692-0570D4A6", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Gistonic-Eredar",
-			[51] = 1530552528,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [23]
-		{
-			"|cff71d5ff|Hspell:238543:0|h[Dämonische Heilung]|h|r unterbrochen!", -- [1]
-			"Gammora-Blackrock", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Gammora-Blackrock", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1467, -- [11]
-			"Player-581-06CD328B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Gammora-Blackrock",
-			[51] = 1530552625,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [24]
-		{
-			"Teufelsschlag auf Fúlgrím", -- [1]
-			"Fúlgrím-Blackrock", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Fúlgrím-Blackrock", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1470, -- [11]
-			"Player-581-072EF535", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Fúlgrím-Blackrock",
-			[51] = 1530552719,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [25]
-		{
-			"Teufelsschlag auf Gammora", -- [1]
-			"Gammora-Blackrock", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Gammora-Blackrock", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1471, -- [11]
-			"Player-581-06CD328B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Gammora-Blackrock",
-			[51] = 1530552721,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [26]
-		{
-			"Teufelsschlag auf Gammora", -- [1]
-			"Gammora-Blackrock", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Gammora-Blackrock", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1472, -- [11]
-			"Player-581-06CD328B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Gammora-Blackrock",
-			[51] = 1530552727,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [27]
-		{
-			"Teufelsschlag auf Gammora", -- [1]
-			"Gammora-Blackrock", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Gammora-Blackrock", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1473, -- [11]
-			"Player-581-06CD328B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Gammora-Blackrock",
-			[51] = 1530552730,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [28]
-		{
-			"|cff71d5ff|Hspell:242724:0|h[Schreckensschrei]|h|r unterbrochen!", -- [1]
-			"Fúlgrím-Blackrock", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Fúlgrím-Blackrock", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1474, -- [11]
-			"Player-581-072EF535", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Fúlgrím-Blackrock",
-			[51] = 1530552734,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [29]
-		{
-			"dont pull like a girl :D", -- [1]
-			"Fúlgrím-Blackrock", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Fúlgrím-Blackrock", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1475, -- [11]
-			"Player-581-072EF535", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Fúlgrím-Blackrock",
-			[51] = 1530552747,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [30]
-		{
-			"Teufelsschlag auf Fúlgrím", -- [1]
-			"Fúlgrím-Blackrock", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Fúlgrím-Blackrock", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1476, -- [11]
-			"Player-581-072EF535", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Fúlgrím-Blackrock",
-			[51] = 1530552766,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [31]
-		{
-			"Teufelsschlag auf Fúlgrím", -- [1]
-			"Fúlgrím-Blackrock", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Fúlgrím-Blackrock", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1477, -- [11]
-			"Player-581-072EF535", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Fúlgrím-Blackrock",
-			[51] = 1530552773,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [32]
-		{
-			"Teufelsschlag auf Gistonic", -- [1]
-			"Gistonic-Eredar", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Gistonic-Eredar", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1478, -- [11]
-			"Player-3692-0570D4A6", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Gistonic-Eredar",
-			[51] = 1530552777,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [33]
-		{
-			"|cff71d5ff|Hspell:238543:0|h[Dämonische Heilung]|h|r unterbrochen!", -- [1]
-			"Gammora-Blackrock", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Gammora-Blackrock", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1480, -- [11]
-			"Player-581-06CD328B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Gammora-Blackrock",
-			[51] = 1530552777,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [34]
-		{
-			"Details! Кунгча's Tod: [Nahkampf]: 3.83M ", -- [1]
-			"Gammora-Blackrock", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Gammora-Blackrock", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1482, -- [11]
-			"Player-581-06CD328B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Gammora-Blackrock",
-			[51] = 1530552822,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [35]
-		{
-			"Fel Strike on Jeanzeal", -- [1]
-			"Jeanzeal-Kazzak", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Jeanzeal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1483, -- [11]
-			"Player-1305-0932467F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Jeanzeal",
-			[51] = 1530552823,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [36]
-		{
-			"nice agr", -- [1]
-			"Кунгча-Борейскаятундра", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Кунгча-Борейскаятундра", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1484, -- [11]
-			"Player-1625-07135E6C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Кунгча-Борейскаятундра",
-			[51] = 1530552830,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [37]
-		{
-			"Teufelsschlag auf Gistonic", -- [1]
-			"Gistonic-Eredar", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Gistonic-Eredar", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1485, -- [11]
-			"Player-3692-0570D4A6", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Gistonic-Eredar",
-			[51] = 1530552833,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [38]
-		{
-			"Teufelsschlag auf Fúlgrím", -- [1]
-			"Fúlgrím-Blackrock", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Fúlgrím-Blackrock", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1486, -- [11]
-			"Player-581-072EF535", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Fúlgrím-Blackrock",
-			[51] = 1530552843,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [39]
-		{
-			"|cff71d5ff|Hspell:238543:0|h[Dämonische Heilung]|h|r unterbrochen!", -- [1]
-			"Gammora-Blackrock", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Gammora-Blackrock", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1487, -- [11]
-			"Player-581-06CD328B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Gammora-Blackrock",
-			[51] = 1530552851,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [40]
-		{
-			"Teufelsschlag auf Gistonic", -- [1]
-			"Gistonic-Eredar", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Gistonic-Eredar", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1488, -- [11]
-			"Player-3692-0570D4A6", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Gistonic-Eredar",
-			[51] = 1530552852,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [41]
-		{
-			"Teufelsschlag auf Fúlgrím", -- [1]
-			"Fúlgrím-Blackrock", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Fúlgrím-Blackrock", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1489, -- [11]
-			"Player-581-072EF535", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Fúlgrím-Blackrock",
-			[51] = 1530552883,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [42]
-		{
-			"Teufelsschlag auf Fúlgrím", -- [1]
-			"Fúlgrím-Blackrock", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Fúlgrím-Blackrock", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1490, -- [11]
-			"Player-581-072EF535", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Fúlgrím-Blackrock",
-			[51] = 1530552889,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [43]
-		{
-			"|cff71d5ff|Hspell:237565:0|h[Brandheißer Regen]|h|r unterbrochen!", -- [1]
-			"Fúlgrím-Blackrock", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Fúlgrím-Blackrock", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1492, -- [11]
-			"Player-581-072EF535", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Fúlgrím-Blackrock",
-			[51] = 1530552928,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [44]
-		{
-			"|cff71d5ff|Hspell:237558:0|h[Dämonische Verjüngung]|h|r unterbrochen!", -- [1]
-			"Fúlgrím-Blackrock", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Fúlgrím-Blackrock", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1494, -- [11]
-			"Player-581-072EF535", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Fúlgrím-Blackrock",
-			[51] = 1530552975,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [45]
-		{
-			"Bindender Schuss", -- [1]
-			"Gammora-Blackrock", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Gammora-Blackrock", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1495, -- [11]
-			"Player-581-06CD328B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Gammora-Blackrock",
-			[51] = 1530552988,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [46]
-		{
-			"food pls magew", -- [1]
-			"Gistonic-Eredar", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Gistonic-Eredar", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1496, -- [11]
-			"Player-3692-0570D4A6", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Gistonic-Eredar",
-			[51] = 1530553013,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [47]
-		{
-			"ty", -- [1]
-			"Gistonic-Eredar", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Gistonic-Eredar", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1498, -- [11]
-			"Player-3692-0570D4A6", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Gistonic-Eredar",
-			[51] = 1530553038,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [48]
-		{
-			"Fixate on Jeanzeal", -- [1]
-			"Jeanzeal-Kazzak", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Jeanzeal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1501, -- [11]
-			"Player-1305-0932467F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Jeanzeal",
-			[51] = 1530553055,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [49]
-		{
-			"Details! Кунгча's Tod: |cff71d5ff|Hspell:239113:0|h[Arkanen Folianten werfen]|h|r: 1.81M ", -- [1]
-			"Gammora-Blackrock", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Gammora-Blackrock", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1507, -- [11]
-			"Player-581-06CD328B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Gammora-Blackrock",
-			[51] = 1530553170,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [50]
-		{
-			"Bindender Schuss", -- [1]
-			"Gammora-Blackrock", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Gammora-Blackrock", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1508, -- [11]
-			"Player-581-06CD328B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Gammora-Blackrock",
-			[51] = 1530553173,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [51]
-		{
-			"Details! Fúlgrím's Tod: |cff71d5ff|Hspell:240951:0|h[Zerstörerischer Amoklauf]|h|r: 37.90M ", -- [1]
-			"Gammora-Blackrock", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Gammora-Blackrock", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1517, -- [11]
-			"Player-581-06CD328B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Gammora-Blackrock",
-			[51] = 1530553304,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [52]
-		{
-			"^^ mb", -- [1]
-			"Fúlgrím-Blackrock", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Fúlgrím-Blackrock", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1521, -- [11]
-			"Player-581-072EF535", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Fúlgrím-Blackrock",
-			[51] = 1530553309,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [53]
-		{
-			"|cff71d5ff|Hspell:238489:0|h[Teufelsschlag]|h|r unterbrochen!", -- [1]
-			"Gammora-Blackrock", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Gammora-Blackrock", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1536, -- [11]
-			"Player-581-06CD328B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Gammora-Blackrock",
-			[51] = 1530553566,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [54]
-		{
-			"Bindender Schuss", -- [1]
-			"Gammora-Blackrock", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Gammora-Blackrock", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1541, -- [11]
-			"Player-581-06CD328B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Gammora-Blackrock",
-			[51] = 1530553587,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [55]
-		{
-			"ty all", -- [1]
-			"Gistonic-Eredar", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Gistonic-Eredar", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1560, -- [11]
-			"Player-3692-0570D4A6", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Gistonic-Eredar",
-			[51] = 1530553748,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [56]
-		{
-			"gg", -- [1]
-			"Jeanzeal-Kazzak", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Jeanzeal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1561, -- [11]
-			"Player-1305-0932467F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Jeanzeal",
-			[51] = 1530553749,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [57]
-		{
-			"ty :)", -- [1]
-			"Fúlgrím-Blackrock", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Fúlgrím-Blackrock", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1563, -- [11]
-			"Player-581-072EF535", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Fúlgrím-Blackrock",
-			[51] = 1530553753,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [58]
-		{
-			"ty all bb", -- [1]
-			"Jeanzeal-Kazzak", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Jeanzeal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1570, -- [11]
-			"Player-1305-0932467F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Jeanzeal",
-			[51] = 1530553776,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [59]
-		{
-			"hey", -- [1]
-			"Jeanzeal-Kazzak", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Jeanzeal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1631, -- [11]
-			"Player-1305-0932467F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Jeanzeal",
-			[51] = 1530554188,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [60]
-		{
-			"hey", -- [1]
-			"Soulxd-C'Thun", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Soulxd-C'Thun", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1632, -- [11]
-			"Player-1381-055D241C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Soulxd-C'Thun",
-			[51] = 1530554193,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [61]
-		{
-			"have heal", -- [1]
-			"Soulxd-C'Thun", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Soulxd-C'Thun", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1633, -- [11]
-			"Player-1381-055D241C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Soulxd-C'Thun",
-			[51] = 1530554195,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [62]
-		{
-			"invite him", -- [1]
-			"Soulxd-C'Thun", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Soulxd-C'Thun", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1634, -- [11]
-			"Player-1381-055D241C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Soulxd-C'Thun",
-			[51] = 1530554200,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [63]
-		{
-			"name?", -- [1]
-			"Jeanzeal-Kazzak", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Jeanzeal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1635, -- [11]
-			"Player-1305-0932467F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Jeanzeal",
-			[51] = 1530554206,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [64]
-		{
-			"dobercan", -- [1]
-			"Soulxd-C'Thun", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Soulxd-C'Thun", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1636, -- [11]
-			"Player-1381-055D241C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Soulxd-C'Thun",
-			[51] = 1530554210,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [65]
-		{
-			"hey", -- [1]
-			"Jeanzeal-Kazzak", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Jeanzeal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1638, -- [11]
-			"Player-1305-0932467F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Jeanzeal",
-			[51] = 1530554282,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [66]
-		{
-			"hi", -- [1]
-			"Dobercan-C'Thun", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Dobercan-C'Thun", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1639, -- [11]
-			"Player-1381-07897848", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Dobercan-C'Thun",
-			[51] = 1530554296,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [67]
-		{
-			"hey", -- [1]
-			"Fmlife-Thrall", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Fmlife-Thrall", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1641, -- [11]
-			"Player-604-04570A92", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Fmlife-Thrall",
-			[51] = 1530554349,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [68]
-		{
-			"hey", -- [1]
-			"Jeanzeal-Kazzak", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Jeanzeal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1643, -- [11]
-			"Player-1305-0932467F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Jeanzeal",
-			[51] = 1530554355,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [69]
-		{
-			"hey", -- [1]
-			"Clïqz-Blackrock", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Clïqz-Blackrock", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1644, -- [11]
-			"Player-581-075A2FB3", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Clïqz-Blackrock",
-			[51] = 1530554361,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [70]
-		{
-			"hi", -- [1]
-			"Soulxd-C'Thun", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Soulxd-C'Thun", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1645, -- [11]
-			"Player-1381-055D241C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Soulxd-C'Thun",
-			[51] = 1530554362,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [71]
-		{
-			"hi", -- [1]
-			"Fmlife-Thrall", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Fmlife-Thrall", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1646, -- [11]
-			"Player-604-04570A92", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Fmlife-Thrall",
-			[51] = 1530554364,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [72]
-		{
-			"ty", -- [1]
-			"Clïqz-Blackrock", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Clïqz-Blackrock", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1648, -- [11]
-			"Player-581-075A2FB3", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Clïqz-Blackrock",
-			[51] = 1530554401,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [73]
-		{
-			"with invis or without?", -- [1]
-			"Fmlife-Thrall", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Fmlife-Thrall", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1651, -- [11]
-			"Player-604-04570A92", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Fmlife-Thrall",
-			[51] = 1530554437,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [74]
-		{
-			"without", -- [1]
-			"Jeanzeal-Kazzak", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Jeanzeal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1652, -- [11]
-			"Player-1305-0932467F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Jeanzeal",
-			[51] = 1530554445,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [75]
-		{
-			"k", -- [1]
-			"Fmlife-Thrall", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Fmlife-Thrall", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1655, -- [11]
-			"Player-604-04570A92", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Fmlife-Thrall",
-			[51] = 1530554453,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [76]
-		{
-			"without", -- [1]
-			"Soulxd-C'Thun", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Soulxd-C'Thun", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1656, -- [11]
-			"Player-1381-055D241C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Soulxd-C'Thun",
-			[51] = 1530554456,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [77]
-		{
-			"Arrow Barrage on Jeanzeal", -- [1]
-			"Jeanzeal-Kazzak", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Jeanzeal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1683, -- [11]
-			"Player-1305-0932467F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Jeanzeal",
-			[51] = 1530554927,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [78]
-		{
-			"Arrow Barrage on Jeanzeal", -- [1]
-			"Jeanzeal-Kazzak", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Jeanzeal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1684, -- [11]
-			"Player-1305-0932467F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Jeanzeal",
-			[51] = 1530554956,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [79]
-		{
-			"Arrow Barrage on Jeanzeal", -- [1]
-			"Jeanzeal-Kazzak", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Jeanzeal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1685, -- [11]
-			"Player-1305-0932467F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Jeanzeal",
-			[51] = 1530554961,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [80]
-		{
-			"Arrow Barrage on Jeanzeal", -- [1]
-			"Jeanzeal-Kazzak", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Jeanzeal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1686, -- [11]
-			"Player-1305-0932467F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Jeanzeal",
-			[51] = 1530555002,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [81]
-		{
-			"Arrow Barrage on Jeanzeal", -- [1]
-			"Jeanzeal-Kazzak", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Jeanzeal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1690, -- [11]
-			"Player-1305-0932467F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Jeanzeal",
-			[51] = 1530555008,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [82]
-		{
-			"Arrow Barrage on Jeanzeal", -- [1]
-			"Jeanzeal-Kazzak", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Jeanzeal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1692, -- [11]
-			"Player-1305-0932467F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Jeanzeal",
-			[51] = 1530555025,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [83]
-		{
-			"Arrow Barrage on Jeanzeal", -- [1]
-			"Jeanzeal-Kazzak", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Jeanzeal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1693, -- [11]
-			"Player-1305-0932467F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Jeanzeal",
-			[51] = 1530555037,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [84]
-		{
-			"Arrow Barrage on Jeanzeal", -- [1]
-			"Jeanzeal-Kazzak", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Jeanzeal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1694, -- [11]
-			"Player-1305-0932467F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Jeanzeal",
-			[51] = 1530555055,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [85]
-		{
-			"Arrow Barrage on Jeanzeal", -- [1]
-			"Jeanzeal-Kazzak", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Jeanzeal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1697, -- [11]
-			"Player-1305-0932467F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Jeanzeal",
-			[51] = 1530555133,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [86]
-		{
-			"Arrow Barrage on Jeanzeal", -- [1]
-			"Jeanzeal-Kazzak", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Jeanzeal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1701, -- [11]
-			"Player-1305-0932467F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Jeanzeal",
-			[51] = 1530555185,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [87]
-		{
-			"Arrow Barrage on Jeanzeal", -- [1]
-			"Jeanzeal-Kazzak", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Jeanzeal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1702, -- [11]
-			"Player-1305-0932467F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Jeanzeal",
-			[51] = 1530555197,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [88]
 		{
 			"Arrow Barrage on Jeanzeal", -- [1]
 			"Jeanzeal-Kazzak", -- [2]
@@ -1980,7 +44,7 @@ ElvCharacterDB = {
 			[52] = "Jeanzeal",
 			[51] = 1530555212,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [89]
+		}, -- [1]
 		{
 			"Arrow Barrage on Jeanzeal", -- [1]
 			"Jeanzeal-Kazzak", -- [2]
@@ -2002,7 +66,7 @@ ElvCharacterDB = {
 			[52] = "Jeanzeal",
 			[51] = 1530555272,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [90]
+		}, -- [2]
 		{
 			"Arrow Barrage on Jeanzeal", -- [1]
 			"Jeanzeal-Kazzak", -- [2]
@@ -2024,7 +88,7 @@ ElvCharacterDB = {
 			[52] = "Jeanzeal",
 			[51] = 1530555280,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [91]
+		}, -- [3]
 		{
 			"w8", -- [1]
 			"Dobercan-C'Thun", -- [2]
@@ -2046,7 +110,7 @@ ElvCharacterDB = {
 			[52] = "Dobercan-C'Thun",
 			[51] = 1530555310,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [92]
+		}, -- [4]
 		{
 			"mage come on", -- [1]
 			"Dobercan-C'Thun", -- [2]
@@ -2068,7 +132,7 @@ ElvCharacterDB = {
 			[52] = "Dobercan-C'Thun",
 			[51] = 1530555320,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [93]
+		}, -- [5]
 		{
 			"capullo", -- [1]
 			"Soulxd-C'Thun", -- [2]
@@ -2090,7 +154,7 @@ ElvCharacterDB = {
 			[52] = "Soulxd-C'Thun",
 			[51] = 1530555330,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [94]
+		}, -- [6]
 		{
 			"3", -- [1]
 			"Dobercan-C'Thun", -- [2]
@@ -2112,7 +176,7 @@ ElvCharacterDB = {
 			[52] = "Dobercan-C'Thun",
 			[51] = 1530555442,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [95]
+		}, -- [7]
 		{
 			"3 nada mas, pero el chaman ...", -- [1]
 			"Dobercan-C'Thun", -- [2]
@@ -2134,7 +198,7 @@ ElvCharacterDB = {
 			[52] = "Dobercan-C'Thun",
 			[51] = 1530555491,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [96]
+		}, -- [8]
 		{
 			"yo 9 veces?", -- [1]
 			"Dobercan-C'Thun", -- [2]
@@ -2156,7 +220,7 @@ ElvCharacterDB = {
 			[52] = "Dobercan-C'Thun",
 			[51] = 1530555524,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [97]
+		}, -- [9]
 		{
 			"y el chaman?", -- [1]
 			"Dobercan-C'Thun", -- [2]
@@ -2178,7 +242,7 @@ ElvCharacterDB = {
 			[52] = "Dobercan-C'Thun",
 			[51] = 1530555543,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [98]
+		}, -- [10]
 		{
 			"i dont understand, german :S", -- [1]
 			"Fmlife-Thrall", -- [2]
@@ -2200,7 +264,7 @@ ElvCharacterDB = {
 			[52] = "Fmlife-Thrall",
 			[51] = 1530555553,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [99]
+		}, -- [11]
 		{
 			"how many you dies?", -- [1]
 			"Dobercan-C'Thun", -- [2]
@@ -2222,7 +286,7 @@ ElvCharacterDB = {
 			[52] = "Dobercan-C'Thun",
 			[51] = 1530555573,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [100]
+		}, -- [12]
 		{
 			"dies?", -- [1]
 			"Dobercan-C'Thun", -- [2]
@@ -2244,7 +308,7 @@ ElvCharacterDB = {
 			[52] = "Dobercan-C'Thun",
 			[51] = 1530555578,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [101]
+		}, -- [13]
 		{
 			"died", -- [1]
 			"Dobercan-C'Thun", -- [2]
@@ -2266,7 +330,7 @@ ElvCharacterDB = {
 			[52] = "Dobercan-C'Thun",
 			[51] = 1530555580,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [102]
+		}, -- [14]
 		{
 			"im at 33% rep", -- [1]
 			"Fmlife-Thrall", -- [2]
@@ -2288,7 +352,7 @@ ElvCharacterDB = {
 			[52] = "Fmlife-Thrall",
 			[51] = 1530555590,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [103]
+		}, -- [15]
 		{
 			"does someone have a repbot? not now, just to know", -- [1]
 			"Fmlife-Thrall", -- [2]
@@ -2310,7 +374,7 @@ ElvCharacterDB = {
 			[52] = "Fmlife-Thrall",
 			[51] = 1530555659,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [104]
+		}, -- [16]
 		{
 			"me", -- [1]
 			"Soulxd-C'Thun", -- [2]
@@ -2332,7 +396,7 @@ ElvCharacterDB = {
 			[52] = "Soulxd-C'Thun",
 			[51] = 1530555684,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [105]
+		}, -- [17]
 		{
 			"here", -- [1]
 			"Soulxd-C'Thun", -- [2]
@@ -2354,7 +418,7 @@ ElvCharacterDB = {
 			[52] = "Soulxd-C'Thun",
 			[51] = 1530555697,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [106]
+		}, -- [18]
 		{
 			"thanks ", -- [1]
 			"Fmlife-Thrall", -- [2]
@@ -2376,7 +440,7 @@ ElvCharacterDB = {
 			[52] = "Fmlife-Thrall",
 			[51] = 1530555709,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [107]
+		}, -- [19]
 		{
 			"joder", -- [1]
 			"Dobercan-C'Thun", -- [2]
@@ -2398,7 +462,7 @@ ElvCharacterDB = {
 			[52] = "Dobercan-C'Thun",
 			[51] = 1530555791,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [108]
+		}, -- [20]
 		{
 			"28", -- [1]
 			"Dobercan-C'Thun", -- [2]
@@ -2420,7 +484,7 @@ ElvCharacterDB = {
 			[52] = "Dobercan-C'Thun",
 			[51] = 1530555956,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [109]
+		}, -- [21]
 		{
 			"wit", -- [1]
 			"Dobercan-C'Thun", -- [2]
@@ -2442,7 +506,7 @@ ElvCharacterDB = {
 			[52] = "Dobercan-C'Thun",
 			[51] = 1530555962,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [110]
+		}, -- [22]
 		{
 			"a8", -- [1]
 			"Dobercan-C'Thun", -- [2]
@@ -2464,7 +528,7 @@ ElvCharacterDB = {
 			[52] = "Dobercan-C'Thun",
 			[51] = 1530555966,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [111]
+		}, -- [23]
 		{
 			"wait", -- [1]
 			"Dobercan-C'Thun", -- [2]
@@ -2486,7 +550,7 @@ ElvCharacterDB = {
 			[52] = "Dobercan-C'Thun",
 			[51] = 1530555968,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [112]
+		}, -- [24]
 		{
 			"?", -- [1]
 			"Soulxd-C'Thun", -- [2]
@@ -2508,7 +572,7 @@ ElvCharacterDB = {
 			[52] = "Soulxd-C'Thun",
 			[51] = 1530555987,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [113]
+		}, -- [25]
 		{
 			"goes", -- [1]
 			"Soulxd-C'Thun", -- [2]
@@ -2530,7 +594,7 @@ ElvCharacterDB = {
 			[52] = "Soulxd-C'Thun",
 			[51] = 1530556281,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [114]
+		}, -- [26]
 		{
 			"self-cd at shadowbolt", -- [1]
 			"Fmlife-Thrall", -- [2]
@@ -2552,7 +616,7 @@ ElvCharacterDB = {
 			[52] = "Fmlife-Thrall",
 			[51] = 1530556336,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [115]
+		}, -- [27]
 		{
 			"dude this healer", -- [1]
 			"Clïqz-Blackrock", -- [2]
@@ -2574,7 +638,7 @@ ElvCharacterDB = {
 			[52] = "Clïqz-Blackrock",
 			[51] = 1530556349,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [116]
+		}, -- [28]
 		{
 			"xD", -- [1]
 			"Clïqz-Blackrock", -- [2]
@@ -2596,7 +660,7 @@ ElvCharacterDB = {
 			[52] = "Clïqz-Blackrock",
 			[51] = 1530556349,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [117]
+		}, -- [29]
 		{
 			"...", -- [1]
 			"Dobercan-C'Thun", -- [2]
@@ -2618,7 +682,7 @@ ElvCharacterDB = {
 			[52] = "Dobercan-C'Thun",
 			[51] = 1530556350,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [118]
+		}, -- [30]
 		{
 			"close call dude^^", -- [1]
 			"Fmlife-Thrall", -- [2]
@@ -2640,7 +704,7 @@ ElvCharacterDB = {
 			[52] = "Fmlife-Thrall",
 			[51] = 1530556506,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [119]
+		}, -- [31]
 		{
 			"wrong way :)", -- [1]
 			"Jeanzeal-Kazzak", -- [2]
@@ -2662,7 +726,7 @@ ElvCharacterDB = {
 			[52] = "Jeanzeal",
 			[51] = 1530556519,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [120]
+		}, -- [32]
 		{
 			"bb guys", -- [1]
 			"Fmlife-Thrall", -- [2]
@@ -2684,7 +748,7 @@ ElvCharacterDB = {
 			[52] = "Fmlife-Thrall",
 			[51] = 1530556583,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [121]
+		}, -- [33]
 		{
 			"bb", -- [1]
 			"Soulxd-C'Thun", -- [2]
@@ -2706,7 +770,7 @@ ElvCharacterDB = {
 			[52] = "Soulxd-C'Thun",
 			[51] = 1530556588,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [122]
+		}, -- [34]
 		{
 			"BB", -- [1]
 			"Dobercan-C'Thun", -- [2]
@@ -2728,7 +792,7 @@ ElvCharacterDB = {
 			[52] = "Dobercan-C'Thun",
 			[51] = 1530556596,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [123]
+		}, -- [35]
 		{
 			"tiro de piedra", -- [1]
 			"Dobercan-C'Thun", -- [2]
@@ -2750,7 +814,7 @@ ElvCharacterDB = {
 			[52] = "Dobercan-C'Thun",
 			[51] = 1530556607,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [124]
+		}, -- [36]
 		{
 			"bb all ty", -- [1]
 			"Jeanzeal-Kazzak", -- [2]
@@ -2772,7 +836,7 @@ ElvCharacterDB = {
 			[52] = "Jeanzeal",
 			[51] = 1530556620,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [125]
+		}, -- [37]
 		{
 			"nice portal hehe", -- [1]
 			"Soulxd-C'Thun", -- [2]
@@ -2794,7 +858,7 @@ ElvCharacterDB = {
 			[52] = "Soulxd-C'Thun",
 			[51] = 1530556658,
 			[50] = "CHAT_MSG_WHISPER_INFORM",
-		}, -- [126]
+		}, -- [38]
 		{
 			"xD", -- [1]
 			"Soulxd-C'Thun", -- [2]
@@ -2815,6 +879,1942 @@ ElvCharacterDB = {
 			false, -- [17]
 			[52] = "Soulxd-C'Thun",
 			[51] = 1530556693,
+			[50] = "CHAT_MSG_WHISPER",
+		}, -- [39]
+		{
+			"hey", -- [1]
+			"Jeanzeal-Kazzak", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Jeanzeal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			24, -- [11]
+			"Player-1305-0932467F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Jeanzeal",
+			[51] = 1530730867,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [40]
+		{
+			"hi", -- [1]
+			"Ксеноморф-СвежевательДуш", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Ксеноморф-СвежевательДуш", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			25, -- [11]
+			"Player-1604-095DB58B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Ксеноморф-СвежевательДуш",
+			[51] = 1530730875,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [41]
+		{
+			"hi", -- [1]
+			"Fuyoko-Thrall", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Fuyoko-Thrall", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			28, -- [11]
+			"Player-604-08173B7D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Fuyoko-Thrall",
+			[51] = 1530730893,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [42]
+		{
+			"hi", -- [1]
+			"Simsalabim-Thrall", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Simsalabim-Thrall", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			30, -- [11]
+			"Player-604-07D3D68C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Simsalabim-Thrall",
+			[51] = 1530730900,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [43]
+		{
+			"I'm at the stone", -- [1]
+			"Jeanzeal-Kazzak", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Jeanzeal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			35, -- [11]
+			"Player-1305-0932467F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Jeanzeal",
+			[51] = 1530730951,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [44]
+		{
+			"Aloha", -- [1]
+			"Kailas-DerAbyssischeRat", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Kailas-DerAbyssischeRat", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			36, -- [11]
+			"Player-1121-05211FB2", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Kailas-DerAbyssischeRat",
+			[51] = 1530730963,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [45]
+		{
+			"aloha krakatoa", -- [1]
+			"Fuyoko-Thrall", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Fuyoko-Thrall", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			37, -- [11]
+			"Player-604-08173B7D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Fuyoko-Thrall",
+			[51] = 1530731041,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [46]
+		{
+			"Unterbrochen Verdorrtes Managespenst's |cff71d5ff|Hspell:210684:0|h[Essenz entziehen]|h|r!", -- [1]
+			"Fuyoko-Thrall", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Fuyoko-Thrall", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			46, -- [11]
+			"Player-604-08173B7D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Fuyoko-Thrall",
+			[51] = 1530731285,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [47]
+		{
+			"Unterbrochen Warpschemen's |cff71d5ff|Hspell:211115:0|h[Phasenbresche]|h|r!", -- [1]
+			"Fuyoko-Thrall", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Fuyoko-Thrall", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			47, -- [11]
+			"Player-604-08173B7D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Fuyoko-Thrall",
+			[51] = 1530731302,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [48]
+		{
+			"Unterbrochen Vergessener Geist's |cff71d5ff|Hspell:226269:0|h[Folter]|h|r!", -- [1]
+			"Fuyoko-Thrall", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Fuyoko-Thrall", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			48, -- [11]
+			"Player-604-08173B7D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Fuyoko-Thrall",
+			[51] = 1530731328,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [49]
+		{
+			"Unterbrochen Warpschemen's |cff71d5ff|Hspell:211115:0|h[Phasenbresche]|h|r!", -- [1]
+			"Fuyoko-Thrall", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Fuyoko-Thrall", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			51, -- [11]
+			"Player-604-08173B7D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Fuyoko-Thrall",
+			[51] = 1530731402,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [50]
+		{
+			"Unterbrochen Warpschemen's |cff71d5ff|Hspell:211115:0|h[Phasenbresche]|h|r!", -- [1]
+			"Fuyoko-Thrall", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Fuyoko-Thrall", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			52, -- [11]
+			"Player-604-08173B7D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Fuyoko-Thrall",
+			[51] = 1530731418,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [51]
+		{
+			"Unterbrochen Arkananomalie's |cff71d5ff|Hspell:226206:0|h[Arkane Rekonstitution]|h|r!", -- [1]
+			"Fuyoko-Thrall", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Fuyoko-Thrall", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			53, -- [11]
+			"Player-604-08173B7D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Fuyoko-Thrall",
+			[51] = 1530731451,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [52]
+		{
+			"Unterbrochen Ivanyr's |cff71d5ff|Hspell:196392:0|h[Mana überladen]|h|r!", -- [1]
+			"Fuyoko-Thrall", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Fuyoko-Thrall", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			58, -- [11]
+			"Player-604-08173B7D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Fuyoko-Thrall",
+			[51] = 1530731498,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [53]
+		{
+			"Unterbrochen Ivanyr's |cff71d5ff|Hspell:196357:0|h[Arkanschlag]|h|r!", -- [1]
+			"Fuyoko-Thrall", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Fuyoko-Thrall", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			61, -- [11]
+			"Player-604-08173B7D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Fuyoko-Thrall",
+			[51] = 1530731530,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [54]
+		{
+			"Unterbrochen Ivanyr's |cff71d5ff|Hspell:196392:0|h[Mana überladen]|h|r!", -- [1]
+			"Fuyoko-Thrall", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Fuyoko-Thrall", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			62, -- [11]
+			"Player-604-08173B7D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Fuyoko-Thrall",
+			[51] = 1530731543,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [55]
+		{
+			"Quarantäne auf Fuyoko", -- [1]
+			"Fuyoko-Thrall", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Fuyoko-Thrall", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			71, -- [11]
+			"Player-604-08173B7D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Fuyoko-Thrall",
+			[51] = 1530731750,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [56]
+		{
+			"Unterbrochen Verdorrtes Managespenst's |cff71d5ff|Hspell:210684:0|h[Essenz entziehen]|h|r!", -- [1]
+			"Fuyoko-Thrall", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Fuyoko-Thrall", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			73, -- [11]
+			"Player-604-08173B7D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Fuyoko-Thrall",
+			[51] = 1530731843,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [57]
+		{
+			"Unterbrochen Chaosbringer der Eredar's |cff71d5ff|Hspell:211571:0|h[Chaosblitz]|h|r!", -- [1]
+			"Fuyoko-Thrall", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Fuyoko-Thrall", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			89, -- [11]
+			"Player-604-08173B7D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Fuyoko-Thrall",
+			[51] = 1530732140,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [58]
+		{
+			"Unterbrochen Vergessener Geist's |cff71d5ff|Hspell:226269:0|h[Folter]|h|r!", -- [1]
+			"Fuyoko-Thrall", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Fuyoko-Thrall", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			90, -- [11]
+			"Player-604-08173B7D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Fuyoko-Thrall",
+			[51] = 1530732163,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [59]
+		{
+			"Unterbrochen Vergessener Geist's |cff71d5ff|Hspell:226269:0|h[Folter]|h|r!", -- [1]
+			"Fuyoko-Thrall", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Fuyoko-Thrall", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			108, -- [11]
+			"Player-604-08173B7D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Fuyoko-Thrall",
+			[51] = 1530732523,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [60]
+		{
+			"Unterbrochen Vergessener Geist's |cff71d5ff|Hspell:226269:0|h[Folter]|h|r!", -- [1]
+			"Fuyoko-Thrall", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Fuyoko-Thrall", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			109, -- [11]
+			"Player-604-08173B7D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Fuyoko-Thrall",
+			[51] = 1530732536,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [61]
+		{
+			"Unterbrochen Berater Vandros's |cff71d5ff|Hspell:203176:0|h[Beschleunigende Explosion]|h|r!", -- [1]
+			"Fuyoko-Thrall", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Fuyoko-Thrall", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			112, -- [11]
+			"Player-604-08173B7D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Fuyoko-Thrall",
+			[51] = 1530732554,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [62]
+		{
+			"Unterbrochen Berater Vandros's |cff71d5ff|Hspell:203176:0|h[Beschleunigende Explosion]|h|r!", -- [1]
+			"Fuyoko-Thrall", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Fuyoko-Thrall", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			114, -- [11]
+			"Player-604-08173B7D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Fuyoko-Thrall",
+			[51] = 1530732587,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [63]
+		{
+			"Unterbrochen Berater Vandros's |cff71d5ff|Hspell:203176:0|h[Beschleunigende Explosion]|h|r!", -- [1]
+			"Fuyoko-Thrall", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Fuyoko-Thrall", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			119, -- [11]
+			"Player-604-08173B7D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Fuyoko-Thrall",
+			[51] = 1530732664,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [64]
+		{
+			"Unterbrochen Berater Vandros's |cff71d5ff|Hspell:203176:0|h[Beschleunigende Explosion]|h|r!", -- [1]
+			"Fuyoko-Thrall", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Fuyoko-Thrall", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			120, -- [11]
+			"Player-604-08173B7D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Fuyoko-Thrall",
+			[51] = 1530732676,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [65]
+		{
+			"Unterbrochen Berater Vandros's |cff71d5ff|Hspell:203176:0|h[Beschleunigende Explosion]|h|r!", -- [1]
+			"Fuyoko-Thrall", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Fuyoko-Thrall", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			122, -- [11]
+			"Player-604-08173B7D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Fuyoko-Thrall",
+			[51] = 1530732705,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [66]
+		{
+			"Unterbrochen Berater Vandros's |cff71d5ff|Hspell:203176:0|h[Beschleunigende Explosion]|h|r!", -- [1]
+			"Fuyoko-Thrall", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Fuyoko-Thrall", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			123, -- [11]
+			"Player-604-08173B7D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Fuyoko-Thrall",
+			[51] = 1530732717,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [67]
+		{
+			"gg", -- [1]
+			"Jeanzeal-Kazzak", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Jeanzeal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			125, -- [11]
+			"Player-1305-0932467F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Jeanzeal",
+			[51] = 1530732726,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [68]
+		{
+			"gg", -- [1]
+			"Simsalabim-Thrall", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Simsalabim-Thrall", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			126, -- [11]
+			"Player-604-07D3D68C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Simsalabim-Thrall",
+			[51] = 1530732732,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [69]
+		{
+			"bb all ty", -- [1]
+			"Jeanzeal-Kazzak", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Jeanzeal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			136, -- [11]
+			"Player-1305-0932467F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Jeanzeal",
+			[51] = 1530732760,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [70]
+		{
+			"hi", -- [1]
+			"Schimerik-Krag'jin", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Schimerik-Krag'jin", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			273, -- [11]
+			"Player-579-05B49FB3", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Schimerik-Krag'jin",
+			[51] = 1530733595,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [71]
+		{
+			"|cffffff00|Hachievement:11162:Player-1121-000D7C9D:1:3:24:17:4294967295:4294967295:4294967295:4294967295|h[Schlüsselsteinmeister]|h|r", -- [1]
+			"Grind-DieArguswacht", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Grind-DieArguswacht", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			275, -- [11]
+			"Player-1121-000D7C9D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Grind-DieArguswacht",
+			[51] = 1530733698,
+			[50] = "CHAT_MSG_WHISPER",
+		}, -- [72]
+		{
+			"hi", -- [1]
+			"Umbravalis-Blackmoore", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Umbravalis-Blackmoore", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2328, -- [11]
+			"Player-580-0815C72D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Umbravalis-Blackmoore",
+			[51] = 1530813424,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [73]
+		{
+			"hey", -- [1]
+			"Jeanzeal-Kazzak", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Jeanzeal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2344, -- [11]
+			"Player-1305-0932467F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Jeanzeal",
+			[51] = 1530813456,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [74]
+		{
+			"hi", -- [1]
+			"Illidaxi-Alonsus", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Illidaxi-Alonsus", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2346, -- [11]
+			"Player-1082-079A81FA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Illidaxi-Alonsus",
+			[51] = 1530813459,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [75]
+		{
+			"hey", -- [1]
+			"Ashà-Garona", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Ashà-Garona", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2347, -- [11]
+			"Player-509-06E69D10", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Ashà-Garona",
+			[51] = 1530813463,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [76]
+		{
+			"kara?", -- [1]
+			"Illidaxi-Alonsus", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Illidaxi-Alonsus", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2348, -- [11]
+			"Player-1082-079A81FA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Illidaxi-Alonsus",
+			[51] = 1530813463,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [77]
+		{
+			"lower", -- [1]
+			"Jeanzeal-Kazzak", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Jeanzeal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2351, -- [11]
+			"Player-1305-0932467F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Jeanzeal",
+			[51] = 1530813470,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [78]
+		{
+			"ok i dont read dung only number key xD", -- [1]
+			"Illidaxi-Alonsus", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Illidaxi-Alonsus", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2353, -- [11]
+			"Player-1082-079A81FA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Illidaxi-Alonsus",
+			[51] = 1530813484,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [79]
+		{
+			"can you help me summon?", -- [1]
+			"Bearzilla-TarrenMill", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Bearzilla-TarrenMill", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2358, -- [11]
+			"Player-1084-0855595B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Bearzilla-TarrenMill",
+			[51] = 1530813547,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
+		}, -- [80]
+		{
+			"ty", -- [1]
+			"Bearzilla-TarrenMill", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Bearzilla-TarrenMill", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2359, -- [11]
+			"Player-1084-0855595B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Bearzilla-TarrenMill",
+			[51] = 1530813557,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
+		}, -- [81]
+		{
+			"ty", -- [1]
+			"Illidaxi-Alonsus", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Illidaxi-Alonsus", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2360, -- [11]
+			"Player-1082-079A81FA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Illidaxi-Alonsus",
+			[51] = 1530813568,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [82]
+		{
+			"did you get the summon?", -- [1]
+			"Illidaxi-Alonsus", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Illidaxi-Alonsus", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2361, -- [11]
+			"Player-1082-079A81FA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Illidaxi-Alonsus",
+			[51] = 1530813576,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
+		}, -- [83]
+		{
+			"y", -- [1]
+			"Illidaxi-Alonsus", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Illidaxi-Alonsus", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2362, -- [11]
+			"Player-1082-079A81FA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Illidaxi-Alonsus",
+			[51] = 1530813588,
+			[50] = "CHAT_MSG_WHISPER",
+		}, -- [84]
+		{
+			"omw", -- [1]
+			"Illidaxi-Alonsus", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Illidaxi-Alonsus", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2363, -- [11]
+			"Player-1082-079A81FA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Illidaxi-Alonsus",
+			[51] = 1530813605,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [85]
+		{
+			"combat leave", -- [1]
+			"Illidaxi-Alonsus", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Illidaxi-Alonsus", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2364, -- [11]
+			"Player-1082-079A81FA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Illidaxi-Alonsus",
+			[51] = 1530813611,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [86]
+		{
+			"we are inside", -- [1]
+			"Bearzilla-TarrenMill", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Bearzilla-TarrenMill", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2367, -- [11]
+			"Player-1084-0855595B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Bearzilla-TarrenMill",
+			[51] = 1530813694,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
+		}, -- [87]
+		{
+			"just wanted som pvp", -- [1]
+			"Bearzilla-TarrenMill", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Bearzilla-TarrenMill", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2369, -- [11]
+			"Player-1084-0855595B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Bearzilla-TarrenMill",
+			[51] = 1530813713,
+			[50] = "CHAT_MSG_WHISPER",
+		}, -- [88]
+		{
+			"camera *!@#", -- [1]
+			"Illidaxi-Alonsus", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Illidaxi-Alonsus", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2424, -- [11]
+			"Player-1082-079A81FA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Illidaxi-Alonsus",
+			[51] = 1530814154,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [89]
+		{
+			"Terre sacrée sur Ashà!", -- [1]
+			"Ashà-Garona", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Ashà-Garona", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2478, -- [11]
+			"Player-509-06E69D10", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Ashà-Garona",
+			[51] = 1530814494,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [90]
+		{
+			"sry", -- [1]
+			"Umbravalis-Blackmoore", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Umbravalis-Blackmoore", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2486, -- [11]
+			"Player-580-0815C72D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Umbravalis-Blackmoore",
+			[51] = 1530814548,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [91]
+		{
+			"drums here?", -- [1]
+			"Jeanzeal-Kazzak", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Jeanzeal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2493, -- [11]
+			"Player-1305-0932467F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Jeanzeal",
+			[51] = 1530814631,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [92]
+		{
+			"y", -- [1]
+			"Illidaxi-Alonsus", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Illidaxi-Alonsus", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2494, -- [11]
+			"Player-1082-079A81FA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Illidaxi-Alonsus",
+			[51] = 1530814633,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [93]
+		{
+			"when?", -- [1]
+			"Jeanzeal-Kazzak", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Jeanzeal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2496, -- [11]
+			"Player-1305-0932467F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Jeanzeal",
+			[51] = 1530814636,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [94]
+		{
+			"plz i hate this boss", -- [1]
+			"Illidaxi-Alonsus", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Illidaxi-Alonsus", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2497, -- [11]
+			"Player-1082-079A81FA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Illidaxi-Alonsus",
+			[51] = 1530814636,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [95]
+		{
+			"start?", -- [1]
+			"Jeanzeal-Kazzak", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Jeanzeal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2498, -- [11]
+			"Player-1305-0932467F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Jeanzeal",
+			[51] = 1530814639,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [96]
+		{
+			"start", -- [1]
+			"Illidaxi-Alonsus", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Illidaxi-Alonsus", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2499, -- [11]
+			"Player-1082-079A81FA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Illidaxi-Alonsus",
+			[51] = 1530814640,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [97]
+		{
+			"mana", -- [1]
+			"Umbravalis-Blackmoore", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Umbravalis-Blackmoore", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2510, -- [11]
+			"Player-580-0815C72D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Umbravalis-Blackmoore",
+			[51] = 1530814804,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [98]
+		{
+			"$%^& you guys you not letting me do eny dm", -- [1]
+			"Bearzilla-TarrenMill", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Bearzilla-TarrenMill", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2515, -- [11]
+			"Player-1084-0855595B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Bearzilla-TarrenMill",
+			[51] = 1530814833,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [99]
+		{
+			"dmg", -- [1]
+			"Bearzilla-TarrenMill", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Bearzilla-TarrenMill", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2516, -- [11]
+			"Player-1084-0855595B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Bearzilla-TarrenMill",
+			[51] = 1530814835,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [100]
+		{
+			" you are doing to much dmg", -- [1]
+			"Bearzilla-TarrenMill", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Bearzilla-TarrenMill", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2517, -- [11]
+			"Player-1084-0855595B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Bearzilla-TarrenMill",
+			[51] = 1530814839,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [101]
+		{
+			"ok i stop bursting", -- [1]
+			"Umbravalis-Blackmoore", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Umbravalis-Blackmoore", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2518, -- [11]
+			"Player-580-0815C72D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Umbravalis-Blackmoore",
+			[51] = 1530814880,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [102]
+		{
+			"Burning Brand on Jeanzeal", -- [1]
+			"Jeanzeal-Kazzak", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Jeanzeal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2520, -- [11]
+			"Player-1305-0932467F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Jeanzeal",
+			[51] = 1530814906,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [103]
+		{
+			"where was tank", -- [1]
+			"Bearzilla-TarrenMill", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Bearzilla-TarrenMill", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2527, -- [11]
+			"Player-1084-0855595B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Bearzilla-TarrenMill",
+			[51] = 1530814926,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [104]
+		{
+			"Burning Brand on Jeanzeal", -- [1]
+			"Jeanzeal-Kazzak", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Jeanzeal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2528, -- [11]
+			"Player-1305-0932467F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Jeanzeal",
+			[51] = 1530814926,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [105]
+		{
+			"wow ", -- [1]
+			"Illidaxi-Alonsus", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Illidaxi-Alonsus", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2529, -- [11]
+			"Player-1082-079A81FA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Illidaxi-Alonsus",
+			[51] = 1530814929,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [106]
+		{
+			"i die instant xD", -- [1]
+			"Illidaxi-Alonsus", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Illidaxi-Alonsus", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2531, -- [11]
+			"Player-1082-079A81FA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Illidaxi-Alonsus",
+			[51] = 1530814946,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [107]
+		{
+			"damn", -- [1]
+			"Jeanzeal-Kazzak", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Jeanzeal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2536, -- [11]
+			"Player-1305-0932467F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Jeanzeal",
+			[51] = 1530814983,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [108]
+		{
+			"?", -- [1]
+			"Illidaxi-Alonsus", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Illidaxi-Alonsus", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2537, -- [11]
+			"Player-1082-079A81FA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Illidaxi-Alonsus",
+			[51] = 1530814995,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [109]
+		{
+			"i pulled a mob", -- [1]
+			"Jeanzeal-Kazzak", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Jeanzeal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2538, -- [11]
+			"Player-1305-0932467F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Jeanzeal",
+			[51] = 1530815002,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [110]
+		{
+			"xD", -- [1]
+			"Illidaxi-Alonsus", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Illidaxi-Alonsus", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2539, -- [11]
+			"Player-1082-079A81FA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Illidaxi-Alonsus",
+			[51] = 1530815007,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [111]
+		{
+			"do a big pull", -- [1]
+			"Bearzilla-TarrenMill", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Bearzilla-TarrenMill", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2542, -- [11]
+			"Player-1084-0855595B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Bearzilla-TarrenMill",
+			[51] = 1530815045,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [112]
+		{
+			"Flétrissure ardente sur Ashà!", -- [1]
+			"Ashà-Garona", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Ashà-Garona", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2549, -- [11]
+			"Player-509-06E69D10", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Ashà-Garona",
+			[51] = 1530815080,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [113]
+		{
+			"Burning Brand on Umbravalis", -- [1]
+			"Umbravalis-Blackmoore", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Umbravalis-Blackmoore", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2550, -- [11]
+			"Player-580-0815C72D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Umbravalis-Blackmoore",
+			[51] = 1530815128,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [114]
+		{
+			"Burning Brand on Bearzilla", -- [1]
+			"Bearzilla-TarrenMill", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Bearzilla-TarrenMill", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2551, -- [11]
+			"Player-1084-0855595B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Bearzilla-TarrenMill",
+			[51] = 1530815142,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [115]
+		{
+			"Shared Suffering on Jeanzeal", -- [1]
+			"Jeanzeal-Kazzak", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Jeanzeal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2556, -- [11]
+			"Player-1305-0932467F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Jeanzeal",
+			[51] = 1530815184,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [116]
+		{
+			"%", -- [1]
+			"Illidaxi-Alonsus", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Illidaxi-Alonsus", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2561, -- [11]
+			"Player-1082-079A81FA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Illidaxi-Alonsus",
+			[51] = 1530815233,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [117]
+		{
+			"go super big", -- [1]
+			"Bearzilla-TarrenMill", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Bearzilla-TarrenMill", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2562, -- [11]
+			"Player-1084-0855595B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Bearzilla-TarrenMill",
+			[51] = 1530815236,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [118]
+		{
+			"gg", -- [1]
+			"Jeanzeal-Kazzak", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Jeanzeal", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2571, -- [11]
+			"Player-1305-0932467F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Jeanzeal",
+			[51] = 1530815290,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [119]
+		{
+			"gg", -- [1]
+			"Ashà-Garona", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Ashà-Garona", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2575, -- [11]
+			"Player-509-06E69D10", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Ashà-Garona",
+			[51] = 1530815298,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [120]
+		{
+			"gg", -- [1]
+			"Bearzilla-TarrenMill", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Bearzilla-TarrenMill", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2577, -- [11]
+			"Player-1084-0855595B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Bearzilla-TarrenMill",
+			[51] = 1530815302,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [121]
+		{
+			"bb", -- [1]
+			"Bearzilla-TarrenMill", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Bearzilla-TarrenMill", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2578, -- [11]
+			"Player-1084-0855595B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Bearzilla-TarrenMill",
+			[51] = 1530815302,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [122]
+		{
+			"ty all :)", -- [1]
+			"Illidaxi-Alonsus", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Illidaxi-Alonsus", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2579, -- [11]
+			"Player-1082-079A81FA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Illidaxi-Alonsus",
+			[51] = 1530815302,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [123]
+		{
+			" do you need |cffa335ee|Hitem:142205::::::::110:581::16:3:3536:1557:3528:::|h[Jabber Grookin' Gauntlets]|h|r", -- [1]
+			"Illidaxi-Alonsus", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Illidaxi-Alonsus", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2582, -- [11]
+			"Player-1082-079A81FA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Illidaxi-Alonsus",
+			[51] = 1530815308,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
+		}, -- [124]
+		{
+			"I could use them?", -- [1]
+			"Illidaxi-Alonsus", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Illidaxi-Alonsus", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2584, -- [11]
+			"Player-1082-079A81FA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Illidaxi-Alonsus",
+			[51] = 1530815312,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
+		}, -- [125]
+		{
+			"tyty", -- [1]
+			"Illidaxi-Alonsus", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Illidaxi-Alonsus", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2586, -- [11]
+			"Player-1082-079A81FA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Illidaxi-Alonsus",
+			[51] = 1530815320,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
+		}, -- [126]
+		{
+			"np gl ", -- [1]
+			"Illidaxi-Alonsus", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Illidaxi-Alonsus", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			2587, -- [11]
+			"Player-1082-079A81FA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Illidaxi-Alonsus",
+			[51] = 1530815324,
 			[50] = "CHAT_MSG_WHISPER",
 		}, -- [127]
 	},

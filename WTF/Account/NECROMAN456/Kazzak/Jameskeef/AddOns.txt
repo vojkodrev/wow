@@ -7,3 +7,4 @@ RaiderIO_DB_KR_A: disabled
 Grid: disabled
 Pawn: disabled
 FishingBuddy: disabled
+GroupHistory: disabled

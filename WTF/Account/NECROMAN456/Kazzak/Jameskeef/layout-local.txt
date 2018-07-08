@@ -16,7 +16,7 @@ H: 32
 Frame: ElvUI_ContainerFrame
 FrameLevel: 1
 Anchor: RIGHT
-X: -245
-Y: 32
+X: -274
+Y: -117
 W: 406
 H: 416

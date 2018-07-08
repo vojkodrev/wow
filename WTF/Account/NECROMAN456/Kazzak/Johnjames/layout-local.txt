@@ -1,4 +1,11 @@
 Version: 1
+Frame: ItemRefTooltip
+FrameLevel: 1
+Anchor: CENTER
+X: -136
+Y: -142
+W: 128
+H: 64
 Frame: ColorPickerFrame
 FrameLevel: 1
 Anchor: CENTER
@@ -16,7 +23,7 @@ H: 32
 Frame: ElvUI_ContainerFrame
 FrameLevel: 1
 Anchor: RIGHT
-X: -173
-Y: -37
+X: -219
+Y: 8
 W: 406
 H: 344

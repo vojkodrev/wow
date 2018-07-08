@@ -14,10 +14,10 @@ ElvDB = {
 			["Johnesmark"] = 24946896,
 			["Jackjones"] = 178027176,
 			["Stefanmoleyx"] = 1604,
-			["Joron"] = 369763493,
-			["Jeanzeal"] = 1526552703,
-			["Jameskeef"] = 20165900,
-			["Johnjames"] = 10777573,
+			["Joron"] = 369098604,
+			["Jeanzeal"] = 1463595073,
+			["Jameskeef"] = 39107102,
+			["Johnjames"] = 28682793,
 		},
 	},
 	["namespaces"] = {
@@ -96,9 +96,9 @@ ElvDB = {
 				["ElvAB_6"] = "BOTTOMRIGHT,ElvUIParent,BOTTOMRIGHT,-488,330",
 				["TooltipMover"] = "BOTTOMRIGHT,ElvUIParent,BOTTOMRIGHT,-50,50",
 				["ElvUF_TankMover"] = "TOPLEFT,ElvUIParent,BOTTOMLEFT,50,995",
-				["TotemBarMover"] = "BOTTOMLEFT,ElvUIParent,BOTTOMLEFT,463,50",
 				["ElvUF_PetMover"] = "BOTTOM,ElvUIParent,BOTTOM,0,200",
 				["ElvUF_PlayerMover"] = "BOTTOM,ElvUIParent,BOTTOM,-230,140",
+				["TotemBarMover"] = "BOTTOMLEFT,ElvUIParent,BOTTOMLEFT,463,50",
 				["RightChatMover"] = "BOTTOMRIGHT,ElvUIParent,BOTTOMRIGHT,-50,50",
 				["AlertFrameMover"] = "TOP,ElvUIParent,TOP,0,-50",
 				["ReputationBarMover"] = "TOPRIGHT,ElvUIParent,TOPRIGHT,-50,-228",
@@ -164,39 +164,6 @@ ElvDB = {
 						},
 						["width"] = 122,
 					},
-					["player"] = {
-						["debuffs"] = {
-							["perrow"] = 7,
-						},
-						["power"] = {
-							["attachTextTo"] = "InfoPanel",
-							["text_format"] = "[powercolor][power:current-max]",
-							["height"] = 15,
-						},
-						["combatfade"] = true,
-						["infoPanel"] = {
-							["enable"] = true,
-						},
-						["health"] = {
-							["attachTextTo"] = "InfoPanel",
-							["text_format"] = "[healthcolor][health:current-max]",
-						},
-						["height"] = 80,
-						["castbar"] = {
-							["iconAttached"] = false,
-							["iconSize"] = 54,
-							["height"] = 35,
-							["width"] = 478,
-						},
-						["classbar"] = {
-							["height"] = 15,
-							["autoHide"] = true,
-						},
-						["name"] = {
-							["attachTextTo"] = "InfoPanel",
-							["text_format"] = "[namecolor][name]",
-						},
-					},
 					["party"] = {
 						["horizontalSpacing"] = 3,
 						["debuffs"] = {
@@ -235,6 +202,39 @@ ElvDB = {
 						},
 						["width"] = 110,
 					},
+					["player"] = {
+						["debuffs"] = {
+							["perrow"] = 7,
+						},
+						["power"] = {
+							["attachTextTo"] = "InfoPanel",
+							["text_format"] = "[powercolor][power:current-max]",
+							["height"] = 15,
+						},
+						["combatfade"] = true,
+						["infoPanel"] = {
+							["enable"] = true,
+						},
+						["health"] = {
+							["attachTextTo"] = "InfoPanel",
+							["text_format"] = "[healthcolor][health:current-max]",
+						},
+						["height"] = 80,
+						["castbar"] = {
+							["iconAttached"] = false,
+							["iconSize"] = 54,
+							["height"] = 35,
+							["width"] = 478,
+						},
+						["classbar"] = {
+							["height"] = 15,
+							["autoHide"] = true,
+						},
+						["name"] = {
+							["attachTextTo"] = "InfoPanel",
+							["text_format"] = "[namecolor][name]",
+						},
+					},
 					["raid40"] = {
 						["enable"] = false,
 						["rdebuffs"] = {
@@ -261,40 +261,6 @@ ElvDB = {
 							["text_format"] = "[healthcolor][health:current]",
 						},
 						["width"] = 189,
-					},
-					["assist"] = {
-						["enable"] = false,
-					},
-					["arena"] = {
-						["castbar"] = {
-							["width"] = 246,
-						},
-						["spacing"] = 26,
-					},
-					["raid"] = {
-						["roleIcon"] = {
-							["position"] = "RIGHT",
-						},
-						["debuffs"] = {
-							["enable"] = true,
-							["sizeOverride"] = 27,
-							["perrow"] = 4,
-						},
-						["rdebuffs"] = {
-							["enable"] = false,
-							["font"] = "Expressway",
-						},
-						["growthDirection"] = "UP_RIGHT",
-						["health"] = {
-							["yOffset"] = -6,
-						},
-						["width"] = 140,
-						["height"] = 28,
-						["name"] = {
-							["position"] = "LEFT",
-						},
-						["visibility"] = "[nogroup] hide;show",
-						["groupsPerRowCol"] = 5,
 					},
 					["target"] = {
 						["debuffs"] = {
@@ -326,6 +292,40 @@ ElvDB = {
 							["attachTextTo"] = "InfoPanel",
 							["text_format"] = "[healthcolor][health:current-max]",
 						},
+					},
+					["raid"] = {
+						["roleIcon"] = {
+							["position"] = "RIGHT",
+						},
+						["debuffs"] = {
+							["enable"] = true,
+							["sizeOverride"] = 27,
+							["perrow"] = 4,
+						},
+						["rdebuffs"] = {
+							["enable"] = false,
+							["font"] = "Expressway",
+						},
+						["growthDirection"] = "UP_RIGHT",
+						["health"] = {
+							["yOffset"] = -6,
+						},
+						["width"] = 140,
+						["height"] = 28,
+						["name"] = {
+							["position"] = "LEFT",
+						},
+						["visibility"] = "[nogroup] hide;show",
+						["groupsPerRowCol"] = 5,
+					},
+					["arena"] = {
+						["castbar"] = {
+							["width"] = 246,
+						},
+						["spacing"] = 26,
+					},
+					["assist"] = {
+						["enable"] = false,
 					},
 				},
 			},
@@ -417,13 +417,13 @@ ElvDB = {
 		},
 		["Jameskeef - Kazzak"] = {
 			["movers"] = {
-				["ElvUF_RaidpetMover"] = "TOPLEFT,ElvUIParent,BOTTOMLEFT,4,736",
 				["ElvUIBagMover"] = "BOTTOMRIGHT,ElvUIParent,BOTTOMRIGHT,-308,238",
+				["ElvUF_Raid40Mover"] = "TOPLEFT,ElvUIParent,BOTTOMLEFT,4,432",
 				["ShiftAB"] = "TOPLEFT,ElvUIParent,BOTTOMLEFT,4,1076",
 				["ElvUF_PartyMover"] = "BOTTOMLEFT,ElvUIParent,BOTTOMLEFT,4,195",
 				["ElvUF_RaidMover"] = "TOPLEFT,ElvUIParent,BOTTOMLEFT,4,427",
 				["ElvAB_2"] = "BOTTOM,ElvUIParent,BOTTOM,0,38",
-				["ElvUF_Raid40Mover"] = "TOPLEFT,ElvUIParent,BOTTOMLEFT,4,432",
+				["ElvUF_RaidpetMover"] = "TOPLEFT,ElvUIParent,BOTTOMLEFT,4,736",
 			},
 			["currentTutorial"] = 8,
 			["general"] = {
@@ -457,6 +457,7 @@ ElvDB = {
 			["RightChatPanelFaded"] = true,
 		},
 		["Jeanzeal - Kazzak"] = {
+			["currentTutorial"] = 1,
 			["unitframe"] = {
 				["colors"] = {
 					["auraBarBuff"] = {
@@ -468,7 +469,6 @@ ElvDB = {
 					["healthclass"] = true,
 				},
 			},
-			["currentTutorial"] = 1,
 			["general"] = {
 				["valuecolor"] = {
 					["r"] = 0.64,
@@ -489,14 +489,14 @@ ElvDB = {
 				["ElvAB_2"] = "BOTTOM,ElvUIParent,BOTTOM,0,38",
 				["ElvUF_RaidpetMover"] = "TOPLEFT,ElvUIParent,BOTTOMLEFT,4,736",
 			},
-			["nameplates"] = {
-				["clampToScreen"] = true,
-			},
+			["layoutSet"] = "tank",
 			["actionbar"] = {
 				["macrotext"] = true,
 			},
 			["hideTutorial"] = true,
-			["layoutSet"] = "tank",
+			["nameplates"] = {
+				["clampToScreen"] = true,
+			},
 		},
 		["Jackjones - Kazzak"] = {
 			["currentTutorial"] = 2,
@@ -520,8 +520,8 @@ ElvDB = {
 				["ElvAB_2"] = "BOTTOM,ElvUIParent,BOTTOM,0,38",
 				["ElvUF_TargetTargetMover"] = "BOTTOM,ElvUIParent,BOTTOM,0,110",
 				["ElvUF_PetMover"] = "BOTTOM,ElvUIParent,BOTTOM,0,150",
-				["ElvUF_PartyMover"] = "BOTTOMLEFT,ElvUIParent,BOTTOMLEFT,4,195",
 				["BossButton"] = "BOTTOM,ElvUIParent,BOTTOM,0,195",
+				["ElvUF_PartyMover"] = "BOTTOMLEFT,ElvUIParent,BOTTOMLEFT,4,195",
 				["ElvUF_PlayerMover"] = "BOTTOM,ElvUIParent,BOTTOM,-278,110",
 				["ElvUF_RaidpetMover"] = "TOPLEFT,ElvUIParent,BOTTOMLEFT,4,736",
 				["ElvUF_TargetMover"] = "BOTTOM,ElvUIParent,BOTTOM,278,110",
@@ -563,18 +563,10 @@ ElvDB = {
 			},
 		},
 		["Default"] = {
-			["currentTutorial"] = 2,
-			["unitframe"] = {
-				["colors"] = {
-					["auraBarBuff"] = {
-						["b"] = 0.59,
-						["g"] = 1,
-						["r"] = 0,
-					},
-					["castClassColor"] = true,
-					["healthclass"] = true,
-				},
+			["nameplates"] = {
+				["clampToScreen"] = true,
 			},
+			["currentTutorial"] = 2,
 			["general"] = {
 				["valuecolor"] = {
 					["b"] = 0.59,
@@ -601,27 +593,22 @@ ElvDB = {
 				["macrotext"] = true,
 			},
 			["hideTutorial"] = true,
-			["nameplates"] = {
-				["clampToScreen"] = true,
+			["unitframe"] = {
+				["colors"] = {
+					["auraBarBuff"] = {
+						["b"] = 0.59,
+						["g"] = 1,
+						["r"] = 0,
+					},
+					["castClassColor"] = true,
+					["healthclass"] = true,
+				},
 			},
 		},
 		["Johnjames - Kazzak"] = {
-			["nameplates"] = {
-				["clampToScreen"] = true,
-			},
 			["currentTutorial"] = 1,
-			["general"] = {
-				["valuecolor"] = {
-					["r"] = 0.78,
-					["g"] = 0.61,
-					["b"] = 0.43,
-				},
-				["bordercolor"] = {
-					["r"] = 0,
-					["g"] = 0,
-					["b"] = 0,
-				},
-			},
+			["hideTutorial"] = true,
+			["layoutSet"] = "tank",
 			["movers"] = {
 				["ElvUF_Raid40Mover"] = "TOPLEFT,ElvUIParent,BOTTOMLEFT,4,432",
 				["ShiftAB"] = "TOPLEFT,ElvUIParent,BOTTOMLEFT,4,1076",
@@ -630,20 +617,40 @@ ElvDB = {
 				["ElvAB_2"] = "BOTTOM,ElvUIParent,BOTTOM,0,38",
 				["ElvUF_RaidpetMover"] = "TOPLEFT,ElvUIParent,BOTTOMLEFT,4,736",
 			},
-			["layoutSet"] = "tank",
-			["actionbar"] = {
-				["macrotext"] = true,
-			},
-			["hideTutorial"] = true,
 			["unitframe"] = {
+				["units"] = {
+					["player"] = {
+						["power"] = {
+							["enable"] = false,
+						},
+					},
+				},
 				["colors"] = {
 					["auraBarBuff"] = {
 						["r"] = 0.78,
 						["g"] = 0.61,
 						["b"] = 0.43,
 					},
-					["castClassColor"] = true,
 					["healthclass"] = true,
+					["castClassColor"] = true,
+				},
+			},
+			["actionbar"] = {
+				["macrotext"] = true,
+			},
+			["nameplates"] = {
+				["clampToScreen"] = true,
+			},
+			["general"] = {
+				["bordercolor"] = {
+					["r"] = 0,
+					["g"] = 0,
+					["b"] = 0,
+				},
+				["valuecolor"] = {
+					["r"] = 0.78,
+					["g"] = 0.61,
+					["b"] = 0.43,
 				},
 			},
 		},
@@ -660,8 +667,29 @@ ElvDB = {
 		},
 		["Joron - Kazzak"] = {
 			["currentTutorial"] = 2,
-			["hideTutorial"] = true,
-			["layoutSet"] = "tank",
+			["unitframe"] = {
+				["colors"] = {
+					["auraBarBuff"] = {
+						["b"] = 0.04,
+						["g"] = 0.49,
+						["r"] = 1,
+					},
+					["castClassColor"] = true,
+					["healthclass"] = true,
+				},
+			},
+			["general"] = {
+				["valuecolor"] = {
+					["b"] = 0.04,
+					["g"] = 0.49,
+					["r"] = 1,
+				},
+				["bordercolor"] = {
+					["b"] = 0,
+					["g"] = 0,
+					["r"] = 0,
+				},
+			},
 			["movers"] = {
 				["ElvUF_Raid40Mover"] = "TOPLEFT,ElvUIParent,BOTTOMLEFT,4,432",
 				["ShiftAB"] = "TOPLEFT,ElvUIParent,BOTTOMLEFT,4,1051",
@@ -670,34 +698,13 @@ ElvDB = {
 				["ElvAB_2"] = "BOTTOM,ElvUIParent,BOTTOM,0,38",
 				["ElvUF_RaidpetMover"] = "TOPLEFT,ElvUIParent,BOTTOMLEFT,4,736",
 			},
-			["unitframe"] = {
-				["colors"] = {
-					["auraBarBuff"] = {
-						["b"] = 0.04,
-						["g"] = 0.49,
-						["r"] = 1,
-					},
-					["healthclass"] = true,
-					["castClassColor"] = true,
-				},
-			},
+			["layoutSet"] = "tank",
 			["actionbar"] = {
 				["macrotext"] = true,
 			},
+			["hideTutorial"] = true,
 			["nameplates"] = {
 				["clampToScreen"] = true,
-			},
-			["general"] = {
-				["bordercolor"] = {
-					["b"] = 0,
-					["g"] = 0,
-					["r"] = 0,
-				},
-				["valuecolor"] = {
-					["b"] = 0.04,
-					["g"] = 0.49,
-					["r"] = 1,
-				},
 			},
 		},
 		["Stefanmoleyx - Kazzak"] = {

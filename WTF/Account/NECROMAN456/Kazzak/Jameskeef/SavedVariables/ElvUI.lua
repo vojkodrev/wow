@@ -1,380 +1,160 @@
 
 ElvCharacterDB = {
 	["ChatEditHistory"] = {
-		"/cw Fares-TarrenMill ok", -- [1]
-		"/cw Drannosh-Balnazzar sure bring your main", -- [2]
-		"/p go for 3rd monk?", -- [3]
-		"/cw Magteria-Spinebreaker will you dps?", -- [4]
-		"/p I am at the stone", -- [5]
-		"/p ok let's get  ranged", -- [6]
-		"/p gg", -- [7]
-		"/cw Bazzard-TarrenMill do oyou need |cffa335ee|Hitem:144489::::::::110:268::16:4:3536:42:1592:3528:::|h[Shoulderguards of Legion Domination]|h|r?", -- [8]
-		"/cw Bazzard-TarrenMill I could use them", -- [9]
-		"/cw Bazzard-TarrenMill tyty", -- [10]
-		"/p ty all", -- [11]
-		"/p I'm at the stone if someone needs a summon", -- [12]
-		"/cw Диманхунтер-Ревущийфьорд did you get the summon?", -- [13]
-		"/p cc?", -- [14]
-		"/p cc 2 and we pull", -- [15]
-		"/p ok but need one more", -- [16]
-		"/ignore jakozaa-hyjal", -- [17]
+		"/p yes", -- [1]
+		"/p are you having problems?", -- [2]
+		"/p I can reinvite you", -- [3]
+		"/p mind the patrol upstairs", -- [4]
+		"/p gg", -- [5]
+		"/cw Incocknito-Frostwolf do you need |cffa335ee|Hitem:139242::::::::110:268::16:5:3536:1808:41:1592:3528:::|h[Raven's Veil Gloves]|h|r?", -- [6]
+		"/cw Incocknito-Frostwolf I could use them", -- [7]
+		"/cw Incocknito-Frostwolf tyty", -- [8]
+		"/p ty all", -- [9]
+		"/cw Sézar-C'Thun did you get the summon?", -- [10]
+		"/p ignore mob?", -- [11]
+		"/p go?", -- [12]
+		"/p crap", -- [13]
+		"/p gg I was kinda backed into a corner", -- [14]
+		"/p me?", -- [15]
+		"/p bb", -- [16]
+		"/cw Naxorcisten-Shadowsong will you dps?", -- [17]
 		"/p hey", -- [18]
-		"/cw Rëx-Stormreaver are you going to dps?", -- [19]
-		"/cw Rëx-Stormreaver go dps", -- [20]
+		"/p I'm at the stone", -- [19]
+		"/p bb all ty", -- [20]
 	},
 	["ChatHistoryLog"] = {
 		{
-			"Incite Panic on Jameskeef", -- [1]
-			"Jameskeef-Kazzak", -- [2]
-			"Orcish", -- [3]
+			"hi premade xp 3k5+ 9/11m", -- [1]
+			"Makélélé-Cho’gall", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Jameskeef", -- [5]
+			"Makélélé-Cho’gall", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			317, -- [11]
-			"Player-1305-09C27C8E", -- [12]
+			602, -- [11]
+			"Player-1336-05E4E65F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "Jameskeef",
-			[51] = 1530211360,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "Makélélé-Cho’gall",
+			[51] = 1530904923,
+			[50] = "CHAT_MSG_WHISPER",
 		}, -- [1]
 		{
-			"Incite Panic on Jameskeef", -- [1]
-			"Jameskeef-Kazzak", -- [2]
-			"Orcish", -- [3]
+			"we need a tank", -- [1]
+			"Kronkie-Kazzak", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Jameskeef", -- [5]
+			"Kronkie", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			319, -- [11]
-			"Player-1305-09C27C8E", -- [12]
+			603, -- [11]
+			"Player-1305-08D4C0C4", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "Jameskeef",
-			[51] = 1530211375,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "Kronkie",
+			[51] = 1530904930,
+			[50] = "CHAT_MSG_WHISPER",
 		}, -- [2]
 		{
-			"Incite Panic on Whiterose", -- [1]
-			"Whiterose-Chantséternels", -- [2]
-			"Orcish", -- [3]
+			"( my damage is fine )", -- [1]
+			"Makélélé-Cho’gall", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Whiterose-Chantséternels", -- [5]
+			"Makélélé-Cho’gall", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			322, -- [11]
-			"Player-510-06C022A4", -- [12]
+			607, -- [11]
+			"Player-1336-05E4E65F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "Whiterose-Chantséternels",
-			[51] = 1530211389,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "Makélélé-Cho’gall",
+			[51] = 1530904948,
+			[50] = "CHAT_MSG_WHISPER",
 		}, -- [3]
 		{
-			"Incite Panic on Jameskeef", -- [1]
-			"Jameskeef-Kazzak", -- [2]
-			"Orcish", -- [3]
+			"^^", -- [1]
+			"Makélélé-Cho’gall", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Jameskeef", -- [5]
+			"Makélélé-Cho’gall", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			323, -- [11]
-			"Player-1305-09C27C8E", -- [12]
+			608, -- [11]
+			"Player-1336-05E4E65F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "Jameskeef",
-			[51] = 1530211389,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "Makélélé-Cho’gall",
+			[51] = 1530904950,
+			[50] = "CHAT_MSG_WHISPER",
 		}, -- [4]
 		{
-			"Incite Panic on Jameskeef", -- [1]
-			"Jameskeef-Kazzak", -- [2]
-			"Orcish", -- [3]
+			"hi", -- [1]
+			"Makélélé-Cho’gall", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Jameskeef", -- [5]
+			"Makélélé-Cho’gall", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			324, -- [11]
-			"Player-1305-09C27C8E", -- [12]
+			609, -- [11]
+			"Player-1336-05E4E65F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "Jameskeef",
-			[51] = 1530211404,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "Makélélé-Cho’gall",
+			[51] = 1530904961,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [5]
 		{
-			"Incite Panic on Alúndra", -- [1]
-			"Alúndra-Draenor", -- [2]
-			"Orcish", -- [3]
+			"?", -- [1]
+			"Kronkie-Kazzak", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Alúndra-Draenor", -- [5]
+			"Kronkie", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			325, -- [11]
-			"Player-1403-06D690AF", -- [12]
+			614, -- [11]
+			"Player-1305-08D4C0C4", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "Alúndra-Draenor",
-			[51] = 1530211404,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "Kronkie",
+			[51] = 1530905019,
+			[50] = "CHAT_MSG_WHISPER",
 		}, -- [6]
-		{
-			"Incite Panic on Whiterose", -- [1]
-			"Whiterose-Chantséternels", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Whiterose-Chantséternels", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			326, -- [11]
-			"Player-510-06C022A4", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Whiterose-Chantséternels",
-			[51] = 1530211404,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [7]
-		{
-			"Incite Panic on Alúndra", -- [1]
-			"Alúndra-Draenor", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Alúndra-Draenor", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			327, -- [11]
-			"Player-1403-06D690AF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Alúndra-Draenor",
-			[51] = 1530211420,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [8]
-		{
-			"Incite Panic on Jameskeef", -- [1]
-			"Jameskeef-Kazzak", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Jameskeef", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			328, -- [11]
-			"Player-1305-09C27C8E", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Jameskeef",
-			[51] = 1530211420,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [9]
-		{
-			"Incite Panic on Whiterose", -- [1]
-			"Whiterose-Chantséternels", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Whiterose-Chantséternels", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			329, -- [11]
-			"Player-510-06C022A4", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Whiterose-Chantséternels",
-			[51] = 1530211420,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [10]
-		{
-			"Incite Panic on Whiterose", -- [1]
-			"Whiterose-Chantséternels", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Whiterose-Chantséternels", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			332, -- [11]
-			"Player-510-06C022A4", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Whiterose-Chantséternels",
-			[51] = 1530211437,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [11]
-		{
-			"Incite Panic on Jameskeef", -- [1]
-			"Jameskeef-Kazzak", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Jameskeef", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			333, -- [11]
-			"Player-1305-09C27C8E", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Jameskeef",
-			[51] = 1530211437,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [12]
-		{
-			"Incite Panic on Jameskeef", -- [1]
-			"Jameskeef-Kazzak", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Jameskeef", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			334, -- [11]
-			"Player-1305-09C27C8E", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Jameskeef",
-			[51] = 1530211451,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [13]
-		{
-			"Incite Panic on Whiterose", -- [1]
-			"Whiterose-Chantséternels", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Whiterose-Chantséternels", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			336, -- [11]
-			"Player-510-06C022A4", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Whiterose-Chantséternels",
-			[51] = 1530211452,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [14]
-		{
-			"Incite Panic on Whiterose", -- [1]
-			"Whiterose-Chantséternels", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Whiterose-Chantséternels", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			338, -- [11]
-			"Player-510-06C022A4", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Whiterose-Chantséternels",
-			[51] = 1530211466,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [15]
-		{
-			"Incite Panic on Whiterose", -- [1]
-			"Whiterose-Chantséternels", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Whiterose-Chantséternels", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			340, -- [11]
-			"Player-510-06C022A4", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Whiterose-Chantséternels",
-			[51] = 1530211481,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [16]
 		{
 			"hey", -- [1]
 			"Jameskeef-Kazzak", -- [2]
@@ -386,7 +166,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			361, -- [11]
+			618, -- [11]
 			"Player-1305-09C27C8E", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -394,343 +174,563 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "Jameskeef",
-			[51] = 1530211650,
+			[51] = 1530905051,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [7]
+		{
+			"huhu", -- [1]
+			"Alexandría-Nazjatar", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Alexandría-Nazjatar", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			619, -- [11]
+			"Player-1105-0788496D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Alexandría-Nazjatar",
+			[51] = 1530905081,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [8]
+		{
+			"hey", -- [1]
+			"Jameskeef-Kazzak", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Jameskeef", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			621, -- [11]
+			"Player-1305-09C27C8E", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Jameskeef",
+			[51] = 1530905132,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [9]
+		{
+			"hi", -- [1]
+			"Naussicaä-Krasus", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Naussicaä-Krasus", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			622, -- [11]
+			"Player-1123-059B9590", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Naussicaä-Krasus",
+			[51] = 1530905136,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [10]
+		{
+			"I'm at the stone need one more to summon", -- [1]
+			"Jameskeef-Kazzak", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Jameskeef", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			623, -- [11]
+			"Player-1305-09C27C8E", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Jameskeef",
+			[51] = 1530905148,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [11]
+		{
+			"BRH ?", -- [1]
+			"Naussicaä-Krasus", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Naussicaä-Krasus", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			624, -- [11]
+			"Player-1123-059B9590", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Naussicaä-Krasus",
+			[51] = 1530905174,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [12]
+		{
+			"yes", -- [1]
+			"Jameskeef-Kazzak", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Jameskeef", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			625, -- [11]
+			"Player-1305-09C27C8E", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Jameskeef",
+			[51] = 1530905177,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [13]
+		{
+			"omw", -- [1]
+			"Naussicaä-Krasus", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Naussicaä-Krasus", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			626, -- [11]
+			"Player-1123-059B9590", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Naussicaä-Krasus",
+			[51] = 1530905185,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [14]
+		{
+			"Nuitqt has received summon from Jameskeef-Kazzak", -- [1]
+			"Nuitqt-Frostwolf", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Nuitqt-Frostwolf", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			627, -- [11]
+			"Player-3703-06176BD3", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Nuitqt-Frostwolf",
+			[51] = 1530905206,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [15]
+		{
+			"just finishing my magnum ice cream :p", -- [1]
+			"Naussicaä-Krasus", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Naussicaä-Krasus", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			628, -- [11]
+			"Player-1123-059B9590", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Naussicaä-Krasus",
+			[51] = 1530905217,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [16]
+		{
+			"are you having problems?", -- [1]
+			"Jameskeef-Kazzak", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Jameskeef", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			633, -- [11]
+			"Player-1305-09C27C8E", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Jameskeef",
+			[51] = 1530905359,
 			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [17]
 		{
-			"hey", -- [1]
-			"Shaderuner-Draenor", -- [2]
+			"ye", -- [1]
+			"Nuitqt-Frostwolf", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Shaderuner-Draenor", -- [5]
+			"Nuitqt-Frostwolf", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			362, -- [11]
-			"Player-1403-069D3EA6", -- [12]
+			634, -- [11]
+			"Player-3703-06176BD3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "Shaderuner-Draenor",
-			[51] = 1530211660,
+			[52] = "Nuitqt-Frostwolf",
+			[51] = 1530905365,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [18]
 		{
-			"hey", -- [1]
-			"Drannosh-Balnazzar", -- [2]
+			"wrong phase", -- [1]
+			"Alexandría-Nazjatar", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Drannosh-Balnazzar", -- [5]
+			"Alexandría-Nazjatar", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			364, -- [11]
-			"Player-1598-084FF9E8", -- [12]
+			635, -- [11]
+			"Player-1105-0788496D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "Drannosh-Balnazzar",
-			[51] = 1530211759,
-			[50] = "CHAT_MSG_WHISPER",
+			[52] = "Alexandría-Nazjatar",
+			[51] = 1530905403,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [19]
 		{
-			"this is an alt", -- [1]
-			"Drannosh-Balnazzar", -- [2]
+			"well", -- [1]
+			"Nuitqt-Frostwolf", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Drannosh-Balnazzar", -- [5]
+			"Nuitqt-Frostwolf", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			365, -- [11]
-			"Player-1598-084FF9E8", -- [12]
+			636, -- [11]
+			"Player-3703-06176BD3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "Drannosh-Balnazzar",
-			[51] = 1530211761,
-			[50] = "CHAT_MSG_WHISPER",
+			[52] = "Nuitqt-Frostwolf",
+			[51] = 1530905403,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [20]
 		{
-			"did cathedral timed before", -- [1]
-			"Drannosh-Balnazzar", -- [2]
+			"relog", -- [1]
+			"Alexandría-Nazjatar", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Drannosh-Balnazzar", -- [5]
+			"Alexandría-Nazjatar", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			366, -- [11]
-			"Player-1598-084FF9E8", -- [12]
+			637, -- [11]
+			"Player-1105-0788496D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "Drannosh-Balnazzar",
-			[51] = 1530211767,
-			[50] = "CHAT_MSG_WHISPER",
+			[52] = "Alexandría-Nazjatar",
+			[51] = 1530905406,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [21]
 		{
-			"inv", -- [1]
-			"Drannosh-Balnazzar", -- [2]
+			"I can reinvite you", -- [1]
+			"Jameskeef-Kazzak", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Drannosh-Balnazzar", -- [5]
+			"Jameskeef", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			367, -- [11]
-			"Player-1598-084FF9E8", -- [12]
+			638, -- [11]
+			"Player-1305-09C27C8E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "Drannosh-Balnazzar",
-			[51] = 1530211769,
-			[50] = "CHAT_MSG_WHISPER",
+			[52] = "Jameskeef",
+			[51] = 1530905421,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [22]
 		{
-			"sure bring your main", -- [1]
-			"Drannosh-Balnazzar", -- [2]
-			"Orcish", -- [3]
+			"relog", -- [1]
+			"Alexandría-Nazjatar", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Drannosh-Balnazzar", -- [5]
+			"Alexandría-Nazjatar", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			368, -- [11]
-			"Player-1598-084FF9E8", -- [12]
+			639, -- [11]
+			"Player-1105-0788496D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "Drannosh-Balnazzar",
-			[51] = 1530211787,
-			[50] = "CHAT_MSG_WHISPER_INFORM",
+			[52] = "Alexandría-Nazjatar",
+			[51] = 1530905430,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [23]
 		{
-			"...", -- [1]
-			"Drannosh-Balnazzar", -- [2]
+			"did you start any chainquest for weapon ?", -- [1]
+			"Naussicaä-Krasus", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Drannosh-Balnazzar", -- [5]
+			"Naussicaä-Krasus", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			370, -- [11]
-			"Player-1598-084FF9E8", -- [12]
+			640, -- [11]
+			"Player-1123-059B9590", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "Drannosh-Balnazzar",
-			[51] = 1530211795,
-			[50] = "CHAT_MSG_WHISPER",
+			[52] = "Naussicaä-Krasus",
+			[51] = 1530905436,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [24]
 		{
-			"hey hey", -- [1]
-			"Bazzard-TarrenMill", -- [2]
+			"thx", -- [1]
+			"Alexandría-Nazjatar", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Bazzard-TarrenMill", -- [5]
+			"Alexandría-Nazjatar", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			372, -- [11]
-			"Player-1084-080E9C39", -- [12]
+			641, -- [11]
+			"Player-1105-0788496D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "Bazzard-TarrenMill",
-			[51] = 1530211801,
+			[52] = "Alexandría-Nazjatar",
+			[51] = 1530905473,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [25]
 		{
-			"why are u a dick?", -- [1]
-			"Drannosh-Balnazzar", -- [2]
+			"no pot ?", -- [1]
+			"Naussicaä-Krasus", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Drannosh-Balnazzar", -- [5]
+			"Naussicaä-Krasus", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			373, -- [11]
-			"Player-1598-084FF9E8", -- [12]
+			644, -- [11]
+			"Player-1123-059B9590", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "Drannosh-Balnazzar",
-			[51] = 1530211804,
-			[50] = "CHAT_MSG_WHISPER",
+			[52] = "Naussicaä-Krasus",
+			[51] = 1530905509,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [26]
 		{
-			"HI", -- [1]
-			"Mdpvexd-Ragnaros", -- [2]
+			"-", -- [1]
+			"Nuitqt-Frostwolf", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Mdpvexd-Ragnaros", -- [5]
+			"Nuitqt-Frostwolf", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			374, -- [11]
-			"Player-3682-081F7D20", -- [12]
+			645, -- [11]
+			"Player-3703-06176BD3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "Mdpvexd-Ragnaros",
-			[51] = 1530211805,
+			[52] = "Nuitqt-Frostwolf",
+			[51] = 1530905513,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [27]
 		{
-			"im 955 ilvl", -- [1]
-			"Drannosh-Balnazzar", -- [2]
-			"", -- [3]
+			"Swirling Scythe on Incocknito", -- [1]
+			"Incocknito-Frostwolf", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Drannosh-Balnazzar", -- [5]
+			"Incocknito-Frostwolf", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			375, -- [11]
-			"Player-1598-084FF9E8", -- [12]
+			655, -- [11]
+			"Player-3703-0614685E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "Drannosh-Balnazzar",
-			[51] = 1530211806,
-			[50] = "CHAT_MSG_WHISPER",
+			[52] = "Incocknito-Frostwolf",
+			[51] = 1530905705,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [28]
 		{
-			"hey", -- [1]
-			"Jameskeef-Kazzak", -- [2]
-			"", -- [3]
+			"Swirling Scythe on Incocknito", -- [1]
+			"Incocknito-Frostwolf", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Jameskeef", -- [5]
+			"Incocknito-Frostwolf", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			376, -- [11]
-			"Player-1305-09C27C8E", -- [12]
+			658, -- [11]
+			"Player-3703-0614685E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "Jameskeef",
-			[51] = 1530211810,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "Incocknito-Frostwolf",
+			[51] = 1530905725,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [29]
 		{
-			"go for 3rd monk?", -- [1]
-			"Jameskeef-Kazzak", -- [2]
+			"release", -- [1]
+			"Naussicaä-Krasus", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Jameskeef", -- [5]
+			"Naussicaä-Krasus", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			378, -- [11]
-			"Player-1305-09C27C8E", -- [12]
+			659, -- [11]
+			"Player-1123-059B9590", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "Jameskeef",
-			[51] = 1530211896,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "Naussicaä-Krasus",
+			[51] = 1530905749,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [30]
 		{
-			"sure", -- [1]
-			"Bazzard-TarrenMill", -- [2]
+			"its here", -- [1]
+			"Naussicaä-Krasus", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Bazzard-TarrenMill", -- [5]
+			"Naussicaä-Krasus", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			379, -- [11]
-			"Player-1084-080E9C39", -- [12]
+			662, -- [11]
+			"Player-1123-059B9590", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "Bazzard-TarrenMill",
-			[51] = 1530211904,
+			[52] = "Naussicaä-Krasus",
+			[51] = 1530905756,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [31]
 		{
-			"will you dps?", -- [1]
-			"Magteria-Spinebreaker", -- [2]
-			"Orcish", -- [3]
+			"mind the patrol upstairs", -- [1]
+			"Jameskeef-Kazzak", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Magteria-Spinebreaker", -- [5]
+			"Jameskeef", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			380, -- [11]
-			"Player-3656-0855EF6E", -- [12]
+			669, -- [11]
+			"Player-1305-09C27C8E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "Magteria-Spinebreaker",
-			[51] = 1530211930,
-			[50] = "CHAT_MSG_WHISPER_INFORM",
+			[52] = "Jameskeef",
+			[51] = 1530905836,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [32]
 		{
-			"I am at the stone", -- [1]
+			"Arrow Barrage on Jameskeef", -- [1]
 			"Jameskeef-Kazzak", -- [2]
-			"", -- [3]
+			"Orcish", -- [3]
 			"", -- [4]
 			"Jameskeef", -- [5]
 			"", -- [6]
@@ -738,7 +738,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			382, -- [11]
+			671, -- [11]
 			"Player-1305-09C27C8E", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -746,35 +746,13 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "Jameskeef",
-			[51] = 1530211960,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[51] = 1530905906,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [33]
 		{
-			"4 melles with quaking....do take care", -- [1]
-			"Anzgar-Ragnaros", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Anzgar-Ragnaros", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			383, -- [11]
-			"Player-3682-05D0F9F1", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Anzgar-Ragnaros",
-			[51] = 1530211976,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [34]
-		{
-			"ok let's get  ranged", -- [1]
+			"Arrow Barrage on Jameskeef", -- [1]
 			"Jameskeef-Kazzak", -- [2]
-			"", -- [3]
+			"Orcish", -- [3]
 			"", -- [4]
 			"Jameskeef", -- [5]
 			"", -- [6]
@@ -782,7 +760,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			385, -- [11]
+			672, -- [11]
 			"Player-1305-09C27C8E", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -790,537 +768,361 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "Jameskeef",
-			[51] = 1530212000,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[51] = 1530905962,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [34]
+		{
+			"Arrow Barrage on Jameskeef", -- [1]
+			"Jameskeef-Kazzak", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Jameskeef", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			674, -- [11]
+			"Player-1305-09C27C8E", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Jameskeef",
+			[51] = 1530906036,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [35]
 		{
-			"hi, this is my alt", -- [1]
-			"Gladien-ShatteredHand", -- [2]
-			"", -- [3]
+			"Arrow Barrage on Jameskeef", -- [1]
+			"Jameskeef-Kazzak", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Gladien-ShatteredHand", -- [5]
+			"Jameskeef", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			386, -- [11]
-			"Player-633-08A3DCC5", -- [12]
+			675, -- [11]
+			"Player-1305-09C27C8E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "Gladien-ShatteredHand",
-			[51] = 1530212051,
-			[50] = "CHAT_MSG_WHISPER",
+			[52] = "Jameskeef",
+			[51] = 1530906074,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [36]
 		{
-			"|cffffff00|Hachievement:11162:Player-633-08A3DCC5:1:4:21:17:4294967295:4294967295:4294967295:4294967295|h[Keystone Master]|h|r", -- [1]
-			"Gladien-ShatteredHand", -- [2]
+			"take that bloody bubble talent if you're not able to survive", -- [1]
+			"Naussicaä-Krasus", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Gladien-ShatteredHand", -- [5]
+			"Naussicaä-Krasus", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			387, -- [11]
-			"Player-633-08A3DCC5", -- [12]
+			704, -- [11]
+			"Player-1123-059B9590", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "Gladien-ShatteredHand",
-			[51] = 1530212067,
-			[50] = "CHAT_MSG_WHISPER",
+			[52] = "Naussicaä-Krasus",
+			[51] = 1530906237,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [37]
 		{
-			"really?", -- [1]
-			"Âtes-TwistingNether", -- [2]
+			":p", -- [1]
+			"Naussicaä-Krasus", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Âtes-TwistingNether", -- [5]
+			"Naussicaä-Krasus", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			388, -- [11]
-			"Player-3674-08194BB0", -- [12]
+			706, -- [11]
+			"Player-1123-059B9590", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "Âtes-TwistingNether",
-			[51] = 1530212081,
-			[50] = "CHAT_MSG_WHISPER",
+			[52] = "Naussicaä-Krasus",
+			[51] = 1530906240,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [38]
 		{
-			"Warrior?", -- [1]
-			"Bazzard-TarrenMill", -- [2]
+			"he is blind", -- [1]
+			"Nuitqt-Frostwolf", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Bazzard-TarrenMill", -- [5]
+			"Nuitqt-Frostwolf", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			389, -- [11]
-			"Player-1084-080E9C39", -- [12]
+			708, -- [11]
+			"Player-3703-06176BD3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "Bazzard-TarrenMill",
-			[51] = 1530212141,
+			[52] = "Nuitqt-Frostwolf",
+			[51] = 1530906257,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [39]
 		{
-			"Hi hi", -- [1]
-			"Krathella-Draenor", -- [2]
+			"should have save", -- [1]
+			"Naussicaä-Krasus", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Krathella-Draenor", -- [5]
+			"Naussicaä-Krasus", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			391, -- [11]
-			"Player-1403-05E803B0", -- [12]
+			743, -- [11]
+			"Player-1123-059B9590", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "Krathella-Draenor",
-			[51] = 1530212157,
+			[52] = "Naussicaä-Krasus",
+			[51] = 1530906684,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [40]
 		{
-			"yo", -- [1]
-			"Bazzard-TarrenMill", -- [2]
+			"that br", -- [1]
+			"Naussicaä-Krasus", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Bazzard-TarrenMill", -- [5]
+			"Naussicaä-Krasus", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			392, -- [11]
-			"Player-1084-080E9C39", -- [12]
+			744, -- [11]
+			"Player-1123-059B9590", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "Bazzard-TarrenMill",
-			[51] = 1530212166,
+			[52] = "Naussicaä-Krasus",
+			[51] = 1530906689,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [41]
 		{
-			"ty", -- [1]
-			"Krathella-Draenor", -- [2]
+			"dont need it", -- [1]
+			"Incocknito-Frostwolf", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Krathella-Draenor", -- [5]
+			"Incocknito-Frostwolf", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			393, -- [11]
-			"Player-1403-05E803B0", -- [12]
+			745, -- [11]
+			"Player-3703-0614685E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "Krathella-Draenor",
-			[51] = 1530212183,
+			[52] = "Incocknito-Frostwolf",
+			[51] = 1530906697,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [42]
 		{
-			"Fel Strike on Anzgar", -- [1]
-			"Anzgar-Ragnaros", -- [2]
-			"Orcish", -- [3]
+			"on endboss", -- [1]
+			"Incocknito-Frostwolf", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Anzgar-Ragnaros", -- [5]
+			"Incocknito-Frostwolf", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			411, -- [11]
-			"Player-3682-05D0F9F1", -- [12]
+			746, -- [11]
+			"Player-3703-0614685E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "Anzgar-Ragnaros",
-			[51] = 1530212315,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "Incocknito-Frostwolf",
+			[51] = 1530906699,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [43]
 		{
-			"Fel Strike on Krathella", -- [1]
-			"Krathella-Draenor", -- [2]
-			"Orcish", -- [3]
+			"for last boss", -- [1]
+			"Naussicaä-Krasus", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Krathella-Draenor", -- [5]
+			"Naussicaä-Krasus", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			417, -- [11]
-			"Player-1403-05E803B0", -- [12]
+			747, -- [11]
+			"Player-1123-059B9590", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "Krathella-Draenor",
-			[51] = 1530212450,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "Naussicaä-Krasus",
+			[51] = 1530906702,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [44]
 		{
-			"Fel Strike on Krathella", -- [1]
-			"Krathella-Draenor", -- [2]
-			"Orcish", -- [3]
+			"got oneshoted last time", -- [1]
+			"Naussicaä-Krasus", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Krathella-Draenor", -- [5]
+			"Naussicaä-Krasus", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			418, -- [11]
-			"Player-1403-05E803B0", -- [12]
+			750, -- [11]
+			"Player-1123-059B9590", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "Krathella-Draenor",
-			[51] = 1530212456,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "Naussicaä-Krasus",
+			[51] = 1530906735,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [45]
 		{
-			"Fel Strike on Anzgar", -- [1]
-			"Anzgar-Ragnaros", -- [2]
-			"Orcish", -- [3]
+			"i made it in tyrannical", -- [1]
+			"Naussicaä-Krasus", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Anzgar-Ragnaros", -- [5]
+			"Naussicaä-Krasus", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			419, -- [11]
-			"Player-3682-05D0F9F1", -- [12]
+			751, -- [11]
+			"Player-1123-059B9590", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "Anzgar-Ragnaros",
-			[51] = 1530212520,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "Naussicaä-Krasus",
+			[51] = 1530906753,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [46]
 		{
-			"Fel Strike on Krathella", -- [1]
-			"Krathella-Draenor", -- [2]
-			"Orcish", -- [3]
+			"dont u have def cds?", -- [1]
+			"Incocknito-Frostwolf", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Krathella-Draenor", -- [5]
+			"Incocknito-Frostwolf", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			420, -- [11]
-			"Player-1403-05E803B0", -- [12]
+			752, -- [11]
+			"Player-3703-0614685E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "Krathella-Draenor",
-			[51] = 1530212530,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "Incocknito-Frostwolf",
+			[51] = 1530906772,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [47]
 		{
-			"Fel Strike on Krathella", -- [1]
-			"Krathella-Draenor", -- [2]
-			"Orcish", -- [3]
+			"only one is prydaz and guardian", -- [1]
+			"Naussicaä-Krasus", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Krathella-Draenor", -- [5]
+			"Naussicaä-Krasus", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			421, -- [11]
-			"Player-1403-05E803B0", -- [12]
+			753, -- [11]
+			"Player-1123-059B9590", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "Krathella-Draenor",
-			[51] = 1530212541,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "Naussicaä-Krasus",
+			[51] = 1530906789,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [48]
 		{
-			"Fel Strike on Krathella", -- [1]
-			"Krathella-Draenor", -- [2]
-			"Orcish", -- [3]
+			"ad i died", -- [1]
+			"Naussicaä-Krasus", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Krathella-Draenor", -- [5]
+			"Naussicaä-Krasus", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			422, -- [11]
-			"Player-1403-05E803B0", -- [12]
+			754, -- [11]
+			"Player-1123-059B9590", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "Krathella-Draenor",
-			[51] = 1530212567,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "Naussicaä-Krasus",
+			[51] = 1530906798,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [49]
 		{
-			"Fel Strike on Krathella", -- [1]
-			"Krathella-Draenor", -- [2]
-			"Orcish", -- [3]
+			"with prydaz up :p", -- [1]
+			"Naussicaä-Krasus", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Krathella-Draenor", -- [5]
+			"Naussicaä-Krasus", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			423, -- [11]
-			"Player-1403-05E803B0", -- [12]
+			755, -- [11]
+			"Player-1123-059B9590", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "Krathella-Draenor",
-			[51] = 1530212578,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "Naussicaä-Krasus",
+			[51] = 1530906803,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [50]
-		{
-			"lol", -- [1]
-			"Krathella-Draenor", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Krathella-Draenor", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			426, -- [11]
-			"Player-1403-05E803B0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Krathella-Draenor",
-			[51] = 1530212619,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [51]
-		{
-			"what a dick", -- [1]
-			"Krathella-Draenor", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Krathella-Draenor", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			427, -- [11]
-			"Player-1403-05E803B0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Krathella-Draenor",
-			[51] = 1530212625,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [52]
-		{
-			"ty", -- [1]
-			"Krathella-Draenor", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Krathella-Draenor", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			429, -- [11]
-			"Player-1403-05E803B0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Krathella-Draenor",
-			[51] = 1530212673,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [53]
-		{
-			"TY", -- [1]
-			"Mdpvexd-Ragnaros", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Mdpvexd-Ragnaros", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			430, -- [11]
-			"Player-3682-081F7D20", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Mdpvexd-Ragnaros",
-			[51] = 1530212677,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [54]
-		{
-			"Fixate on Jameskeef", -- [1]
-			"Jameskeef-Kazzak", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Jameskeef", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			439, -- [11]
-			"Player-1305-09C27C8E", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Jameskeef",
-			[51] = 1530212845,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [55]
-		{
-			"sry. dc...", -- [1]
-			"Bazzard-TarrenMill", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Bazzard-TarrenMill", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			465, -- [11]
-			"Player-1084-080E9C39", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Bazzard-TarrenMill",
-			[51] = 1530213293,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [56]
-		{
-			"r", -- [1]
-			"Anzgar-Ragnaros", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Anzgar-Ragnaros", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			475, -- [11]
-			"Player-3682-05D0F9F1", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Anzgar-Ragnaros",
-			[51] = 1530213499,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [57]
-		{
-			"Demonic Upheaval on Krathella", -- [1]
-			"Krathella-Draenor", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Krathella-Draenor", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			497, -- [11]
-			"Player-1403-05E803B0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Krathella-Draenor",
-			[51] = 1530213732,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [58]
-		{
-			"cool, ty", -- [1]
-			"Krathella-Draenor", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Krathella-Draenor", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			505, -- [11]
-			"Player-1403-05E803B0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Krathella-Draenor",
-			[51] = 1530213759,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [59]
 		{
 			"gg", -- [1]
 			"Jameskeef-Kazzak", -- [2]
@@ -1332,7 +1134,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			506, -- [11]
+			780, -- [11]
 			"Player-1305-09C27C8E", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1340,207 +1142,163 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "Jameskeef",
-			[51] = 1530213760,
+			[51] = 1530906977,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [60]
+		}, -- [51]
 		{
-			"ty bb", -- [1]
-			"Mdpvexd-Ragnaros", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Mdpvexd-Ragnaros", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			514, -- [11]
-			"Player-3682-081F7D20", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Mdpvexd-Ragnaros",
-			[51] = 1530213773,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [61]
-		{
-			"do oyou need |cffa335ee|Hitem:144489::::::::110:268::16:4:3536:42:1592:3528:::|h[Shoulderguards of Legion Domination]|h|r?", -- [1]
-			"Bazzard-TarrenMill", -- [2]
+			"do you need |cffa335ee|Hitem:139242::::::::110:268::16:5:3536:1808:41:1592:3528:::|h[Raven's Veil Gloves]|h|r?", -- [1]
+			"Incocknito-Frostwolf", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Bazzard-TarrenMill", -- [5]
+			"Incocknito-Frostwolf", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			516, -- [11]
-			"Player-1084-080E9C39", -- [12]
+			782, -- [11]
+			"Player-3703-0614685E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "Bazzard-TarrenMill",
-			[51] = 1530213780,
+			[52] = "Incocknito-Frostwolf",
+			[51] = 1530906986,
 			[50] = "CHAT_MSG_WHISPER_INFORM",
-		}, -- [62]
-		{
-			"2.5m dps each :D", -- [1]
-			"Krathella-Draenor", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Krathella-Draenor", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			517, -- [11]
-			"Player-1403-05E803B0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Krathella-Draenor",
-			[51] = 1530213780,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [63]
+		}, -- [52]
 		{
 			"I could use them", -- [1]
-			"Bazzard-TarrenMill", -- [2]
+			"Incocknito-Frostwolf", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Bazzard-TarrenMill", -- [5]
+			"Incocknito-Frostwolf", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			519, -- [11]
-			"Player-1084-080E9C39", -- [12]
+			783, -- [11]
+			"Player-3703-0614685E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "Bazzard-TarrenMill",
-			[51] = 1530213785,
+			[52] = "Incocknito-Frostwolf",
+			[51] = 1530906990,
 			[50] = "CHAT_MSG_WHISPER_INFORM",
-		}, -- [64]
+		}, -- [53]
+		{
+			"i was a 50K pv with prydaz and guardian up :p", -- [1]
+			"Naussicaä-Krasus", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Naussicaä-Krasus", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			784, -- [11]
+			"Player-1123-059B9590", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Naussicaä-Krasus",
+			[51] = 1530906994,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [54]
 		{
 			"tyty", -- [1]
-			"Bazzard-TarrenMill", -- [2]
+			"Incocknito-Frostwolf", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Bazzard-TarrenMill", -- [5]
+			"Incocknito-Frostwolf", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			521, -- [11]
-			"Player-1084-080E9C39", -- [12]
+			785, -- [11]
+			"Player-3703-0614685E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "Bazzard-TarrenMill",
-			[51] = 1530213796,
+			[52] = "Incocknito-Frostwolf",
+			[51] = 1530907000,
 			[50] = "CHAT_MSG_WHISPER_INFORM",
-		}, -- [65]
+		}, -- [55]
 		{
-			"WP SIR", -- [1]
-			"Bazzard-TarrenMill", -- [2]
+			":)", -- [1]
+			"Nuitqt-Frostwolf", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Bazzard-TarrenMill", -- [5]
+			"Nuitqt-Frostwolf", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			523, -- [11]
-			"Player-1084-080E9C39", -- [12]
+			792, -- [11]
+			"Player-3703-06176BD3", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "Bazzard-TarrenMill",
-			[51] = 1530213800,
+			[52] = "Nuitqt-Frostwolf",
+			[51] = 1530907011,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [66]
+		}, -- [56]
 		{
-			"TY FOR RUN! :)", -- [1]
-			"Bazzard-TarrenMill", -- [2]
+			"i'm cheap", -- [1]
+			"Naussicaä-Krasus", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Bazzard-TarrenMill", -- [5]
+			"Naussicaä-Krasus", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			525, -- [11]
-			"Player-1084-080E9C39", -- [12]
+			793, -- [11]
+			"Player-1123-059B9590", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "Bazzard-TarrenMill",
-			[51] = 1530213805,
+			[52] = "Naussicaä-Krasus",
+			[51] = 1530907012,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [67]
+		}, -- [57]
 		{
-			"You too!", -- [1]
-			"Krathella-Draenor", -- [2]
+			"ty for run ++", -- [1]
+			"Naussicaä-Krasus", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Krathella-Draenor", -- [5]
+			"Naussicaä-Krasus", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			526, -- [11]
-			"Player-1403-05E803B0", -- [12]
+			797, -- [11]
+			"Player-1123-059B9590", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "Krathella-Draenor",
-			[51] = 1530213806,
+			[52] = "Naussicaä-Krasus",
+			[51] = 1530907030,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [68]
-		{
-			"cya", -- [1]
-			"Krathella-Draenor", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Krathella-Draenor", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			527, -- [11]
-			"Player-1403-05E803B0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Krathella-Draenor",
-			[51] = 1530213807,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [69]
+		}, -- [58]
 		{
 			"ty all", -- [1]
 			"Jameskeef-Kazzak", -- [2]
@@ -1552,7 +1310,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			529, -- [11]
+			799, -- [11]
 			"Player-1305-09C27C8E", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1560,275 +1318,231 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "Jameskeef",
-			[51] = 1530213810,
+			[51] = 1530907034,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [70]
+		}, -- [59]
 		{
-			"I'm at the stone if someone needs a summon", -- [1]
-			"Jameskeef-Kazzak", -- [2]
+			"hi", -- [1]
+			"Sézar-C'Thun", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Jameskeef", -- [5]
+			"Sézar-C'Thun", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			47, -- [11]
+			"Player-1381-043ACAC4", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Sézar-C'Thun",
+			[51] = 1530910066,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [60]
+		{
+			"did you get the summon?", -- [1]
+			"Sézar-C'Thun", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Sézar-C'Thun", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			50, -- [11]
+			"Player-1381-043ACAC4", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Sézar-C'Thun",
+			[51] = 1530910219,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
+		}, -- [61]
+		{
+			"ty", -- [1]
+			"Sézar-C'Thun", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Sézar-C'Thun", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			51, -- [11]
+			"Player-1381-043ACAC4", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Sézar-C'Thun",
+			[51] = 1530910243,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [62]
+		{
+			"Zzz", -- [1]
+			"Apsinth-Drak'thul", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Apsinth-Drak'thul", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			61, -- [11]
+			"Player-1092-03203099", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Apsinth-Drak'thul",
+			[51] = 1530910442,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [63]
+		{
+			"this DH healing", -- [1]
+			"Apsinth-Drak'thul", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Apsinth-Drak'thul", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
 			62, -- [11]
-			"Player-1305-09C27C8E", -- [12]
+			"Player-1092-03203099", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "Jameskeef",
-			[51] = 1530216049,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [71]
-		{
-			"y, pls", -- [1]
-			"Диманхунтер-Ревущийфьорд", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Диманхунтер-Ревущийфьорд", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			63, -- [11]
-			"Player-1615-0753F887", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Диманхунтер-Ревущийфьорд",
-			[51] = 1530216060,
+			[52] = "Apsinth-Drak'thul",
+			[51] = 1530910451,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [72]
+		}, -- [64]
 		{
-			"sec", -- [1]
-			"Диманхунтер-Ревущийфьорд", -- [2]
+			"bro when you low run to me ", -- [1]
+			"Apsinth-Drak'thul", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Диманхунтер-Ревущийфьорд", -- [5]
+			"Apsinth-Drak'thul", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			64, -- [11]
-			"Player-1615-0753F887", -- [12]
+			132, -- [11]
+			"Player-1092-03203099", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "Диманхунтер-Ревущийфьорд",
-			[51] = 1530216135,
+			[52] = "Apsinth-Drak'thul",
+			[51] = 1530910908,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [73]
+		}, -- [65]
 		{
-			"did you get the summon?", -- [1]
-			"Диманхунтер-Ревущийфьорд", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Диманхунтер-Ревущийфьорд", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			69, -- [11]
-			"Player-1615-0753F887", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Диманхунтер-Ревущийфьорд",
-			[51] = 1530216184,
-			[50] = "CHAT_MSG_WHISPER_INFORM",
-		}, -- [74]
-		{
-			"y, sec", -- [1]
-			"Диманхунтер-Ревущийфьорд", -- [2]
+			"for spirit link", -- [1]
+			"Apsinth-Drak'thul", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Диманхунтер-Ревущийфьорд", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			70, -- [11]
-			"Player-1615-0753F887", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Диманхунтер-Ревущийфьорд",
-			[51] = 1530216188,
-			[50] = "CHAT_MSG_WHISPER",
-		}, -- [75]
-		{
-			"получили сум?", -- [1]
-			"Барабассичка-Ревущийфьорд", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Барабассичка-Ревущийфьорд", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			71, -- [11]
-			"Player-1615-07819720", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Барабассичка-Ревущийфьорд",
-			[51] = 1530216194,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [76]
-		{
-			"Thunder Ritual on Jameskeef", -- [1]
-			"Jameskeef-Kazzak", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Jameskeef", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			103, -- [11]
-			"Player-1305-09C27C8E", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Jameskeef",
-			[51] = 1530216648,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [77]
-		{
-			"Thunder Ritual on Jameskeef", -- [1]
-			"Jameskeef-Kazzak", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Jameskeef", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			106, -- [11]
-			"Player-1305-09C27C8E", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Jameskeef",
-			[51] = 1530216665,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [78]
-		{
-			"Thunder Ritual on Jameskeef", -- [1]
-			"Jameskeef-Kazzak", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Jameskeef", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			110, -- [11]
-			"Player-1305-09C27C8E", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Jameskeef",
-			[51] = 1530216682,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [79]
-		{
-			"Casting mass resurrection!", -- [1]
-			"Гэлориун-Ревущийфьорд", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Гэлориун-Ревущийфьорд", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			125, -- [11]
-			"Player-1615-0755CF9A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Гэлориун-Ревущийфьорд",
-			[51] = 1530216755,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [80]
-		{
-			"Casting mass resurrection!", -- [1]
-			"Гэлориун-Ревущийфьорд", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Гэлориун-Ревущийфьорд", -- [5]
+			"Apsinth-Drak'thul", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
 			134, -- [11]
-			"Player-1615-0755CF9A", -- [12]
+			"Player-1092-03203099", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "Гэлориун-Ревущийфьорд",
-			[51] = 1530216917,
+			[52] = "Apsinth-Drak'thul",
+			[51] = 1530910913,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [81]
+		}, -- [66]
 		{
-			"Casting mass resurrection!", -- [1]
-			"Гэлориун-Ревущийфьорд", -- [2]
+			"sry :(", -- [1]
+			"Sézar-C'Thun", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Гэлориун-Ревущийфьорд", -- [5]
+			"Sézar-C'Thun", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			182, -- [11]
-			"Player-1615-0755CF9A", -- [12]
+			161, -- [11]
+			"Player-1381-043ACAC4", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "Гэлориун-Ревущийфьорд",
-			[51] = 1530217332,
+			[52] = "Sézar-C'Thun",
+			[51] = 1530911229,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [82]
+		}, -- [67]
 		{
-			"cc?", -- [1]
+			"tey", -- [1]
+			"Sézar-C'Thun", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Sézar-C'Thun", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			163, -- [11]
+			"Player-1381-043ACAC4", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Sézar-C'Thun",
+			[51] = 1530911252,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [68]
+		{
+			"ty", -- [1]
+			"Sézar-C'Thun", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Sézar-C'Thun", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			164, -- [11]
+			"Player-1381-043ACAC4", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Sézar-C'Thun",
+			[51] = 1530911254,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [69]
+		{
+			"ignore mob?", -- [1]
 			"Jameskeef-Kazzak", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1838,7 +1552,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			183, -- [11]
+			171, -- [11]
 			"Player-1305-09C27C8E", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1846,55 +1560,11 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "Jameskeef",
-			[51] = 1530217349,
+			[51] = 1530911462,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [83]
+		}, -- [70]
 		{
-			"Baron Rafe Dreuger: casts |cff71d5ff|Hspell:227646:0|h[Железный вихрь]|h|r, dealing heavy damage to nearby players", -- [1]
-			"Гэлориун-Ревущийфьорд", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Гэлориун-Ревущийфьорд", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			184, -- [11]
-			"Player-1615-0755CF9A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Гэлориун-Ревущийфьорд",
-			[51] = 1530217382,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [84]
-		{
-			"?", -- [1]
-			"Барабассичка-Ревущийфьорд", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Барабассичка-Ревущийфьорд", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			185, -- [11]
-			"Player-1615-07819720", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Барабассичка-Ревущийфьорд",
-			[51] = 1530217399,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [85]
-		{
-			"cc 2 and we pull", -- [1]
+			"go?", -- [1]
 			"Jameskeef-Kazzak", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1904,7 +1574,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			186, -- [11]
+			172, -- [11]
 			"Player-1305-09C27C8E", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1912,319 +1582,627 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "Jameskeef",
-			[51] = 1530217401,
+			[51] = 1530911465,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [86]
+		}, -- [71]
 		{
-			"pull", -- [1]
-			"Гэлориун-Ревущийфьорд", -- [2]
+			"go", -- [1]
+			"Apsinth-Drak'thul", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Гэлориун-Ревущийфьорд", -- [5]
+			"Apsinth-Drak'thul", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			187, -- [11]
-			"Player-1615-0755CF9A", -- [12]
+			173, -- [11]
+			"Player-1092-03203099", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "Гэлориун-Ревущийфьорд",
-			[51] = 1530217401,
+			[52] = "Apsinth-Drak'thul",
+			[51] = 1530911487,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [87]
+		}, -- [72]
 		{
-			"wtf", -- [1]
-			"Гэлориун-Ревущийфьорд", -- [2]
+			"go go", -- [1]
+			"Apsinth-Drak'thul", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Гэлориун-Ревущийфьорд", -- [5]
+			"Apsinth-Drak'thul", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			174, -- [11]
+			"Player-1092-03203099", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Apsinth-Drak'thul",
+			[51] = 1530911496,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [73]
+		{
+			"add", -- [1]
+			"Sézar-C'Thun", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Sézar-C'Thun", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
 			188, -- [11]
-			"Player-1615-0755CF9A", -- [12]
+			"Player-1381-043ACAC4", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "Гэлориун-Ревущийфьорд",
-			[51] = 1530217402,
+			[52] = "Sézar-C'Thun",
+			[51] = 1530911688,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [88]
+		}, -- [74]
 		{
-			"great", -- [1]
-			"Барабассичка-Ревущийфьорд", -- [2]
+			"add", -- [1]
+			"Sézar-C'Thun", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Барабассичка-Ревущийфьорд", -- [5]
+			"Sézar-C'Thun", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			197, -- [11]
-			"Player-1615-07819720", -- [12]
+			189, -- [11]
+			"Player-1381-043ACAC4", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "Барабассичка-Ревущийфьорд",
-			[51] = 1530217421,
+			[52] = "Sézar-C'Thun",
+			[51] = 1530911691,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [89]
+		}, -- [75]
 		{
-			"прист ты потерялся?", -- [1]
-			"Барабассичка-Ревущийфьорд", -- [2]
+			"eh", -- [1]
+			"Apsinth-Drak'thul", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Барабассичка-Ревущийфьорд", -- [5]
+			"Apsinth-Drak'thul", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			194, -- [11]
+			"Player-1092-03203099", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Apsinth-Drak'thul",
+			[51] = 1530911700,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [76]
+		{
+			"oh we no ress", -- [1]
+			"Apsinth-Drak'thul", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Apsinth-Drak'thul", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			196, -- [11]
+			"Player-1092-03203099", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Apsinth-Drak'thul",
+			[51] = 1530911706,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [77]
+		{
+			"curse you add", -- [1]
+			"Apsinth-Drak'thul", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Apsinth-Drak'thul", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
 			200, -- [11]
-			"Player-1615-07819720", -- [12]
+			"Player-1092-03203099", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "Барабассичка-Ревущийфьорд",
-			[51] = 1530217497,
+			[52] = "Apsinth-Drak'thul",
+			[51] = 1530911716,
 			[50] = "CHAT_MSG_PARTY",
+		}, -- [78]
+		{
+			"let me take the light", -- [1]
+			"Sézar-C'Thun", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Sézar-C'Thun", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			203, -- [11]
+			"Player-1381-043ACAC4", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Sézar-C'Thun",
+			[51] = 1530911738,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [79]
+		{
+			"crap", -- [1]
+			"Jameskeef-Kazzak", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Jameskeef", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			217, -- [11]
+			"Player-1305-09C27C8E", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Jameskeef",
+			[51] = 1530911921,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [80]
+		{
+			"gg I was kinda backed into a corner", -- [1]
+			"Jameskeef-Kazzak", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Jameskeef", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			224, -- [11]
+			"Player-1305-09C27C8E", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Jameskeef",
+			[51] = 1530911945,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [81]
+		{
+			"ty", -- [1]
+			"Apsinth-Drak'thul", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Apsinth-Drak'thul", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			227, -- [11]
+			"Player-1092-03203099", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Apsinth-Drak'thul",
+			[51] = 1530911955,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [82]
+		{
+			"bb", -- [1]
+			"Apsinth-Drak'thul", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Apsinth-Drak'thul", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			229, -- [11]
+			"Player-1092-03203099", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Apsinth-Drak'thul",
+			[51] = 1530911956,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [83]
+		{
+			"need bracers?", -- [1]
+			"Aloidh-Ragnaros", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Aloidh-Ragnaros", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			230, -- [11]
+			"Player-3682-084B1927", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Aloidh-Ragnaros",
+			[51] = 1530911956,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [84]
+		{
+			"ty bb", -- [1]
+			"Sézar-C'Thun", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Sézar-C'Thun", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			235, -- [11]
+			"Player-1381-043ACAC4", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Sézar-C'Thun",
+			[51] = 1530911971,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [85]
+		{
+			"me?", -- [1]
+			"Jameskeef-Kazzak", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Jameskeef", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			236, -- [11]
+			"Player-1305-09C27C8E", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Jameskeef",
+			[51] = 1530911978,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [86]
+		{
+			"ye", -- [1]
+			"Aloidh-Ragnaros", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Aloidh-Ragnaros", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			237, -- [11]
+			"Player-3682-084B1927", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Aloidh-Ragnaros",
+			[51] = 1530911982,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [87]
+		{
+			"tyty", -- [1]
+			"Aloidh-Ragnaros", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Aloidh-Ragnaros", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			240, -- [11]
+			"Player-3682-084B1927", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Aloidh-Ragnaros",
+			[51] = 1530912003,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [88]
+		{
+			"byew", -- [1]
+			"Aloidh-Ragnaros", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Aloidh-Ragnaros", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			241, -- [11]
+			"Player-3682-084B1927", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Aloidh-Ragnaros",
+			[51] = 1530912004,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [89]
+		{
+			"bb", -- [1]
+			"Jameskeef-Kazzak", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Jameskeef", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			242, -- [11]
+			"Player-1305-09C27C8E", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Jameskeef",
+			[51] = 1530912006,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [90]
 		{
-			"Baron Rafe Dreuger: casts |cff71d5ff|Hspell:227646:0|h[Железный вихрь]|h|r, dealing heavy damage to nearby players", -- [1]
-			"Гэлориун-Ревущийфьорд", -- [2]
+			"the low guy is very good", -- [1]
+			"Naxorcisten-Shadowsong", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Гэлориун-Ревущийфьорд", -- [5]
+			"Naxorcisten-Shadowsong", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			202, -- [11]
-			"Player-1615-0755CF9A", -- [12]
+			287, -- [11]
+			"Player-3666-084646EC", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "Гэлориун-Ревущийфьорд",
-			[51] = 1530217562,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "Naxorcisten-Shadowsong",
+			[51] = 1530912312,
+			[50] = "CHAT_MSG_WHISPER",
 		}, -- [91]
 		{
-			"wtf are u doing????????????", -- [1]
-			"Барабассичка-Ревущийфьорд", -- [2]
+			"just wantes a 15 on his alt", -- [1]
+			"Naxorcisten-Shadowsong", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Барабассичка-Ревущийфьорд", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			214, -- [11]
-			"Player-1615-07819720", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Барабассичка-Ревущийфьорд",
-			[51] = 1530217609,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [92]
-		{
-			"|cffffff00|Hachievement:11162:Player-3682-086B48BE:1:12:27:17:4294967295:4294967295:4294967295:4294967295|h[Keystone Master]|h|r", -- [1]
-			"Gardanile-Ragnaros", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Gardanile-Ragnaros", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			269, -- [11]
-			"Player-3682-086B48BE", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Gardanile-Ragnaros",
-			[51] = 1530464992,
-			[50] = "CHAT_MSG_WHISPER",
-		}, -- [93]
-		{
-			"why decline?", -- [1]
-			"Тандеркэт-Термоштепсель", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Тандеркэт-Термоштепсель", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			275, -- [11]
-			"Player-1927-0A66D83C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Тандеркэт-Термоштепсель",
-			[51] = 1530465007,
-			[50] = "CHAT_MSG_WHISPER",
-		}, -- [94]
-		{
-			"hi", -- [1]
-			"Jakozaa-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Jakozaa-Hyjal", -- [5]
+			"Naxorcisten-Shadowsong", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
 			288, -- [11]
-			"Player-1390-08CCC23A", -- [12]
+			"Player-3666-084646EC", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "Jakozaa-Hyjal",
-			[51] = 1530465057,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [95]
+			[52] = "Naxorcisten-Shadowsong",
+			[51] = 1530912315,
+			[50] = "CHAT_MSG_WHISPER",
+		}, -- [92]
 		{
-			"plop", -- [1]
-			"Ræstsham-Hyjal", -- [2]
+			"i can also heal if u want", -- [1]
+			"Castiiz-Kazzak", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Ræstsham-Hyjal", -- [5]
+			"Castiiz", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
 			289, -- [11]
-			"Player-1390-09A811D9", -- [12]
+			"Player-1305-09CC5AB6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "Ræstsham-Hyjal",
-			[51] = 1530465060,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [96]
+			[52] = "Castiiz",
+			[51] = 1530912321,
+			[50] = "CHAT_MSG_WHISPER",
+		}, -- [93]
 		{
-			"yo", -- [1]
-			"Jameskeef-Kazzak", -- [2]
+			"holap", -- [1]
+			"Shunn-Shen'dralar", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Jameskeef", -- [5]
+			"Shunn-Shen'dralar", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			290, -- [11]
+			"Player-1379-091C7780", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Shunn-Shen'dralar",
+			[51] = 1530912327,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [94]
+		{
+			"will you dps?", -- [1]
+			"Naxorcisten-Shadowsong", -- [2]
+			"Orcish", -- [3]
+			"", -- [4]
+			"Naxorcisten-Shadowsong", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			292, -- [11]
+			"Player-3666-084646EC", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Naxorcisten-Shadowsong",
+			[51] = 1530912347,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
+		}, -- [95]
+		{
+			"got bis legendarys in both", -- [1]
+			"Naxorcisten-Shadowsong", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Naxorcisten-Shadowsong", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
 			293, -- [11]
-			"Player-1305-09C27C8E", -- [12]
+			"Player-3666-084646EC", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "Jameskeef",
-			[51] = 1530465070,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "Naxorcisten-Shadowsong",
+			[51] = 1530912354,
+			[50] = "CHAT_MSG_WHISPER",
+		}, -- [96]
+		{
+			"hi", -- [1]
+			"Milczus-BurningLegion", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Milczus-BurningLegion", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			295, -- [11]
+			"Player-3713-0713FCE1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Milczus-BurningLegion",
+			[51] = 1530912381,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [97]
 		{
-			"too much shiet pulled", -- [1]
-			"Gardanile-Ragnaros", -- [2]
+			"hey", -- [1]
+			"Jameskeef-Kazzak", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Gardanile-Ragnaros", -- [5]
+			"Jameskeef", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			312, -- [11]
-			"Player-3682-086B48BE", -- [12]
+			296, -- [11]
+			"Player-1305-09C27C8E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "Gardanile-Ragnaros",
-			[51] = 1530465337,
-			[50] = "CHAT_MSG_WHISPER",
+			[52] = "Jameskeef",
+			[51] = 1530912394,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [98]
 		{
-			"I'm at the stone if someone needs a summon", -- [1]
-			"Jameskeef-Kazzak", -- [2]
+			"already did 15+ intoime with my main |cffffff00|Hachievement:11162:Player-612-080F7506:1:3:20:18:4294967295:4294967295:4294967295:4294967295|h[Schlüsselsteinmeister]|h|r", -- [1]
+			"Lecatrin-Destromath", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Jameskeef", -- [5]
+			"Lecatrin-Destromath", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			314, -- [11]
-			"Player-1305-09C27C8E", -- [12]
+			297, -- [11]
+			"Player-612-080F7506", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "Jameskeef",
-			[51] = 1530465370,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "Lecatrin-Destromath",
+			[51] = 1530912425,
+			[50] = "CHAT_MSG_WHISPER",
 		}, -- [99]
 		{
-			"jea me", -- [1]
-			"Shavôk-Blackrock", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Shavôk-Blackrock", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			315, -- [11]
-			"Player-581-07F53BAF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Shavôk-Blackrock",
-			[51] = 1530465382,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [100]
-		{
-			"ok but need one more", -- [1]
+			"hey", -- [1]
 			"Jameskeef-Kazzak", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -2234,7 +2212,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			316, -- [11]
+			300, -- [11]
 			"Player-1305-09C27C8E", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -2242,385 +2220,407 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "Jameskeef",
-			[51] = 1530465392,
+			[51] = 1530912469,
 			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [100]
+		{
+			"hi", -- [1]
+			"Carstén-Blackrock", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Carstén-Blackrock", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			301, -- [11]
+			"Player-581-080E97FB", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Carstén-Blackrock",
+			[51] = 1530912472,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [101]
 		{
-			"your at dalaran just move down and tp kara ", -- [1]
-			"Jakozaa-Hyjal", -- [2]
+			"I'm at the stone", -- [1]
+			"Jameskeef-Kazzak", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Jakozaa-Hyjal", -- [5]
+			"Jameskeef", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			317, -- [11]
-			"Player-1390-08CCC23A", -- [12]
+			302, -- [11]
+			"Player-1305-09C27C8E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "Jakozaa-Hyjal",
-			[51] = 1530465503,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "Jameskeef",
+			[51] = 1530912472,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [102]
 		{
-			"huuuunt ?", -- [1]
-			"Jakozaa-Hyjal", -- [2]
+			"lu", -- [1]
+			"Shunn-Shen'dralar", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Jakozaa-Hyjal", -- [5]
+			"Shunn-Shen'dralar", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			320, -- [11]
-			"Player-1390-08CCC23A", -- [12]
+			303, -- [11]
+			"Player-1379-091C7780", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "Jakozaa-Hyjal",
-			[51] = 1530465607,
+			[52] = "Shunn-Shen'dralar",
+			[51] = 1530912473,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [103]
 		{
-			"comming", -- [1]
-			"Shavôk-Blackrock", -- [2]
+			"omw", -- [1]
+			"Milczus-BurningLegion", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Shavôk-Blackrock", -- [5]
+			"Milczus-BurningLegion", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			321, -- [11]
-			"Player-581-07F53BAF", -- [12]
+			304, -- [11]
+			"Player-3713-0713FCE1", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "Shavôk-Blackrock",
-			[51] = 1530465617,
+			[52] = "Milczus-BurningLegion",
+			[51] = 1530912484,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [104]
 		{
-			"srys", -- [1]
-			"Shavôk-Blackrock", -- [2]
+			"omw", -- [1]
+			"Shunn-Shen'dralar", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Shavôk-Blackrock", -- [5]
+			"Shunn-Shen'dralar", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			322, -- [11]
-			"Player-581-07F53BAF", -- [12]
+			305, -- [11]
+			"Player-1379-091C7780", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "Shavôk-Blackrock",
-			[51] = 1530465618,
+			[52] = "Shunn-Shen'dralar",
+			[51] = 1530912491,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [105]
 		{
-			"go or me and dh leave", -- [1]
-			"Ræstsham-Hyjal", -- [2]
+			"ty", -- [1]
+			"Milczus-BurningLegion", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Ræstsham-Hyjal", -- [5]
+			"Milczus-BurningLegion", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			323, -- [11]
-			"Player-1390-09A811D9", -- [12]
+			307, -- [11]
+			"Player-3713-0713FCE1", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "Ræstsham-Hyjal",
-			[51] = 1530465636,
-			[50] = "CHAT_MSG_WHISPER",
+			[52] = "Milczus-BurningLegion",
+			[51] = 1530912692,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [106]
 		{
-			"Thunder Ritual on Jameskeef", -- [1]
-			"Jameskeef-Kazzak", -- [2]
+			"big pull??^^", -- [1]
+			"Cinthia-Blackrock", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Cinthia-Blackrock", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			310, -- [11]
+			"Player-581-079D7984", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Cinthia-Blackrock",
+			[51] = 1530912723,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [107]
+		{
+			"Binding Shot down!", -- [1]
+			"Milczus-BurningLegion", -- [2]
 			"Orcish", -- [3]
 			"", -- [4]
-			"Jameskeef", -- [5]
+			"Milczus-BurningLegion", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			337, -- [11]
+			"Player-3713-0713FCE1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Milczus-BurningLegion",
+			[51] = 1530913011,
+			[50] = "CHAT_MSG_SAY",
+		}, -- [108]
+		{
+			"br :D", -- [1]
+			"Carstén-Blackrock", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Carstén-Blackrock", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
 			352, -- [11]
-			"Player-1305-09C27C8E", -- [12]
+			"Player-581-080E97FB", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "Jameskeef",
-			[51] = 1530466016,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [107]
-		{
-			"Thunder Ritual on Jameskeef", -- [1]
-			"Jameskeef-Kazzak", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Jameskeef", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			355, -- [11]
-			"Player-1305-09C27C8E", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Jameskeef",
-			[51] = 1530466032,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [108]
-		{
-			"Thunder Ritual on Jameskeef", -- [1]
-			"Jameskeef-Kazzak", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Jameskeef", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			360, -- [11]
-			"Player-1305-09C27C8E", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Jameskeef",
-			[51] = 1530466049,
-			[50] = "CHAT_MSG_SAY",
+			[52] = "Carstén-Blackrock",
+			[51] = 1530913201,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [109]
 		{
-			"go", -- [1]
-			"Jakozaa-Hyjal", -- [2]
-			"", -- [3]
+			"Binding Shot down!", -- [1]
+			"Milczus-BurningLegion", -- [2]
+			"Orcish", -- [3]
 			"", -- [4]
-			"Jakozaa-Hyjal", -- [5]
+			"Milczus-BurningLegion", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			372, -- [11]
-			"Player-1390-08CCC23A", -- [12]
+			364, -- [11]
+			"Player-3713-0713FCE1", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "Jakozaa-Hyjal",
-			[51] = 1530466110,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "Milczus-BurningLegion",
+			[51] = 1530913384,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [110]
 		{
-			"go big pull", -- [1]
-			"Ræstsham-Hyjal", -- [2]
+			"sry :)", -- [1]
+			"Milczus-BurningLegion", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Ræstsham-Hyjal", -- [5]
+			"Milczus-BurningLegion", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			373, -- [11]
-			"Player-1390-09A811D9", -- [12]
+			381, -- [11]
+			"Player-3713-0713FCE1", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "Ræstsham-Hyjal",
-			[51] = 1530466110,
+			[52] = "Milczus-BurningLegion",
+			[51] = 1530913524,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [111]
 		{
-			"Interrupted |cff71d5ff|Hspell:227917:0|h[Reißerische Reime]|h|r on Geisterhafte Zweitbesetzung", -- [1]
-			"Shavôk-Blackrock", -- [2]
+			"^^", -- [1]
+			"Carstén-Blackrock", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Shavôk-Blackrock", -- [5]
+			"Carstén-Blackrock", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			376, -- [11]
-			"Player-581-07F53BAF", -- [12]
+			387, -- [11]
+			"Player-581-080E97FB", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "Shavôk-Blackrock",
-			[51] = 1530466120,
+			[52] = "Carstén-Blackrock",
+			[51] = 1530913544,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [112]
 		{
-			"full pull", -- [1]
-			"Ræstsham-Hyjal", -- [2]
+			"why", -- [1]
+			"Carstén-Blackrock", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Ræstsham-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			382, -- [11]
-			"Player-1390-09A811D9", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Ræstsham-Hyjal",
-			[51] = 1530466213,
-			[50] = "CHAT_MSG_WHISPER",
-		}, -- [113]
-		{
-			"!@#$", -- [1]
-			"Ræstsham-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Ræstsham-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			388, -- [11]
-			"Player-1390-09A811D9", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Ræstsham-Hyjal",
-			[51] = 1530466237,
-			[50] = "CHAT_MSG_WHISPER",
-		}, -- [114]
-		{
-			"go full pull for use cd pls", -- [1]
-			"Ræstsham-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Ræstsham-Hyjal", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			389, -- [11]
-			"Player-1390-09A811D9", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Ræstsham-Hyjal",
-			[51] = 1530466243,
-			[50] = "CHAT_MSG_WHISPER",
-		}, -- [115]
-		{
-			"...", -- [1]
-			"Ræstsham-Hyjal", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Ræstsham-Hyjal", -- [5]
+			"Carstén-Blackrock", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
 			390, -- [11]
-			"Player-1390-09A811D9", -- [12]
+			"Player-581-080E97FB", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "Ræstsham-Hyjal",
-			[51] = 1530466246,
-			[50] = "CHAT_MSG_WHISPER",
-		}, -- [116]
+			[52] = "Carstén-Blackrock",
+			[51] = 1530913557,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [113]
 		{
-			"here pull all", -- [1]
-			"Jakozaa-Hyjal", -- [2]
+			"wasnt lookingf at screen  sorry, wife disturbed", -- [1]
+			"Milczus-BurningLegion", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Jakozaa-Hyjal", -- [5]
+			"Milczus-BurningLegion", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			393, -- [11]
-			"Player-1390-08CCC23A", -- [12]
+			394, -- [11]
+			"Player-3713-0713FCE1", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "Jakozaa-Hyjal",
-			[51] = 1530466290,
+			[52] = "Milczus-BurningLegion",
+			[51] = 1530913580,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [114]
+		{
+			"okay np :)", -- [1]
+			"Carstén-Blackrock", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Carstén-Blackrock", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			395, -- [11]
+			"Player-581-080E97FB", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Carstén-Blackrock",
+			[51] = 1530913588,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [115]
+		{
+			":D", -- [1]
+			"Carstén-Blackrock", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Carstén-Blackrock", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			417, -- [11]
+			"Player-581-080E97FB", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Carstén-Blackrock",
+			[51] = 1530913784,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [116]
+		{
+			"sry for this slack", -- [1]
+			"Milczus-BurningLegion", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Milczus-BurningLegion", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			422, -- [11]
+			"Player-3713-0713FCE1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Milczus-BurningLegion",
+			[51] = 1530913820,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [117]
 		{
-			"hi", -- [1]
-			"Fentânyl-Archimonde", -- [2]
+			"np", -- [1]
+			"Carstén-Blackrock", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Fentânyl-Archimonde", -- [5]
+			"Carstén-Blackrock", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			438, -- [11]
-			"Player-1302-09B5C435", -- [12]
+			424, -- [11]
+			"Player-581-080E97FB", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "Fentânyl-Archimonde",
-			[51] = 1530466486,
+			[52] = "Carstén-Blackrock",
+			[51] = 1530913831,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [118]
 		{
-			"hey", -- [1]
+			"bb all ty", -- [1]
 			"Jameskeef-Kazzak", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -2630,7 +2630,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			439, -- [11]
+			428, -- [11]
 			"Player-1305-09C27C8E", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -2638,184 +2638,184 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "Jameskeef",
-			[51] = 1530466489,
+			[51] = 1530913863,
 			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [119]
 		{
-			"|cffffff00|Hachievement:11162:Player-3682-086B48BE:1:12:27:17:4294967295:4294967295:4294967295:4294967295|h[Keystone Master]|h|r", -- [1]
-			"Gardanile-Ragnaros", -- [2]
+			"|cffa335ee|Hitem:133634::::::::110:254::16:3:3536:1597:3336:::|h[Grasping Tentacle Loop]|h|r anybody", -- [1]
+			"Milczus-BurningLegion", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Gardanile-Ragnaros", -- [5]
+			"Milczus-BurningLegion", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			441, -- [11]
-			"Player-3682-086B48BE", -- [12]
+			429, -- [11]
+			"Player-3713-0713FCE1", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "Gardanile-Ragnaros",
-			[51] = 1530466505,
-			[50] = "CHAT_MSG_WHISPER",
+			[52] = "Milczus-BurningLegion",
+			[51] = 1530913866,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [120]
 		{
-			"|cffffff00|Hachievement:11162:Player-3682-086B48BE:1:12:27:17:4294967295:4294967295:4294967295:4294967295|h[Keystone Master]|h|r", -- [1]
-			"Gardanile-Ragnaros", -- [2]
+			"need?", -- [1]
+			"Carstén-Blackrock", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Gardanile-Ragnaros", -- [5]
+			"Carstén-Blackrock", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			456, -- [11]
-			"Player-3682-086B48BE", -- [12]
+			430, -- [11]
+			"Player-581-080E97FB", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "Gardanile-Ragnaros",
-			[51] = 1530466563,
-			[50] = "CHAT_MSG_WHISPER",
+			[52] = "Carstén-Blackrock",
+			[51] = 1530913867,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [121]
 		{
-			"oi", -- [1]
-			"Owlrightydên-TwistingNether", -- [2]
+			"?", -- [1]
+			"Milczus-BurningLegion", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Owlrightydên-TwistingNether", -- [5]
+			"Milczus-BurningLegion", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			465, -- [11]
-			"Player-3674-05B13CFC", -- [12]
+			431, -- [11]
+			"Player-3713-0713FCE1", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "Owlrightydên-TwistingNether",
-			[51] = 1530466587,
+			[52] = "Milczus-BurningLegion",
+			[51] = 1530913868,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [122]
 		{
-			"hey", -- [1]
-			"Jameskeef-Kazzak", -- [2]
+			"no", -- [1]
+			"Milczus-BurningLegion", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Jameskeef", -- [5]
+			"Milczus-BurningLegion", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			467, -- [11]
-			"Player-1305-09C27C8E", -- [12]
+			432, -- [11]
+			"Player-3713-0713FCE1", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "Jameskeef",
-			[51] = 1530466590,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "Milczus-BurningLegion",
+			[51] = 1530913870,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [123]
 		{
-			"are you going to dps?", -- [1]
-			"Rëx-Stormreaver", -- [2]
-			"Orcish", -- [3]
+			"ty", -- [1]
+			"Carstén-Blackrock", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Rëx-Stormreaver", -- [5]
+			"Carstén-Blackrock", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			484, -- [11]
-			"Player-3656-053D2EDC", -- [12]
+			433, -- [11]
+			"Player-581-080E97FB", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "Rëx-Stormreaver",
-			[51] = 1530466978,
-			[50] = "CHAT_MSG_WHISPER_INFORM",
+			[52] = "Carstén-Blackrock",
+			[51] = 1530913877,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [124]
 		{
-			"can dps or tank", -- [1]
-			"Rëx-Stormreaver", -- [2]
+			"nope thx", -- [1]
+			"Shunn-Shen'dralar", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Rëx-Stormreaver", -- [5]
+			"Shunn-Shen'dralar", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			485, -- [11]
-			"Player-3656-053D2EDC", -- [12]
+			434, -- [11]
+			"Player-1379-091C7780", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "Rëx-Stormreaver",
-			[51] = 1530466986,
-			[50] = "CHAT_MSG_WHISPER",
+			[52] = "Shunn-Shen'dralar",
+			[51] = 1530913878,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [125]
 		{
-			"go dps", -- [1]
-			"Rëx-Stormreaver", -- [2]
-			"Orcish", -- [3]
-			"", -- [4]
-			"Rëx-Stormreaver", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			486, -- [11]
-			"Player-3656-053D2EDC", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "Rëx-Stormreaver",
-			[51] = 1530466991,
-			[50] = "CHAT_MSG_WHISPER_INFORM",
-		}, -- [126]
-		{
-			"k", -- [1]
-			"Rëx-Stormreaver", -- [2]
+			"bb", -- [1]
+			"Shunn-Shen'dralar", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Rëx-Stormreaver", -- [5]
+			"Shunn-Shen'dralar", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			488, -- [11]
-			"Player-3656-053D2EDC", -- [12]
+			435, -- [11]
+			"Player-1379-091C7780", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "Rëx-Stormreaver",
-			[51] = 1530467005,
-			[50] = "CHAT_MSG_WHISPER",
+			[52] = "Shunn-Shen'dralar",
+			[51] = 1530913880,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [126]
+		{
+			"cya around lads", -- [1]
+			"Milczus-BurningLegion", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Milczus-BurningLegion", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			436, -- [11]
+			"Player-3713-0713FCE1", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "Milczus-BurningLegion",
+			[51] = 1530913881,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [127]
 	},
 }

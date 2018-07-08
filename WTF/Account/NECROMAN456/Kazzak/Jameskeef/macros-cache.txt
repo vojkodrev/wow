@@ -1,3 +1,9 @@
+VER 3 0100000000000008 "blackout trinket" "INV_MISC_QUESTIONMARK"
+#showtooltip blackout strike
+/use 13
+/use 14
+/cast blackout strike
+END
 VER 3 0100000000000004 "light mouse" "INV_MISC_QUESTIONMARK"
 #showtooltip
 /cast [@mouseover,harm][] Crackling Jade Lightning

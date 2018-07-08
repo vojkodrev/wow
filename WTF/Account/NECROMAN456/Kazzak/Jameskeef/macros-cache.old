@@ -4,6 +4,7 @@ VER 3 0100000000000004 "light mouse" "INV_MISC_QUESTIONMARK"
 END
 VER 3 0100000000000007 "paralysis mouse" "INV_MISC_QUESTIONMARK"
 #showtooltip
+/stopattack
 /cast [@mouseover,harm][] paralysis
 END
 VER 3 0100000000000003 "provoke mouse" "INV_MISC_QUESTIONMARK"
